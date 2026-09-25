@@ -14,10 +14,15 @@ Find and verify professional-development opportunities that are relevant to heal
 4. Do not infer missing values. Use `null` or an explicit "not listed" value when appropriate.
 5. Normalize each opportunity to the schema in `data/schema.md`.
 6. Deduplicate using stable official URLs and normalized titles.
-7. Mark past opportunities as expired or remove them when appropriate.
-8. Update `verification.last_verified` for opportunities that were actually checked.
+7. Apply the active-date rule: remove opportunities from `data/opportunities.json` once their relevant event date has fully passed. Do not leave completed events in the active dashboard.
+8. For multi-date opportunities, keep the record while at least one meaningful event date, application deadline, registration window, or submission deadline remains current. Remove it once all relevant dates/windows have passed.
+9. Update `verification.last_verified` for opportunities that were actually checked.
 9. Keep source facts separate from the Pathways relevance interpretation.
-10. Commit substantive changes to `main`.
+11. Commit substantive changes to `main`.
+
+## Active-date rule
+
+The active opportunity database is forward-looking. Completed events and fully closed opportunities should be removed from `data/opportunities.json`, not merely left visible with an old date. Historical records may be preserved elsewhere later if an archive is introduced.
 
 ## Quality rule
 
