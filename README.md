@@ -1,6 +1,30 @@
 # Pathways Professional Development Radar
 
-A professional-development discovery and tracking system for healthcare education, biomedical sciences, nursing education, public health, counseling, rehabilitation, health informatics, AI in healthcare, simulation, research, health-professions pathways, medical-school advising, K–12 health-care career exploration, pathway and bridge programs, student success, and professionalism.
+A professional-development discovery and tracking system for the Pathways team. It tracks healthcare education, biomedical sciences, nursing education, public health, counseling, rehabilitation, health informatics, AI in healthcare, simulation, research, health-professions pathways, medical-school advising, K–12 health-care career exploration, pathway and bridge programs, student success, and professionalism.
+
+## Start here
+
+**If you are not a developer, you only need these two places:**
+
+1. **Open the dashboard:** use the GitHub Pages site to search and filter opportunities.
+2. **Read [Start Here for Pathways](docs/START-HERE.md):** a plain-language guide to what this repository contains and where to look.
+
+You do **not** need to understand the code to use the radar.
+
+## What is where?
+
+| Folder / file | What it is | Who needs it |
+|---|---|---|
+| **Dashboard** | The searchable opportunity website | Everyone |
+| [docs/START-HERE.md](docs/START-HERE.md) | Plain-language orientation | Everyone |
+| [docs/USING-THE-RADAR.md](docs/USING-THE-RADAR.md) | How to search, verify, and use opportunities | Everyone |
+| [data/opportunities.json](data/opportunities.json) | Current active opportunities | Maintainers |
+| [data/source-registry.json](data/source-registry.json) | Trusted organizations/sites we monitor | Maintainers |
+| [data/schema.md](data/schema.md) | Technical data-field description | Developers/maintainers |
+| [docs/daily-radar-task.md](docs/daily-radar-task.md) | Daily maintenance rules | Maintainers/automation |
+| index.html, styles.css, app.js | Website code | Developers |
+
+**Simple rule:** start with the dashboard. If you want to understand the project, read `docs/START-HERE.md`. Ignore the code unless you are maintaining or developing the site.
 
 ## Core discovery domains
 
@@ -14,16 +38,6 @@ The radar explicitly tracks opportunities and resources related to:
 - Professionalism, professional readiness, ethics, coaching, mentoring, and learner development
 - Faculty, staff, program leadership, and student-success development
 - Biomedical sciences, public health, counseling, nursing, health informatics, AI, simulation, and research
-
-## V1
-
-- Structured opportunity database
-- Search and filters
-- Cost, format, geography, CE, and deadline fields
-- Pathways relevance notes
-- Official-source verification
-- GitHub Pages dashboard
-- Data model prepared for automated scanning
 
 ## Data principles
 
