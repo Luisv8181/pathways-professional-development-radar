@@ -32,6 +32,9 @@ The radar explicitly tracks opportunities and resources related to:
 3. Unknown values are null, not guesses.
 4. AI relevance notes are interpretation, not source fact.
 5. Duplicate events should be merged using stable source URLs and normalized titles.
+6. The active dashboard is forward-looking: completed opportunities are removed after their relevant dates/windows have passed.
+7. Multi-date opportunities remain active while a meaningful future event date, application deadline, registration window, or submission deadline remains open.
+8. Past events are not kept in the active opportunity feed just for historical completeness.
 
 ## Roadmap
 
