@@ -2,7 +2,11 @@
   {
     "id": "geisinger-ce",
     "organization": "Geisinger College of Health Sciences",
-    "scope": ["Clinical Education", "Interprofessional Education", "Healthcare Education"],
+    "scope": [
+      "Clinical Education",
+      "Interprofessional Education",
+      "Healthcare Education"
+    ],
     "official_url": "https://cce.geisinger.edu/",
     "priority": "high",
     "notes": "Local source for Geisinger continuing education and health-professions learning opportunities."
@@ -10,7 +14,11 @@
   {
     "id": "penn-state-health-education",
     "organization": "Penn State Health Education",
-    "scope": ["Health Professions Education", "Nursing Education", "Faculty Development"],
+    "scope": [
+      "Health Professions Education",
+      "Nursing Education",
+      "Faculty Development"
+    ],
     "official_url": "https://health-education.outreach.psu.edu/",
     "priority": "high",
     "notes": "Source for healthcare educator conferences, workshops, and professional-development programming."
@@ -18,7 +26,11 @@
   {
     "id": "aamc",
     "organization": "Association of American Medical Colleges",
-    "scope": ["Medical Education", "Faculty Development", "Health Professions Education"],
+    "scope": [
+      "Medical Education",
+      "Faculty Development",
+      "Health Professions Education"
+    ],
     "official_url": "https://www.aamc.org/",
     "priority": "high",
     "notes": "Source for medical education meetings, faculty-development programming, and academic medicine opportunities."
@@ -26,7 +38,11 @@
   {
     "id": "aacn",
     "organization": "American Association of Colleges of Nursing",
-    "scope": ["Nursing Education", "Competency-Based Education", "Faculty Development"],
+    "scope": [
+      "Nursing Education",
+      "Competency-Based Education",
+      "Faculty Development"
+    ],
     "official_url": "https://www.aacnnursing.org/",
     "priority": "high",
     "notes": "Source for nursing education workshops, conferences, leadership programs, and continuing professional development."
@@ -34,7 +50,12 @@
   {
     "id": "amia",
     "organization": "American Medical Informatics Association",
-    "scope": ["Health Informatics", "AI in Healthcare", "Biomedical Sciences", "Research"],
+    "scope": [
+      "Health Informatics",
+      "AI in Healthcare",
+      "Biomedical Sciences",
+      "Research"
+    ],
     "official_url": "https://amia.org/",
     "priority": "high",
     "notes": "Source for biomedical and health informatics meetings, AI, data, implementation science, and research opportunities."
@@ -42,7 +63,12 @@
   {
     "id": "apha",
     "organization": "American Public Health Association",
-    "scope": ["Public Health", "Population Health", "Community Health", "Health Equity"],
+    "scope": [
+      "Public Health",
+      "Population Health",
+      "Community Health",
+      "Health Equity"
+    ],
     "official_url": "https://www.apha.org/",
     "priority": "high",
     "notes": "Source for public-health meetings, research dissemination, workforce development, and community-health programming."
@@ -50,7 +76,11 @@
   {
     "id": "aca",
     "organization": "American Counseling Association",
-    "scope": ["Counseling", "Behavioral Health", "Counselor Education"],
+    "scope": [
+      "Counseling",
+      "Behavioral Health",
+      "Counselor Education"
+    ],
     "official_url": "https://www.counseling.org/",
     "priority": "high",
     "notes": "Source for counseling professional development, counselor education, advocacy, and sector events."
@@ -58,7 +88,11 @@
   {
     "id": "ahrq",
     "organization": "Agency for Healthcare Research and Quality",
-    "scope": ["Healthcare Quality", "Patient Safety", "Health Services Research"],
+    "scope": [
+      "Healthcare Quality",
+      "Patient Safety",
+      "Health Services Research"
+    ],
     "official_url": "https://www.ahrq.gov/",
     "priority": "high",
     "notes": "Source for healthcare quality, patient safety, implementation, evidence, and learning opportunities."
@@ -66,7 +100,12 @@
   {
     "id": "nih",
     "organization": "National Institutes of Health",
-    "scope": ["Biomedical Sciences", "Research", "Clinical Research", "AI in Healthcare"],
+    "scope": [
+      "Biomedical Sciences",
+      "Research",
+      "Clinical Research",
+      "AI in Healthcare"
+    ],
     "official_url": "https://www.nih.gov/",
     "priority": "high",
     "notes": "Source for biomedical research training, scientific meetings, funding-related learning, and research resources."
@@ -74,7 +113,12 @@
   {
     "id": "cdc",
     "organization": "Centers for Disease Control and Prevention",
-    "scope": ["Public Health", "Community Health", "Health Equity", "Workforce Development"],
+    "scope": [
+      "Public Health",
+      "Community Health",
+      "Health Equity",
+      "Workforce Development"
+    ],
     "official_url": "https://www.cdc.gov/",
     "priority": "high",
     "notes": "Source for public-health training, workforce resources, and population-health learning opportunities."
@@ -82,7 +126,12 @@
   {
     "id": "hrsa",
     "organization": "Health Resources and Services Administration",
-    "scope": ["Workforce Development", "Community Health", "Health Equity", "Healthcare Education"],
+    "scope": [
+      "Workforce Development",
+      "Community Health",
+      "Health Equity",
+      "Healthcare Education"
+    ],
     "official_url": "https://www.hrsa.gov/",
     "priority": "high",
     "notes": "Source for healthcare workforce, community health, underserved populations, and training opportunities."
@@ -90,7 +139,12 @@
   {
     "id": "samsha",
     "organization": "Substance Abuse and Mental Health Services Administration",
-    "scope": ["Behavioral Health", "Counseling", "Community Health", "Workforce Development"],
+    "scope": [
+      "Behavioral Health",
+      "Counseling",
+      "Community Health",
+      "Workforce Development"
+    ],
     "official_url": "https://www.samhsa.gov/",
     "priority": "high",
     "notes": "Source for behavioral-health training, workforce development, and community mental-health programming."
@@ -98,9 +152,70 @@
   {
     "id": "pa-department-of-health",
     "organization": "Pennsylvania Department of Health",
-    "scope": ["Public Health", "Community Health", "Health Equity"],
+    "scope": [
+      "Public Health",
+      "Community Health",
+      "Health Equity"
+    ],
     "official_url": "https://www.pa.gov/agencies/health",
     "priority": "high",
     "notes": "Local source for Pennsylvania public-health training, programs, and professional opportunities."
+  },
+  {
+    "id": "naahp",
+    "organization": "National Association of Advisors for the Health Professions",
+    "scope": [
+      "Health Professions Advising",
+      "Medical School Advising",
+      "Pathway Programs",
+      "Student Success",
+      "Professional Development"
+    ],
+    "official_url": "https://www.naahp.org/",
+    "priority": "high",
+    "notes": "Primary source for health-professions advising professional development, advisor workshops, conferences, fairs, webinars, and advising best practices."
+  },
+  {
+    "id": "aspbp",
+    "organization": "Association for STEMM Pathway and Bridge Programs",
+    "scope": [
+      "Pathway Programs",
+      "Bridge Programs",
+      "STEMM",
+      "Student Transitions",
+      "Student Success"
+    ],
+    "official_url": "https://www.naahp.org/",
+    "priority": "high",
+    "notes": "Track ASPBP events and resources for pathway and bridge program leaders, especially student transitions, program models, research, and practice."
+  },
+  {
+    "id": "hosa",
+    "organization": "HOSA – Future Health Professionals",
+    "scope": [
+      "K-12 Health Careers",
+      "Health Career Exploration",
+      "Student Leadership",
+      "Professionalism",
+      "Workforce Development"
+    ],
+    "official_url": "https://hosa.org/",
+    "priority": "high",
+    "notes": "Track middle-school and secondary health-care career preparation, competitive events, leadership, conferences, and advisor resources."
+  },
+  {
+    "id": "ama-changemeded",
+    "organization": "American Medical Association ChangeMedEd",
+    "scope": [
+      "Medical Education",
+      "Professionalism",
+      "Professional Development",
+      "Coaching",
+      "Competency-Based Education",
+      "Health Workforce"
+    ],
+    "official_url": "https://www.ama-assn.org/education/changemeded-initiative",
+    "priority": "high",
+    "notes": "Source for medical-education innovation, professional development, coaching, competency-based education, faculty training, and health-workforce learning."
   }
 ]
