@@ -416,5 +416,146 @@
       "last_verified": "2026-09-25",
       "verified_against": "Official ACA community announcement"
     }
+  },
+  {
+    "id": "aspbp-2026-virtual-conference",
+    "title": "2026 ASPBP Virtual Conference and Recruitment Fair",
+    "organization": "Association for STEMM Pathway and Bridge Programs",
+    "description": "Three-day virtual conference focused on student transitions and the success of pathway and bridge program students, with opportunities for learning, networking, and presentations.",
+    "categories": [
+      "Pathway Programs",
+      "Bridge Programs",
+      "Student Success",
+      "STEMM",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Student Transitions",
+      "Program Design",
+      "Research",
+      "Recruitment"
+    ],
+    "audiences": [
+      "Pathway Program Staff",
+      "Program Leaders",
+      "Advisors",
+      "Educators",
+      "Researchers"
+    ],
+    "date_display": "October 6–8, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Registration price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly focused on pathway and bridge programs, student transitions, program success, and professional learning for people who run or support these programs.",
+    "official_url": "https://www.naahp.org/2026-aspbp-virtual-conference-and-recruitment-fair",
+    "source_url": "https://www.naahp.org/calendar/event-description?CalendarEventKey=d67a13e7-62c3-45fc-8e13-019df9040046&Home=%2Fmember-resources%2Fonline-communities%2Fcommunity-home%2Frecent-community-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official NAAHP event listing for ASPBP"
+    }
+  },
+  {
+    "id": "ama-changemeded-cpd-2026",
+    "title": "Beyond CME: Reimagining Continuing Professional Development",
+    "organization": "American Medical Association ChangeMedEd",
+    "description": "Virtual ChangeMedEd webinar focused on rethinking continuing professional development across medical education.",
+    "categories": [
+      "Professionalism",
+      "Professional Development",
+      "Medical Education"
+    ],
+    "subcategories": [
+      "Continuing Professional Development",
+      "Faculty Development",
+      "Lifelong Learning"
+    ],
+    "audiences": [
+      "Medical Educators",
+      "Faculty",
+      "Healthcare Professionals",
+      "Program Leaders"
+    ],
+    "date_display": "October 20, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to professional development systems, lifelong learning, and how health-professions programs develop and sustain professional competencies.",
+    "official_url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts",
+    "source_url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AMA ChangeMedEd 2026 webinar listing"
+    }
+  },
+  {
+    "id": "aamc-learn-serve-lead-2026",
+    "title": "Learn Serve Lead 2026: The AAMC Annual Meeting",
+    "organization": "Association of American Medical Colleges",
+    "description": "AAMC annual meeting spanning academic medicine, medical education, research, workforce development, advocacy, and health care.",
+    "categories": [
+      "Medical Education",
+      "Professional Development",
+      "Medical School Advising",
+      "Pathway Programs",
+      "Research"
+    ],
+    "subcategories": [
+      "Academic Medicine",
+      "Faculty Development",
+      "Student Affairs",
+      "Medical Education"
+    ],
+    "audiences": [
+      "Medical Educators",
+      "Faculty",
+      "Academic Leaders",
+      "Student Affairs Professionals",
+      "Advisors",
+      "Researchers"
+    ],
+    "date_display": "November 6–10, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Anaheim, CA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Registration price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Broad academic-medicine professional development with medical education, advising, student affairs, workforce, and research content.",
+    "official_url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "source_url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AAMC Learn Serve Lead page"
+    }
   }
 ]
