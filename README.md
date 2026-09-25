@@ -1,6 +1,19 @@
 # Pathways Professional Development Radar
 
-A professional-development discovery and tracking system for healthcare education, biomedical sciences, nursing education, public health, counseling, rehabilitation, health informatics, AI in healthcare, simulation, research, and related health-professions pathways.
+A professional-development discovery and tracking system for healthcare education, biomedical sciences, nursing education, public health, counseling, rehabilitation, health informatics, AI in healthcare, simulation, research, health-professions pathways, medical-school advising, K–12 health-care career exploration, pathway and bridge programs, student success, and professionalism.
+
+## Core discovery domains
+
+The radar explicitly tracks opportunities and resources related to:
+
+- Health-professions and medical-school pathway programs
+- Premedical and health-professions advising
+- K–12 health-care career exploration, STEM pipelines, HOSA, and educator resources
+- Bridge, post-baccalaureate, enrichment, and student-transition programs
+- Medical education, curriculum, assessment, and competency-based education
+- Professionalism, professional readiness, ethics, coaching, mentoring, and learner development
+- Faculty, staff, program leadership, and student-success development
+- Biomedical sciences, public health, counseling, nursing, health informatics, AI, simulation, and research
 
 ## V1
 
