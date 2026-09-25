@@ -29,12 +29,13 @@ A professional-development discovery and tracking system for healthcare educatio
 - [x] GitHub Pages deployment
 
 ### Phase 2
-- [ ] Source registry
+- [x] Source registry
 - [ ] Automated discovery
 - [ ] Extraction and normalization
 - [ ] Deduplication
 - [ ] Expiration detection
 - [ ] Weekly digest generation
+- [x] Daily maintenance task
 
 ### Phase 3
 - [ ] Saved opportunities
@@ -43,6 +44,10 @@ A professional-development discovery and tracking system for healthcare educatio
 - [ ] Abstract/CFP tracking
 - [ ] Funding and reimbursement fields
 - [ ] Email/Slack digest
+
+## Daily maintenance
+
+The daily radar task reviews the source registry, checks official sources for new or changed opportunities, verifies current details, and updates the opportunity database when substantive changes are found. See [docs/daily-radar-task.md](docs/daily-radar-task.md).
 
 ## Disclaimer
 
