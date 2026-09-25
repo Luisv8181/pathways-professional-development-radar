@@ -25,6 +25,6 @@
 | source_url | string | Verification source |
 | verification.status | string | verified / needs_review / expired |
 | verification.last_verified | string | ISO date |
-| verification.verified_against | string | What was checked |
+| verification.verified_against | string | What was checked |\n\n## Recommended category vocabulary\n\nUse these discovery categories when applicable: `Pathway Programs`, `Medical School Advising`, `K-12 Health Careers`, `Health Professions Advising`, `Bridge Programs`, `Post-Baccalaureate`, `Student Success`, `Medical Education`, `Professionalism`, `Professional Readiness`, `Ethics`, `Coaching and Mentoring`, `Competency-Based Education`, `Faculty Development`, `Healthcare Education`, `Biomedical Sciences`, `Public Health`, `Nursing Education`, `Counseling`, `Health Informatics`, `AI in Healthcare`, `Simulation`, and `Research`.\n\nPathway records may serve students, advisors, educators, program staff, admissions professionals, faculty, or health-professions leaders. Professionalism should include professional identity formation, ethics, communication, accountability, relational skills, coaching, and readiness for health-professions training.
 
 Never invent missing prices or deadlines. Keep source facts separate from interpretation.
