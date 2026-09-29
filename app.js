@@ -330,6 +330,7 @@ window.addEventListener("hashchange", route);
     populateFilters();
     renderStats();
     applyFilters();
+    renderStudentCards();
   } catch (e) {
     console.error(e);
     $("opportunities").innerHTML = '<div class="empty"><strong>Couldn\'t load the opportunities.</strong>Please refresh, or tell the maintainer.</div>';
