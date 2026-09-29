@@ -217,5 +217,95 @@
     "official_url": "https://www.ama-assn.org/education/changemeded-initiative",
     "priority": "high",
     "notes": "Source for medical-education innovation, professional development, coaching, competency-based education, faculty training, and health-workforce learning."
+  },
+  {
+    "id": "nepa-ahec",
+    "organization": "Northeast Pennsylvania Area Health Education Center",
+    "scope": [
+      "K-12 Health Careers",
+      "Clinical Exposure",
+      "Scholarships",
+      "Northeastern PA"
+    ],
+    "official_url": "https://nepa-ahec.org/",
+    "priority": "high",
+    "notes": "Track Northeast Pennsylvania health-care career exploration, student programs, scholarships, and workforce pathways."
+  },
+  {
+    "id": "wilkes-explor",
+    "organization": "Wilkes University EXPLOR-NEPA",
+    "scope": [
+      "K-12 STEM",
+      "AI",
+      "Robotics",
+      "Northeastern PA"
+    ],
+    "official_url": "https://www.wilkes.edu/academics/mechanical-electrical-engineering/explor-nepa.aspx",
+    "priority": "high",
+    "notes": "Track Hazleton and Wilkes-Barre high-school AI, robotics, industry, dual-enrollment, stipend, and scholarship opportunities."
+  },
+  {
+    "id": "pct-health-student",
+    "organization": "Pennsylvania College of Technology",
+    "scope": [
+      "K-12 Health Careers",
+      "Anatomy",
+      "Competitions",
+      "Pennsylvania"
+    ],
+    "official_url": "https://www.pct.edu/academics/nhs/surgical-technology/compete-anatomage-tournament",
+    "priority": "high",
+    "notes": "Track high-school health-science competitions, anatomy learning, and healthcare career exposure."
+  },
+  {
+    "id": "upmc-hillman",
+    "organization": "UPMC Hillman Cancer Center Academy",
+    "scope": [
+      "K-12 Research",
+      "Biomedical Research",
+      "Summer Programs",
+      "Pennsylvania"
+    ],
+    "official_url": "https://hillmanacademy.upmc.com/",
+    "priority": "high",
+    "notes": "Track high-school biomedical research, mentorship, and summer academy opportunities."
+  },
+  {
+    "id": "upenn-precollege",
+    "organization": "University of Pennsylvania Pre-College Health Programs",
+    "scope": [
+      "K-12 Research",
+      "Pre-Health",
+      "College Readiness",
+      "Pennsylvania"
+    ],
+    "official_url": "https://www.med.upenn.edu/",
+    "priority": "high",
+    "notes": "Track verified high-school research, clinical exposure, pre-health, and college/career pathway programs at Penn."
+  },
+  {
+    "id": "drexel-precollege-health",
+    "organization": "Drexel University Health Pre-College Programs",
+    "scope": [
+      "K-12 Health Careers",
+      "Public Health",
+      "Pre-Health",
+      "Pennsylvania"
+    ],
+    "official_url": "https://drexel.edu/dornsife/academics/pre-college-programs/",
+    "priority": "high",
+    "notes": "Track high-school public-health, medicine, anatomy, and healthcare pathway programs."
+  },
+  {
+    "id": "penn-medicine-youth",
+    "organization": "Penn Medicine Youth Programs",
+    "scope": [
+      "K-12 Health Careers",
+      "Clinical Exposure",
+      "Pennsylvania"
+    ],
+    "official_url": "https://www.pennmedicine.org/",
+    "priority": "high",
+    "notes": "Track verified high-school clinical exposure and healthcare career exploration programs."
   }
 ]
