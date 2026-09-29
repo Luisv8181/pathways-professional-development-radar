@@ -37,7 +37,7 @@ The radar explicitly tracks opportunities and resources related to:
 
 - Health-professions and medical-school pathway programs
 - Premedical and health-professions advising
-- K–12 health-care career exploration, STEM pipelines, HOSA, student competitions, college readiness, and educator resources
+- K–12 health-care career exploration, STEM pipelines, HOSA, student competitions, research, clinical exposure, scholarships, summer programs, college/pre-health programs, and Pennsylvania/Northeastern PA opportunities
 - Bridge, post-baccalaureate, enrichment, and student-transition programs
 - Medical education, curriculum, assessment, and competency-based education
 - Professionalism, professional readiness, ethics, coaching, mentoring, and learner development
