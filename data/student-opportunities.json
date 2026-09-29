@@ -455,7 +455,7 @@
     "format": "In-person",
     "region": "Williamsport, PA",
     "cost": {
-      "amount": 0,
+      "amount": null,
       "currency": "USD",
       "display": "Price not listed"
     },
@@ -523,7 +523,7 @@
     "format": "In-person",
     "region": "Philadelphia, PA",
     "cost": {
-      "amount": 0,
+      "amount": null,
       "currency": "USD",
       "display": "Price not listed"
     },
@@ -622,7 +622,7 @@
     "format": "In-person",
     "region": "Philadelphia, PA",
     "cost": {
-      "amount": 0,
+      "amount": null,
       "currency": "USD",
       "display": "Price not listed"
     },
