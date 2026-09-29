@@ -254,5 +254,377 @@
       "last_verified": "2026-09-29",
       "verified_against": "Official HOSA 2026-2027 webinar listing"
     }
+  },
+  {
+    "id": "geisinger-aim-hi-2027",
+    "title": "Aspirations in Medicine and Healthcare Initiatives (AiM HI)",
+    "organization": "Geisinger",
+    "description": "One-day hands-on healthcare career exploration experience for students in grades 10-12. Northeast Region events are hosted annually in March at Wilkes University in Wilkes-Barre.",
+    "categories": [
+      "Clinical Exposure",
+      "Healthcare Careers",
+      "College/Pre-Health",
+      "Northeastern PA",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Grades 10-12",
+      "Students Exploring Healthcare Careers"
+    ],
+    "date_display": "March 2027 (annual Northeast Region event; exact date not posted)",
+    "format": "In-person",
+    "region": "Wilkes-Barre, PA",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "official_url": "https://www.geisinger.org/about-geisinger/volunteer/youth-volunteer-programs",
+    "source_url": "https://www.geisinger.org/about-geisinger/volunteer/youth-volunteer-programs",
+    "eligibility": "Grades 10-12. Participation is coordinated through local school districts; students register through a school or career counselor.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "geisinger-jvp-2027",
+    "title": "Junior Volunteer Program",
+    "organization": "Geisinger",
+    "description": "Structured summer service and healthcare-career exploration program combining volunteer service with interactive educational sessions at Geisinger sites including Scranton and Wilkes-Barre.",
+    "categories": [
+      "Clinical Exposure",
+      "Healthcare Careers",
+      "Northeastern PA",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Ages 15-18",
+      "Students Interested in Healthcare"
+    ],
+    "date_display": "Summer 2027 (annual program; 2027 application dates not posted)",
+    "format": "In-person",
+    "region": "Scranton / Wilkes-Barre, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://www.geisinger.org/about-geisinger/volunteer/youth-volunteer-programs",
+    "source_url": "https://www.geisinger.org/about-geisinger/volunteer/youth-volunteer-programs",
+    "eligibility": "High school students ages 15-18. The 2026 cycle required an application, references, essay, interview, orientation, 40 service hours, and 15 educational hours. 2027 dates and requirements should be confirmed when posted.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "geisinger-nhs-scholars-2027",
+    "title": "Nursing and Health Sciences Scholars Program",
+    "organization": "Geisinger",
+    "description": "Healthcare workforce scholarship pathway providing up to $40,000 in financial support for eligible students pursuing selected health careers, with a post-education work commitment to Geisinger.",
+    "categories": [
+      "Scholarships",
+      "College/Pre-Health",
+      "Healthcare Careers",
+      "Northeastern PA",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Future Healthcare Professionals"
+    ],
+    "date_display": "Current pathway; application timing not listed",
+    "format": "Program / Scholarship",
+    "region": "Pennsylvania",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Up to $40,000 in support"
+    },
+    "official_url": "https://jobs.geisinger.org/highschool",
+    "source_url": "https://jobs.geisinger.org/highschool",
+    "eligibility": "Available for students pursuing RN, LPN, Certified Medical Assistant, Respiratory Therapist, or Surgical Technologist pathways. A work commitment with Geisinger is required after education.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "nepa-ahec-rural-scholarship-2027",
+    "title": "NE PA AHEC Rural Health Scholarship",
+    "organization": "Northeast Pennsylvania Area Health Education Center",
+    "description": "$2,000 scholarship for high school seniors from Northeast Pennsylvania who plan to attend a two-year allied-health program at a college in the region.",
+    "categories": [
+      "Scholarships",
+      "College/Pre-Health",
+      "Healthcare Careers",
+      "Northeastern PA",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Seniors",
+      "Allied Health Students",
+      "Northeast Pennsylvania Students"
+    ],
+    "date_display": "2027 cycle; application deadline not listed",
+    "format": "Scholarship",
+    "region": "Northeastern Pennsylvania",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "$2,000 scholarship"
+    },
+    "official_url": "https://nepa-ahec.org/post.php?pid=167",
+    "source_url": "https://nepa-ahec.org/post.php?pid=167",
+    "eligibility": "High school seniors from Bradford, Lackawanna, Luzerne, Monroe, Pike, Sullivan, Susquehanna, Wayne, or Wyoming counties planning to attend a two-year allied-health program in the region.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "explor-nepa-2026-27",
+    "title": "EXPLOR-NEPA: AI, Robotics and Career Pathway",
+    "organization": "Wilkes University",
+    "description": "Free Northeast Pennsylvania pathway for Wilkes-Barre Area and Hazleton Area high school students in grades 9-12, with robotics, AI, industry exposure, dual-enrollment opportunities, stipends, and scholarships.",
+    "categories": [
+      "Summer Programs",
+      "Research & STEM",
+      "Scholarships",
+      "College/Pre-Health",
+      "Northeastern PA",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Grades 9-12",
+      "Hazleton Area Students",
+      "Wilkes-Barre Area Students"
+    ],
+    "date_display": "2026-2027 academic year; program dates vary",
+    "format": "Hybrid / In-person",
+    "region": "Hazleton / Wilkes-Barre, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free; stipends and scholarships available"
+    },
+    "official_url": "https://www.wilkes.edu/academics/mechanical-electrical-engineering/explor-nepa.aspx",
+    "source_url": "https://www.wilkes.edu/academics/mechanical-electrical-engineering/explor-nepa.aspx",
+    "eligibility": "Open to Wilkes-Barre Area and Hazleton Area high school students in grades 9-12. No prior robotics or AI experience is required.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "pct-anatomage-2027",
+    "title": "Anatomage Tournament",
+    "organization": "Pennsylvania College of Technology",
+    "description": "Team-based anatomy competition for high school, CTC, and CTE students using 3D Anatomage technology, with workshops, healthcare career exposure, and scholarships for top teams.",
+    "categories": [
+      "Competitions",
+      "Clinical Exposure",
+      "Healthcare Careers",
+      "College/Pre-Health",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "CTC Students",
+      "CTE Students",
+      "Teams of 3-4"
+    ],
+    "date_display": "March 4, 2027",
+    "format": "In-person",
+    "region": "Williamsport, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "official_url": "https://www.pct.edu/academics/nhs/surgical-technology/compete-anatomage-tournament",
+    "source_url": "https://www.pct.edu/academics/nhs/surgical-technology/compete-anatomage-tournament",
+    "eligibility": "High school, CTC, and CTE school teams of three or four students.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "upmc-hillman-2027",
+    "title": "UPMC Hillman Cancer Center Academy",
+    "organization": "UPMC Hillman Cancer Center",
+    "description": "Free 7-8 week summer research program for high school students, primarily rising juniors and seniors, with hands-on cancer research, mentorship, career preparation, and a final research presentation.",
+    "categories": [
+      "Summer Programs",
+      "Research",
+      "Clinical Exposure",
+      "College/Pre-Health",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Rising Juniors",
+      "Rising Seniors",
+      "Students Interested in Biomedical Research"
+    ],
+    "date_display": "June 14 – July 30, 2027",
+    "format": "In-person / Hybrid",
+    "region": "Pittsburgh, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://hillmanacademy.upmc.com/apply-now/",
+    "source_url": "https://hillmanacademy.upmc.com/apply-now/",
+    "eligibility": "High school students meeting the age requirements. Housing is not provided.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "upenn-pash-2027",
+    "title": "PASH Saturday Academy",
+    "organization": "University of Pennsylvania Perelman School of Medicine",
+    "description": "Four-Saturday research and dermatology academy for Philadelphia public and charter high-school students, with a pathway to apply for summer research internships.",
+    "categories": [
+      "Research",
+      "College/Pre-Health",
+      "Clinical Exposure",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Grades 10-12",
+      "Philadelphia Public and Charter School Students"
+    ],
+    "date_display": "Late February – March 2027 (four Saturdays)",
+    "format": "In-person",
+    "region": "Philadelphia, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "official_url": "https://dermatology.upenn.edu/training/t32-training/pash/pash-application-information/",
+    "source_url": "https://dermatology.upenn.edu/training/t32-training/pash/pash-application-information/",
+    "eligibility": "Sophomores, juniors, and seniors attending Philadelphia public or charter high schools. No prior research experience is required. Application opens October 2026 and closes January 2027.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "drexel-phila-public-health-2027",
+    "title": "PHILA Public Health Pre-College Program",
+    "organization": "Drexel University Dornsife School of Public Health",
+    "description": "One-week July pre-college program for high school juniors and seniors exploring public health, advocacy, policy, health administration, prevention, environment, and epidemiology.",
+    "categories": [
+      "Summer Programs",
+      "College/Pre-Health",
+      "Healthcare Careers",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Juniors",
+      "High School Seniors",
+      "Students Interested in Public Health"
+    ],
+    "date_display": "Summer 2027; one week in July (exact dates not posted)",
+    "format": "In-person",
+    "region": "Philadelphia, PA",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "2027 cost not listed"
+    },
+    "official_url": "https://drexel.edu/dornsife/academics/pre-college-programs/",
+    "source_url": "https://drexel.edu/dornsife/academics/pre-college-programs/",
+    "eligibility": "High school juniors and seniors. Students must commute to Drexel's Dornsife School of Public Health; 2027 registration information is expected in spring 2027.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "pennsylvania-hospital-junior-volunteer-2027",
+    "title": "Pennsylvania Hospital Junior Volunteer Program",
+    "organization": "Penn Medicine",
+    "description": "Summer junior-volunteer experience for ages 14-17 that provides behind-the-scenes exposure to healthcare professions.",
+    "categories": [
+      "Clinical Exposure",
+      "Healthcare Careers",
+      "College/Pre-Health",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "High School Students",
+      "Ages 14-17",
+      "Students Interested in Healthcare"
+    ],
+    "date_display": "Summer 2027; applications open February 1, 2027",
+    "format": "In-person",
+    "region": "Philadelphia, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://www.pennmedicine.org/volunteering/pennsylvania-hospital",
+    "source_url": "https://www.pennmedicine.org/volunteering/pennsylvania-hospital",
+    "eligibility": "Students ages 14-17. Penn Medicine states applications for Summer 2027 may begin February 1, 2027.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
+  },
+  {
+    "id": "upenn-summer-mentorship-2027",
+    "title": "Provost's Summer Mentorship Program",
+    "organization": "University of Pennsylvania",
+    "description": "Four-week summer college and career preparatory program for Philadelphia rising 10th and 11th graders, with career exploration through Penn professional-school partners including medicine, nursing, engineering, law, and dentistry.",
+    "categories": [
+      "Summer Programs",
+      "College/Pre-Health",
+      "Career Exploration",
+      "Pennsylvania"
+    ],
+    "audiences": [
+      "Philadelphia High School Students",
+      "Rising 10th Graders",
+      "Rising 11th Graders"
+    ],
+    "date_display": "Summer 2027; applications open January 2027",
+    "format": "In-person",
+    "region": "Philadelphia, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "official_url": "https://vpse.upenn.edu/smp/apply/",
+    "source_url": "https://vpse.upenn.edu/smp/apply/",
+    "eligibility": "Students currently in 9th or 10th grade who attend a Philadelphia high school and have at least a 3.0 GPA. The 2027 application cycle begins in January 2027.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official organization program page"
+    }
   }
 ]
