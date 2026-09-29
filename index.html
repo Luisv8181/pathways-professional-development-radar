@@ -81,12 +81,34 @@
     <header class="hero small">
       <p class="eyebrow">Student Pathways</p>
       <h1>Explore healthcare<br>before college.</h1>
-      <p class="lede">High-school opportunities for health-care career exploration, HOSA, competitions, college readiness, and exposure to health professions.</p>
+      <p class="lede">High-school opportunities for career exploration, clinical exposure, research, competitions, scholarships, HOSA, and college preparation.</p>
       <div class="hero-stats" id="studentStats" aria-live="polite"></div>
     </header>
+    <div class="toolbar student-toolbar">
+      <div class="searchbox">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg>
+        <input id="studentSearch" type="search" placeholder="Search programs, careers, locations" autocomplete="off" aria-label="Search high school opportunities">
+      </div>
+      <div class="row selects">
+        <label class="select"><span>Category</span><select id="studentCategory"><option value="">All categories</option></select></label>
+        <label class="select"><span>Region</span><select id="studentRegion"><option value="">Anywhere</option></select></label>
+        <label class="select"><span>Format</span><select id="studentFormat"><option value="">Any format</option></select></label>
+      </div>
+      <div class="chips student-chips" role="group" aria-label="Student opportunity filters">
+        <button type="button" class="chip student-chip" data-student-filter="Summer Programs" aria-pressed="false">Summer</button>
+        <button type="button" class="chip student-chip" data-student-filter="Clinical Exposure" aria-pressed="false">Clinical exposure</button>
+        <button type="button" class="chip student-chip" data-student-filter="HOSA" aria-pressed="false">HOSA</button>
+        <button type="button" class="chip student-chip" data-student-filter="Research" aria-pressed="false">Research</button>
+        <button type="button" class="chip student-chip" data-student-filter="Scholarships" aria-pressed="false">Scholarships</button>
+        <button type="button" class="chip student-chip" data-student-filter="Competitions" aria-pressed="false">Competitions</button>
+        <button type="button" class="chip student-chip" data-student-filter="College/Pre-Health" aria-pressed="false">College / pre-health</button>
+        <button type="button" class="chip student-chip" data-student-filter="Northeastern PA" aria-pressed="false">Northeastern PA</button>
+        <button type="button" class="chip student-chip" data-student-filter="Pennsylvania" aria-pressed="false">Pennsylvania</button>
+      </div>
+    </div>
     <div class="results-head">
       <h2>High school opportunities</h2>
-      <div><span id="studentResultCount"></span></div>
+      <div><span id="studentResultCount"></span><button type="button" class="link" id="studentClear" hidden>Clear filters</button></div>
     </div>
     <div id="studentOpportunities" class="grid"></div>
   </section>
