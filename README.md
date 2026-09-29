@@ -2,6 +2,10 @@
 
 A professional-development discovery and tracking system for the Pathways team. It tracks healthcare education, biomedical sciences, nursing education, public health, counseling, rehabilitation, health informatics, AI in healthcare, simulation, research, health-professions pathways, medical-school advising, K–12 health-care career exploration, pathway and bridge programs, student success, and professionalism.
 
+## Live dashboard
+
+**Live dashboard:** https://luisv8181.github.io/pathways-professional-development-radar/
+
 ## Start here
 
 **If you are not a developer, you only need these two places:**
