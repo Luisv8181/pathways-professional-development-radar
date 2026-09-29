@@ -1,5 +1,5 @@
 const $ = id => document.getElementById(id);
-const state = { all: [], format: "", docs: {} };
+const state = { all: [], students: [], format: "", docs: {} };
 
 const DOCS = {
   start: "docs/START-HERE.md",
@@ -107,6 +107,38 @@ function applyFilters() {
   });
   $("clear").hidden = isDefault(f);
   renderCards(list);
+}
+
+/* ---------- Student section ---------- */
+
+function renderStudentCards() {
+  const list = state.students;
+  $("studentResultCount").textContent = list.length + (list.length === 1 ? " opportunity" : " opportunities");
+  $("studentStats").innerHTML = [[list.length,"Opportunities"],[list.filter(x => x.cost?.amount === 0).length,"Free"],[list.filter(x => x.format === "Online").length,"Online"]].map(([n,l]) => `<div><strong>${n}</strong><span>${l}</span></div>`).join("");
+  $("studentOpportunities").innerHTML = list.map((x,i) => `<button type="button" class="card" data-student-i="${i}" aria-haspopup="dialog">
+    <p class="date">${esc(x.date_display || "Date not listed")}</p>
+    <h3>${esc(x.title)}</h3>
+    <p class="org">${esc(x.organization)}</p>
+    <div class="badges"><span class="badge blue">High school</span><span class="badge green">Free</span></div>
+    <div class="facts"><span><b>${esc(x.cost?.display || "Price not listed")}</b></span><span>${esc(x.format || "Format unknown")} · ${esc(x.region || "Location varies")}</span></div>
+  </button>`).join("");
+}
+
+function openStudentSheet(x) {
+  const verified = x.verification?.last_verified ? `Verified ${esc(x.verification.last_verified)} against ${esc(x.verification.verified_against || "the official source")}` : "Not yet verified";
+  $("sheetBody").innerHTML = `<button type="button" class="close" aria-label="Close">&times;</button>
+    <h2>${esc(x.title)}</h2><p class="org">${esc(x.organization)}</p>
+    <div class="badges" style="margin:0 0 18px"><span class="badge blue">High school</span><span class="badge green">Free</span></div>
+    <p>${esc(x.description || "")}</p>
+    <dl class="dl">
+      <div><dt>Date</dt><dd>${esc(x.date_display || "Not listed")}</dd></div>
+      <div><dt>Who it's for</dt><dd>${esc((x.audiences || []).join(", ") || "Not listed")}</dd></div>
+      <div><dt>Eligibility</dt><dd>${esc(x.eligibility || "Check official source")}</dd></div>
+      <div><dt>Format</dt><dd>${esc(x.format || "Unknown")}</dd></div>
+      <div><dt>Location</dt><dd>${esc(x.region || "Varies")}</dd></div>
+    </dl>
+    <div class="sheet-actions"><a class="btn" href="${esc(x.official_url)}" target="_blank" rel="noopener noreferrer">Open official page</a><span class="verified">${verified}</span></div>`;
+  $("sheet").showModal();
 }
 
 /* ---------- Cards + sheet ---------- */
@@ -238,12 +270,13 @@ function renderSources(list) {
 
 function route() {
   const [view, sub] = location.hash.replace("#", "").split("/");
-  const name = ["radar", "guide", "sources"].includes(view) ? view : "radar";
+  const name = ["radar", "students", "guide", "sources"].includes(view) ? view : "radar";
   document.querySelectorAll(".view").forEach(v => { v.hidden = v.dataset.view !== name; });
   document.querySelectorAll("[data-nav]").forEach(a => {
     if (a.dataset.nav === name) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
   });
   if (name === "guide") showDoc(sub);
+  if (name === "students") renderStudentCards();
   window.scrollTo(0, 0);
 }
 
@@ -275,6 +308,7 @@ $("clear").addEventListener("click", () => {
   ["fFree", "fCe", "fCfp", "fRel"].forEach(id => setPressed($(id), false));
   applyFilters();
 });
+$("studentOpportunities").addEventListener("click", e => { const c=e.target.closest(".card"); if(c) openStudentSheet(state.students[+c.dataset.studentI]); });
 $("opportunities").addEventListener("click", e => {
   const c = e.target.closest(".card");
   if (c) openSheet(state.all[+c.dataset.i]);
@@ -292,6 +326,7 @@ window.addEventListener("hashchange", route);
   route();
   try {
     state.all = await getJson("data/opportunities.json");
+    state.students = await getJson("data/student-opportunities.json");
     populateFilters();
     renderStats();
     applyFilters();
