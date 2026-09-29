@@ -22,7 +22,8 @@ You do **not** need to understand the code to use the radar.
 | **Dashboard** | The searchable opportunity website | Everyone |
 | [docs/START-HERE.md](docs/START-HERE.md) | Plain-language orientation | Everyone |
 | [docs/USING-THE-RADAR.md](docs/USING-THE-RADAR.md) | How to search, verify, and use opportunities | Everyone |
-| [data/opportunities.json](data/opportunities.json) | Current active opportunities | Maintainers |
+| [data/opportunities.json](data/opportunities.json) | Current professional-development opportunities | Maintainers |
+| [data/student-opportunities.json](data/student-opportunities.json) | Current high-school student opportunities | Maintainers |
 | [data/source-registry.json](data/source-registry.json) | Trusted organizations/sites we monitor | Maintainers |
 | [data/schema.md](data/schema.md) | Technical data-field description | Developers/maintainers |
 | [docs/daily-radar-task.md](docs/daily-radar-task.md) | Daily maintenance rules | Maintainers/automation |
@@ -36,7 +37,7 @@ The radar explicitly tracks opportunities and resources related to:
 
 - Health-professions and medical-school pathway programs
 - Premedical and health-professions advising
-- K–12 health-care career exploration, STEM pipelines, HOSA, and educator resources
+- K–12 health-care career exploration, STEM pipelines, HOSA, student competitions, college readiness, and educator resources
 - Bridge, post-baccalaureate, enrichment, and student-transition programs
 - Medical education, curriculum, assessment, and competency-based education
 - Professionalism, professional readiness, ethics, coaching, mentoring, and learner development
@@ -81,7 +82,7 @@ The radar explicitly tracks opportunities and resources related to:
 
 ## Daily maintenance
 
-The daily radar task reviews the source registry, checks official sources for new or changed opportunities, verifies current details, and updates the opportunity database when substantive changes are found. See [docs/daily-radar-task.md](docs/daily-radar-task.md).
+The daily radar task reviews the source registry, checks official sources for new or changed opportunities, verifies current details, and updates the professional and student opportunity feeds when substantive changes are found. Student opportunities are maintained separately so the professional-development feed remains focused on staff, faculty, and program leaders. See [docs/daily-radar-task.md](docs/daily-radar-task.md).
 
 ## Disclaimer
 
