@@ -111,93 +111,44 @@ function applyFilters() {
 
 /* ---------- Student section ---------- */
 
+const studentState = { category: "", region: "", format: "", q: "", quick: "" };
+
+function populateStudentFilters() {
+  const uniq = f => [...new Set(state.students.flatMap(f).filter(Boolean))].sort();
+  addOptions($("studentCategory"), uniq(x => x.categories || []));
+  addOptions($("studentRegion"), uniq(x => [x.region]));
+  addOptions($("studentFormat"), uniq(x => [x.format]));
+}
+
+function studentMatches(x) {
+  const hay = [x.title,x.organization,x.description,x.region,x.format,...(x.categories||[]),...(x.audiences||[])].join(" ").toLowerCase();
+  if (studentState.q && !studentState.q.split(/\s+/).every(t => hay.includes(t))) return false;
+  if (studentState.category && !(x.categories||[]).includes(studentState.category)) return false;
+  if (studentState.region && x.region !== studentState.region) return false;
+  if (studentState.format && x.format !== studentState.format) return false;
+  if (studentState.quick && !(x.categories||[]).includes(studentState.quick)) return false;
+  return true;
+}
+
 function renderStudentCards() {
-  const list = state.students;
+  const list = state.students.filter(studentMatches).sort((a,b) => startTime(a)-startTime(b));
   $("studentResultCount").textContent = list.length + (list.length === 1 ? " opportunity" : " opportunities");
-  $("studentStats").innerHTML = [[list.length,"Opportunities"],[list.filter(x => x.cost?.amount === 0).length,"Free"],[list.filter(x => x.format === "Online").length,"Online"]].map(([n,l]) => `<div><strong>${n}</strong><span>${l}</span></div>`).join("");
-  $("studentOpportunities").innerHTML = list.map((x,i) => `<button type="button" class="card" data-student-i="${i}" aria-haspopup="dialog">
-    <p class="date">${esc(x.date_display || "Date not listed")}</p>
-    <h3>${esc(x.title)}</h3>
-    <p class="org">${esc(x.organization)}</p>
-    <div class="badges"><span class="badge blue">High school</span><span class="badge green">Free</span></div>
-    <div class="facts"><span><b>${esc(x.cost?.display || "Price not listed")}</b></span><span>${esc(x.format || "Format unknown")} · ${esc(x.region || "Location varies")}</span></div>
-  </button>`).join("");
+  $("studentStats").innerHTML = [[state.students.length,"Opportunities"],[state.students.filter(x=>x.cost?.amount===0).length,"Free"],[state.students.filter(x=>(x.categories||[]).includes("Northeastern PA")).length,"NEPA"],[state.students.filter(x=>(x.categories||[]).includes("Research")).length,"Research"]].map(([n,l]) => `<div><strong>${n}</strong><span>${l}</span></div>`).join("");
+  const active = studentState.q || studentState.category || studentState.region || studentState.format || studentState.quick;
+  $("studentClear").hidden = !active;
+  $("studentOpportunities").innerHTML = list.length ? list.map(x => {
+    const i = state.students.indexOf(x);
+    return `<button type="button" class="card" data-student-i="${i}" aria-haspopup="dialog"><p class="date">${esc(x.date_display||"Date not listed")}</p><h3>${esc(x.title)}</h3><p class="org">${esc(x.organization)}</p><div class="badges"><span class="badge blue">High school</span>${x.cost?.amount===0?'<span class="badge green">Free</span>':''}${(x.categories||[]).includes("Northeastern PA")?'<span class="badge">NEPA</span>':''}</div><div class="facts"><span><b>${esc(x.cost?.display||"Price not listed")}</b></span><span>${esc(x.format||"Format unknown")} · ${esc(x.region||"Location varies")}</span></div></button>`;
+  }).join("") : '<div class="empty"><strong>Nothing matches.</strong>Try another category, region, or search.</div>';
 }
 
 function openStudentSheet(x) {
-  const verified = x.verification?.last_verified ? `Verified ${esc(x.verification.last_verified)} against ${esc(x.verification.verified_against || "the official source")}` : "Not yet verified";
-  $("sheetBody").innerHTML = `<button type="button" class="close" aria-label="Close">&times;</button>
-    <h2>${esc(x.title)}</h2><p class="org">${esc(x.organization)}</p>
-    <div class="badges" style="margin:0 0 18px"><span class="badge blue">High school</span><span class="badge green">Free</span></div>
-    <p>${esc(x.description || "")}</p>
-    <dl class="dl">
-      <div><dt>Date</dt><dd>${esc(x.date_display || "Not listed")}</dd></div>
-      <div><dt>Who it's for</dt><dd>${esc((x.audiences || []).join(", ") || "Not listed")}</dd></div>
-      <div><dt>Eligibility</dt><dd>${esc(x.eligibility || "Check official source")}</dd></div>
-      <div><dt>Format</dt><dd>${esc(x.format || "Unknown")}</dd></div>
-      <div><dt>Location</dt><dd>${esc(x.region || "Varies")}</dd></div>
-    </dl>
-    <div class="sheet-actions"><a class="btn" href="${esc(x.official_url)}" target="_blank" rel="noopener noreferrer">Open official page</a><span class="verified">${verified}</span></div>`;
+  const arr = v => (v||[]).length ? v.map(esc).join(", ") : "Not listed";
+  const verified = x.verification?.last_verified ? `Verified ${esc(x.verification.last_verified)} against ${esc(x.verification.verified_against||"the official source")}` : "Not yet verified";
+  $("sheetBody").innerHTML = `<button type="button" class="close" aria-label="Close">&times;</button><h2>${esc(x.title)}</h2><p class="org">${esc(x.organization)}</p><div class="badges" style="margin:0 0 18px"><span class="badge blue">High school</span>${x.cost?.amount===0?'<span class="badge green">Free</span>':''}</div><p>${esc(x.description||"")}</p><dl class="dl"><div><dt>Date</dt><dd>${esc(x.date_display||"Not listed")}</dd></div><div><dt>Format</dt><dd>${esc(x.format||"Unknown")}</dd></div><div><dt>Location</dt><dd>${esc(x.region||"Varies")}</dd></div><div><dt>Cost</dt><dd>${esc(x.cost?.display||"Price not listed")}</dd></div><div style="grid-column:1/-1;border-right:0"><dt>Categories</dt><dd>${arr(x.categories)}</dd></div><div style="grid-column:1/-1;border-right:0"><dt>Who it's for</dt><dd>${arr(x.audiences)}</dd></div><div style="grid-column:1/-1;border-right:0"><dt>Eligibility</dt><dd>${esc(x.eligibility||"Not listed")}</dd></div></dl><div class="sheet-actions"><a class="btn" href="${esc(x.official_url)}" target="_blank" rel="noopener noreferrer">Open official page</a><span class="verified">${verified}</span></div>`;
   $("sheet").showModal();
 }
 
-/* ---------- Cards + sheet ---------- */
-
-function badgesFor(x) {
-  const b = [];
-  if (x.pathways_relevance === "high") b.push('<span class="badge blue">Pathways relevant</span>');
-  if (x.cost?.amount === 0) b.push('<span class="badge green">Free</span>');
-  if (x.ce_available) b.push('<span class="badge green">CE credit</span>');
-  if (x.abstract_or_cfp) b.push('<span class="badge amber">Call for abstracts</span>');
-  return b.join("");
-}
-
-function renderCards(list) {
-  $("resultCount").textContent = list.length + (list.length === 1 ? " opportunity" : " opportunities");
-  const root = $("opportunities");
-  if (!list.length) {
-    root.innerHTML = '<div class="empty"><strong>Nothing matches.</strong>Try a broader search or clear a filter.</div>';
-    return;
-  }
-  root.innerHTML = list.map(x => {
-    const i = state.all.indexOf(x);
-    return `<button type="button" class="card" data-i="${i}" aria-haspopup="dialog">
-      <p class="date">${esc(x.date_display || "Date not listed")}</p>
-      <h3>${esc(x.title)}</h3>
-      <p class="org">${esc(x.organization)}</p>
-      <div class="badges">${badgesFor(x)}</div>
-      <div class="facts"><span><b>${esc(x.cost?.display || "Price not listed")}</b></span><span>${esc(x.format || "Format unknown")} · ${esc(x.region || "Location varies")}</span></div>
-    </button>`;
-  }).join("");
-}
-
-function openSheet(x) {
-  const chips = arr => (arr || []).length ? arr.map(esc).join(", ") : "Not listed";
-  const verified = x.verification?.last_verified
-    ? `Verified ${esc(x.verification.last_verified)} against ${esc(x.verification.verified_against || "the official source")}`
-    : "Not yet verified";
-  $("sheetBody").innerHTML = `
-    <button type="button" class="close" aria-label="Close">&times;</button>
-    <h2>${esc(x.title)}</h2>
-    <p class="org">${esc(x.organization)}</p>
-    <div class="badges" style="margin:0 0 18px">${badgesFor(x)}</div>
-    <p>${esc(x.description || "")}</p>
-    <dl class="dl">
-      <div><dt>Date</dt><dd>${esc(x.date_display || "Not listed")}</dd></div>
-      <div><dt>Deadline</dt><dd>${esc(x.registration_deadline || "Not listed")}</dd></div>
-      <div><dt>Cost</dt><dd>${esc(x.cost?.display || "Price not listed")}</dd></div>
-      <div><dt>Format</dt><dd>${esc(x.format || "Unknown")}</dd></div>
-      <div><dt>Location</dt><dd>${esc(x.region || "Varies")}</dd></div>
-      <div><dt>Credit</dt><dd>${x.ce_available ? chips(x.ce_types) : "None listed"}</dd></div>
-      <div style="grid-column:1/-1;border-right:0"><dt>Who it's for</dt><dd>${chips(x.audiences)}</dd></div>
-    </dl>
-    <div class="why"><b>WHY IT MATTERS FOR PATHWAYS</b>${esc(x.pathways_reason || "Relevance assessment pending.")}<small>Our interpretation, not the organizer's claim.</small></div>
-    <div class="sheet-actions">
-      <a class="btn" href="${esc(x.official_url)}" target="_blank" rel="noopener noreferrer">Open official page</a>
-      <span class="verified">${verified}</span>
-    </div>`;
-  $("sheet").showModal();
-}
 
 /* ---------- Guide (renders the repo's markdown docs) ---------- */
 
@@ -309,6 +260,12 @@ $("clear").addEventListener("click", () => {
   applyFilters();
 });
 $("studentOpportunities").addEventListener("click", e => { const c=e.target.closest(".card"); if(c) openStudentSheet(state.students[+c.dataset.studentI]); });
+$("studentSearch").addEventListener("input", e => { studentState.q=e.target.value.trim().toLowerCase(); renderStudentCards(); });
+$("studentCategory").addEventListener("change", e => { studentState.category=e.target.value; renderStudentCards(); });
+$("studentRegion").addEventListener("change", e => { studentState.region=e.target.value; renderStudentCards(); });
+$("studentFormat").addEventListener("change", e => { studentState.format=e.target.value; renderStudentCards(); });
+document.querySelectorAll(".student-chip").forEach(b => b.addEventListener("click", () => { const on=b.getAttribute("aria-pressed")==="true"; document.querySelectorAll(".student-chip").forEach(x=>x.setAttribute("aria-pressed","false")); studentState.quick=on?"":b.dataset.studentFilter; if(!on)b.setAttribute("aria-pressed","true"); renderStudentCards(); }));
+$("studentClear").addEventListener("click", () => { Object.keys(studentState).forEach(k=>studentState[k]=""); $("studentSearch").value=""; $("studentCategory").value=""; $("studentRegion").value=""; $("studentFormat").value=""; document.querySelectorAll(".student-chip").forEach(x=>x.setAttribute("aria-pressed","false")); renderStudentCards(); });
 $("opportunities").addEventListener("click", e => {
   const c = e.target.closest(".card");
   if (c) openSheet(state.all[+c.dataset.i]);
@@ -328,6 +285,7 @@ window.addEventListener("hashchange", route);
     state.all = await getJson("data/opportunities.json");
     state.students = await getJson("data/student-opportunities.json");
     populateFilters();
+    populateStudentFilters();
     renderStats();
     applyFilters();
     renderStudentCards();
