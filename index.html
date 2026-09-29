@@ -1,1 +1,115 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Professional development radar for healthcare education, health-professions pathways, medical-school advising, K–12 health-care career exploration, pathway programs, and professional development."><title>Pathways Professional Development Radar</title><link rel="stylesheet" href="styles.css"></head><body><header class="topbar"><div class="brand"><div class="brand-mark">P</div><div><div class="eyebrow">PATHWAYS</div><h1>Professional Development Radar</h1></div></div><div class="verified-pill"><span></span> Source-aware</div></header><main><section class="hero"><div><p class="eyebrow">HEALTH PROFESSIONS · EDUCATION · RESEARCH</p><h2>Find opportunities worth acting on.</h2><p class="hero-copy">A living database for conferences, workshops, courses, continuing education, calls for abstracts, and professional-development opportunities relevant to the Pathways team.</p></div><div class="hero-stat"><strong id="heroCount">0</strong><span>tracked opportunities</span></div></section><section class="stats" id="stats"></section><section class="controls"><div class="search-wrap"><label for="search">Search</label><input id="search" type="search" placeholder="Search topics, organizations, or opportunities…"></div><div><label for="category">Category</label><select id="category"><option value="">All categories</option></select></div><div><label for="format">Format</label><select id="format"><option value="">All formats</option></select></div><div><label for="cost">Cost</label><select id="cost"><option value="">Any cost</option><option value="free">Free</option><option value="under100">Under $100</option><option value="under250">Under $250</option></select></div><div><label for="region">Region</label><select id="region"><option value="">Any location</option></select></div><label class="check"><input id="ce" type="checkbox"> CE available</label><label class="check"><input id="cfp" type="checkbox"> CFP / abstract</label></section><section class="section-heading"><div><p class="eyebrow">DISCOVERY</p><h3>Opportunities</h3></div><span id="resultCount"></span></section><section id="opportunities" class="grid"></section></main><footer><span>Pathways Professional Development Radar</span><span>Verify current details at the official source before acting.</span></footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="A searchable, source-verified list of professional-development opportunities for the Pathways team: healthcare education, pathway programs, advising, research, and more.">
+<meta name="color-scheme" content="light dark">
+<title>Pathways Radar</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230071e3'/%3E%3Ccircle cx='16' cy='16' r='3' fill='white'/%3E%3Ccircle cx='16' cy='16' r='8' fill='none' stroke='white' stroke-width='1.6' opacity='.7'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<nav class="nav" aria-label="Primary">
+  <div class="nav-inner">
+    <a class="nav-brand" href="#radar">
+      <span class="logo" aria-hidden="true"></span>Pathways Radar
+    </a>
+    <div class="nav-links">
+      <a href="#radar" data-nav="radar">Radar</a>
+      <a href="#guide" data-nav="guide">Guide</a>
+      <a href="#sources" data-nav="sources">Sources</a>
+    </div>
+  </div>
+</nav>
+
+<main id="main">
+
+  <section class="view" id="view-radar" data-view="radar">
+    <header class="hero">
+      <p class="eyebrow">Pathways Professional Development</p>
+      <h1>Find what's worth<br>your time.</h1>
+      <p class="lede">Conferences, courses, and calls for abstracts in health education, checked against the official source.</p>
+      <div class="hero-stats" id="stats" aria-live="polite"></div>
+    </header>
+
+    <div class="toolbar" id="toolbar">
+      <div class="searchbox">
+        <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg>
+        <input id="search" type="search" placeholder="Search topics, organizations, audiences" autocomplete="off" aria-label="Search opportunities">
+      </div>
+
+      <div class="row">
+        <div class="segmented" id="formatSeg" role="group" aria-label="Format">
+          <button type="button" data-format="" aria-pressed="true">All</button>
+          <button type="button" data-format="In-person" aria-pressed="false">In person</button>
+          <button type="button" data-format="Online" aria-pressed="false">Online</button>
+          <button type="button" data-format="Hybrid" aria-pressed="false">Hybrid</button>
+        </div>
+        <div class="chips" role="group" aria-label="Quick filters">
+          <button type="button" class="chip" id="fFree" aria-pressed="false">Free</button>
+          <button type="button" class="chip" id="fCe" aria-pressed="false">CE credit</button>
+          <button type="button" class="chip" id="fCfp" aria-pressed="false">Call for abstracts</button>
+          <button type="button" class="chip" id="fRel" aria-pressed="false">Pathways relevant</button>
+        </div>
+      </div>
+
+      <div class="row selects">
+        <label class="select"><span>Topic</span><select id="category"><option value="">All topics</option></select></label>
+        <label class="select"><span>Location</span><select id="region"><option value="">Anywhere</option></select></label>
+        <label class="select"><span>Sort</span>
+          <select id="sort">
+            <option value="date">Soonest first</option>
+            <option value="relevance">Most relevant</option>
+            <option value="cost">Lowest cost</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <div class="results-head">
+      <h2>Opportunities</h2>
+      <div><span id="resultCount"></span><button type="button" class="link" id="clear" hidden>Clear filters</button></div>
+    </div>
+    <div id="opportunities" class="grid"></div>
+  </section>
+
+  <section class="view" id="view-guide" data-view="guide" hidden>
+    <header class="hero small">
+      <p class="eyebrow">Guide</p>
+      <h1>Everything you need,<br>nothing you don't.</h1>
+      <p class="lede">No GitHub or coding knowledge required.</p>
+    </header>
+    <div class="segmented center" id="guideSeg" role="tablist" aria-label="Guide pages">
+      <button type="button" role="tab" data-doc="start" aria-selected="true">Start here</button>
+      <button type="button" role="tab" data-doc="using" aria-selected="false">Using the radar</button>
+      <button type="button" role="tab" data-doc="maintain" aria-selected="false">Maintaining</button>
+    </div>
+    <article class="prose" id="doc" tabindex="-1"></article>
+  </section>
+
+  <section class="view" id="view-sources" data-view="sources" hidden>
+    <header class="hero small">
+      <p class="eyebrow">Sources</p>
+      <h1>Where the radar looks.</h1>
+      <p class="lede">Trusted organizations checked daily. Official pages are always the final word on dates, prices, and deadlines.</p>
+    </header>
+    <div id="sourceGrid" class="grid sources"></div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>Prices, dates, CE eligibility, and deadlines can change. Verify details at the official source before registering or submitting.</p>
+  <p><a href="https://github.com/Luisv8181/pathways-professional-development-radar" target="_blank" rel="noopener noreferrer">View on GitHub</a></p>
+</footer>
+
+<dialog id="sheet" aria-label="Opportunity details">
+  <div class="sheet-body" id="sheetBody"></div>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
