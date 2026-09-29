@@ -1,27 +1,1196 @@
 [
-  {"id":"geisinger-parenti-2026","title":"Annual Dr. Parenti Lectureship Limb Salvage Conference 2026","organization":"Geisinger College of Health Sciences","description":"Hybrid educational activity focused on limb salvage, team-based care, new technology, and research in Charcot neuroarthropathy.","categories":["Biomedical Sciences","Clinical Education","Interprofessional Education"],"subcategories":["Orthopedics","Podiatry","Technology","Research"],"audiences":["Faculty","Medical Students","Residents","Fellows","Advanced Practitioners"],"date_display":"October 2, 2026","registration_deadline":null,"format":"Hybrid","region":"Scranton, PA","distance_miles":0,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["AMA PRA Category 1 CME","Participation Credit"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Local Geisinger educational activity with interdisciplinary clinical education, research, technology, and team-based-care content.","official_url":"https://cce.geisinger.edu/content/annual-dr-parenti-lectureship-limb-salvage-conference-2026","source_url":"https://cce.geisinger.edu/content/annual-dr-parenti-lectureship-limb-salvage-conference-2026","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official Geisinger CE page"}},
-  {"id":"geisinger-echo-2026","title":"Ultrasound ECHO Skills Stations 2026","organization":"Geisinger College of Health Sciences","description":"In-person hands-on POCUS and bedside echocardiography training using didactic instruction and live-model scanning practice.","categories":["Clinical Education","Biomedical Sciences","Nursing Education"],"subcategories":["POCUS","Critical Care","Skills Training"],"audiences":["Physicians","PAs","NPs","Nurses","Respiratory Therapists"],"date_display":"October 26, 2026","registration_deadline":null,"format":"In-person","region":"Scranton, PA","distance_miles":0,"cost":{"amount":350,"currency":"USD","display":"$350"},"ce_available":true,"ce_types":["AAPA Category I CME","AMA PRA Category 1 CME","ANCC","Participation Credit"],"abstract_or_cfp":false,"pathways_relevance":"medium","pathways_reason":"Useful example of local interdisciplinary clinical-skills education and hands-on simulation-style learning.","official_url":"https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026","source_url":"https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official Geisinger CE page"}},
-  {"id":"psu-strategies-2026","title":"Strategies: Educational Excellence for Health Care Providers and Educators","organization":"Penn State","description":"Two-day conference for healthcare professionals and educators across Pennsylvania, with interactive sessions, networking, nursing professional development, and Act 48 credit.","categories":["Health Professions Education","Nursing Education","Faculty Development"],"subcategories":["Teaching","Curriculum","Professional Development"],"audiences":["Healthcare Educators","Faculty","Nurses","Program Coordinators","Healthcare Professionals"],"date_display":"November 12–13, 2026","registration_deadline":"October 21, 2026 regular registration","format":"In-person","region":"State College, PA","distance_miles":150,"cost":{"amount":450,"currency":"USD","display":"$375 team / $450 regular"},"ce_available":true,"ce_types":["8.5 PSNA hours","8.5 Act 48 hours"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Directly focused on healthcare education and educator development, with a team-registration option relevant to a professional-development budget.","official_url":"https://health-education.outreach.psu.edu/register/","source_url":"https://health-education.outreach.psu.edu/","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official Penn State conference and registration pages"}},
-  {"id":"amia-symposium-2026","title":"AMIA 2026 Annual Symposium","organization":"American Medical Informatics Association","description":"Five-day biomedical and health informatics meeting covering clinical informatics, translational and clinical research informatics, AI, LLMs, clinical decision support, implementation science, and governance.","categories":["Health Informatics","AI in Healthcare","Biomedical Sciences","Research"],"subcategories":["Clinical Informatics","AI","Data","Implementation Science"],"audiences":["Informaticians","Clinicians","Researchers","Educators","Healthcare Leaders","Trainees"],"date_display":"November 7–11, 2026","registration_deadline":"October 5, 2026 advanced registration","format":"In-person","region":"Dallas, TX","distance_miles":null,"cost":{"amount":1140,"currency":"USD","display":"$1,140 professional member advanced; $685 student/trainee member"},"ce_available":true,"ce_types":["Up to 24.75 AMA PRA Category 1 CME"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Strong fit for health informatics, biomedical AI, learning health systems, research, and cross-disciplinary healthcare education.","official_url":"https://amia.org/education-events/amia-2026-annual-symposium","source_url":"https://amia.org/education-events/amia-2026-annual-symposium/registration","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official AMIA symposium and registration pages"}},
-  {"id":"apha-annual-2026","title":"2026 APHA Annual Meeting & Expo","organization":"American Public Health Association","description":"Large public health meeting bringing together public health professionals and partners for education, networking, research, and presentations.","categories":["Public Health","Research","Population Health"],"subcategories":["Community Health","Population Health","Research"],"audiences":["Public Health Professionals","Researchers","Educators","Healthcare Professionals"],"date_display":"November 1–4, 2026","registration_deadline":null,"format":"Hybrid","region":"San Antonio, TX","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":false,"ce_types":[],"abstract_or_cfp":true,"pathways_relevance":"high","pathways_reason":"Relevant to population health, community health, health equity, research dissemination, and public-health workforce development.","official_url":"https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo","source_url":"https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official APHA event page"}},
-  {"id":"aacn-rn-bsn-2026","title":"Reimagining RN-Baccalaureate Programs Through Competency-Based Education","organization":"American Association of Colleges of Nursing","description":"Interactive virtual workshop on implementing the AACN Essentials through competency-based education, experiential learning, progression indicators, and assessment.","categories":["Nursing Education","Health Professions Education"],"subcategories":["Competency-Based Education","Curriculum","Assessment"],"audiences":["Nursing Faculty","Program Leaders","Educators"],"date_display":"November 3–4, 2026","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":99,"currency":"USD","display":"$99 AACN member / $199 non-member"},"ce_available":true,"ce_types":["Nursing continuing professional development"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Useful for curriculum design, competency-based education, experiential learning, and health-professions pathway program development.","official_url":"https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26","source_url":"https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26/registration","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official AACN workshop and registration pages"}},
-  {"id":"aacn-cbe-2026","title":"CBE Workshop Series: Foundations and Practice","organization":"American Association of Colleges of Nursing","description":"Two-day virtual workshop series covering competency-based education foundations, curriculum design, assessment, and implementation strategies.","categories":["Nursing Education","Health Professions Education"],"subcategories":["Competency-Based Education","Curriculum","Assessment"],"audiences":["Nursing Faculty","Educators","Program Leaders"],"date_display":"November 18–19, 2026","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":249,"currency":"USD","display":"$249 AACN member / $349 non-member for both days"},"ce_available":true,"ce_types":["Up to 7.5 Nursing Continuing Professional Development CEUs"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Directly applicable to building measurable educational pathways, competency frameworks, assessment systems, and curriculum progression.","official_url":"https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26","source_url":"https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official AACN workshop page"}},
-  {"id":"aacn-transform-2026","title":"Transform 2026","organization":"American Association of Colleges of Nursing","description":"Conference for faculty and leaders shaping the future of academic nursing, with leadership and education programming.","categories":["Nursing Education","Leadership","Faculty Development"],"subcategories":["Academic Nursing","Leadership","Education"],"audiences":["Faculty","Nursing Leaders","Deans","Program Leaders"],"date_display":"December 3–5, 2026","registration_deadline":"November 4, 2026 early registration ends","format":"In-person","region":"Indianapolis, IN","distance_miles":null,"cost":{"amount":699,"currency":"USD","display":"$699 AACN member early / $899 non-member early"},"ce_available":true,"ce_types":["Nursing continuing professional development"],"abstract_or_cfp":false,"pathways_relevance":"medium","pathways_reason":"Relevant to academic nursing leadership, faculty development, and health-professions education strategy.","official_url":"https://www.aacnnursing.org/transform/registration","source_url":"https://www.aacnnursing.org/transform/registration","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official AACN Transform registration page"}},
-  {"id":"aca-advocacy-power-hour-oct-2026","title":"ACA Advocacy Power Hour","organization":"American Counseling Association","description":"Virtual professional and policy discussion with federal and state updates and attendee roundtable discussion.","categories":["Counseling","Behavioral Health","Professional Development"],"subcategories":["Counseling","Advocacy","Policy"],"audiences":["Counselors","Counselor Educators","Behavioral Health Professionals"],"date_display":"October 15, 2026 at 3:00 PM ET","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"No fee listed"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"medium","pathways_reason":"Provides a low-barrier counseling-sector learning and networking opportunity with state and federal updates.","official_url":"https://community.counseling.org/browse/announcements","source_url":"https://community.counseling.org/browse/announcements","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official ACA community announcement"}},
-  {"id":"aspbp-2026-virtual-conference","title":"2026 ASPBP Virtual Conference and Recruitment Fair","organization":"Association for STEMM Pathway and Bridge Programs","description":"Three-day virtual conference focused on student transitions and the success of pathway and bridge program students, with opportunities for learning, networking, and presentations.","categories":["Pathway Programs","Bridge Programs","Student Success","STEMM","Professional Development"],"subcategories":["Student Transitions","Program Design","Research","Recruitment"],"audiences":["Pathway Program Staff","Program Leaders","Advisors","Educators","Researchers"],"date_display":"October 6–8, 2026","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Registration price not listed"},"ce_available":false,"ce_types":[],"abstract_or_cfp":true,"pathways_relevance":"high","pathways_reason":"Directly focused on pathway and bridge programs, student transitions, program success, and professional learning for people who run or support these programs.","official_url":"https://aspbp.org/","source_url":"https://aspbp.org/updates","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official ASPBP site and event updates"}},
-  {"id":"ama-changemeded-cpd-2026","title":"Beyond CME: Reimagining Continuing Professional Development","organization":"American Medical Association ChangeMedEd","description":"Virtual ChangeMedEd webinar focused on rethinking continuing professional development across medical education.","categories":["Professionalism","Professional Development","Medical Education"],"subcategories":["Continuing Professional Development","Faculty Development","Lifelong Learning"],"audiences":["Medical Educators","Faculty","Healthcare Professionals","Program Leaders"],"date_display":"October 20, 2026","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Directly relevant to professional development systems, lifelong learning, and how health-professions programs develop and sustain professional competencies.","official_url":"https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts","source_url":"https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official AMA ChangeMedEd 2026 webinar listing"}},
-  {"id":"aamc-learn-serve-lead-2026","title":"Learn Serve Lead 2026: The AAMC Annual Meeting","organization":"Association of American Medical Colleges","description":"AAMC annual meeting spanning academic medicine, medical education, research, workforce development, advocacy, and health care.","categories":["Medical Education","Professional Development","Medical School Advising","Pathway Programs","Research"],"subcategories":["Academic Medicine","Faculty Development","Student Affairs","Medical Education"],"audiences":["Medical Educators","Faculty","Academic Leaders","Student Affairs Professionals","Advisors","Researchers"],"date_display":"November 6–10, 2026","registration_deadline":null,"format":"In-person","region":"Anaheim, CA","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Registration price not listed"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Broad academic-medicine professional development with medical education, advising, student affairs, workforce, and research content.","official_url":"https://www.aamc.org/learn-network/learn-serve-lead","source_url":"https://www.aamc.org/learn-network/learn-serve-lead","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official AAMC Learn Serve Lead page"}},
-  {"id":"scranton-us-conference-disability-2026","title":"25th Annual U.S. Conference on DISABILITY","organization":"The University of Scranton","description":"Daylong conference focused on disability inclusion and careers, honoring the legacy of Edward R. Leahy, Jr., with programming on transforming barriers into opportunities.","categories":["Disability","Rehabilitation","Counseling","Professional Development","Health Professions Education"],"subcategories":["Disability Inclusion","Employment","Career Development","Rehabilitation","Health Equity"],"audiences":["Educators","Healthcare Professionals","Students","Families","Advocates","Rehabilitation Professionals","Program Staff"],"date_display":"October 7, 2026, 7:45 AM–approximately 4:30 PM","registration_deadline":null,"format":"In-person","region":"Scranton, PA","distance_miles":0,"cost":{"amount":0,"currency":"USD","display":"Free"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Local conference with direct relevance to disability inclusion, rehabilitation, career development, health equity, and professional pathways for people working with students and healthcare populations.","official_url":"https://www.scranton.edu/disabilityconference","source_url":"https://news.scranton.edu/articles/2026/08/news-calndr-fall-2026.shtml","verification":{"status":"verified","last_verified":"2026-09-25","verified_against":"Official University of Scranton event calendar and conference announcement"}},
-  {"id":"lvhn-innovations-education-2026","title":"Innovations in Education 2026","organization":"Lehigh Valley Health Network / Jefferson Health","description":"Interdisciplinary healthcare education activity focused on new education delivery methods and learner engagement, including AI, accessibility, simulation, art therapy, and professional development coaching.","categories":["Healthcare Education","AI in Healthcare","Simulation","Professional Development","Accessibility"],"subcategories":["AI in Education","Universal Design","Neuroinclusion","Simulation","Coaching"],"audiences":["Educators","Healthcare Professionals","Researchers","Behavioral Health Professionals","Allied Health Professionals","Program Leaders"],"date_display":"October 1, 2026, 8:00 AM–4:45 PM","registration_deadline":null,"format":"In-person","region":"Center Valley, PA","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["AMA PRA Category 1 CME 6.25 hours","ACPE 6.25 hours","ANCC Nursing Continuing Professional Development 6.25 hours","Social Worker CEUs 6.25 hours","Non-Physician Attendance 6.25 hours"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Directly relevant to healthcare education, AI-enabled teaching, accessibility, neuroinclusion, simulation, coaching, and learner engagement.","official_url":"https://jefferson-lehigh.cloud-cme.com/course/courseoverview?EID=14458&P=0","source_url":"https://jefferson-lehigh.cloud-cme.com/course/courseoverview?EID=14458&P=0","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official Lehigh Valley Health Network continuing education page"}},
-  {"id":"jefferson-intelligent-teaching-2026","title":"Intelligent Teaching: AI in Health Professions Education","organization":"Thomas Jefferson University","description":"Live national virtual conference for health professions educators, scholars, and innovators focused on practical AI competencies for teaching, learning, and institutional effectiveness.","categories":["AI in Healthcare","Healthcare Education","Medical Education","Faculty Development","Health Informatics"],"subcategories":["AI in Education","Curriculum","Assessment","Educational Innovation"],"audiences":["Health Professions Educators","Faculty","Scholars","Educational Innovators","Program Leaders"],"date_display":"October 6–7, 2026","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Direct match for healthcare education, AI integration, curriculum, assessment, and faculty/program development; especially relevant to digital learning and pathway-program innovation.","official_url":"https://events.aihealthed.org/","source_url":"https://www.jefferson.edu/academics/colleges-schools-institutes/population-health/leadership-workforce-development.html","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official Thomas Jefferson University event listing"}},
-  {"id":"commonwealth-cmhc-virtual-2026","title":"5th Annual Clinical Mental Health Counseling Virtual Conference","organization":"Commonwealth University of Pennsylvania","description":"Virtual counseling conference, “Context Matters: Counseling in Changing Times,” with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.","categories":["Counseling","Behavioral Health","Professional Development","Healthcare Education"],"subcategories":["Clinical Mental Health Counseling","Counselor Education","Supervision","Continuing Education"],"audiences":["Counseling Students","Clinical Professionals","Supervisors","Counselor Educators","Healthcare Professionals"],"date_display":"October 16, 2026, 9:00 AM–4:00 PM ET","registration_deadline":"October 9, 2026 at 5:00 PM ET","format":"Online","region":"Online","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Small fee; exact amount not listed"},"ce_available":true,"ce_types":["Up to 7 CE credits"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Strong counseling and counselor-education fit with accessible online participation and CE; relevant to behavioral-health workforce development and professional preparation.","official_url":"https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference","source_url":"https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official Commonwealth University event page"}},
-  {"id":"desales-ai-healthcare-2026","title":"Leading with Intelligence: AI Across the Healthcare Continuum","organization":"DeSales University","description":"Continuing education conference examining AI in clinical decision-making, leadership, healthcare practice, and education, with regional healthcare and academic speakers.","categories":["AI in Healthcare","Healthcare Education","Professional Development","Health Informatics","Rehabilitation"],"subcategories":["AI in Education","AI in Clinical Care","Healthcare Leadership","Digital Ethics"],"audiences":["Physicians","Nurses","Advanced Practitioners","Therapists","Educators","Healthcare Leaders","Administrators"],"date_display":"November 7, 2026","registration_deadline":null,"format":"In-person","region":"Center Valley, PA","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["CME credits available"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Highly relevant to AI in healthcare education and workforce preparation, including AI teaching, digital ethics, leadership, and interdisciplinary health-professions education.","official_url":"https://www.desales.edu/beyond-the-classroom/pt-continuing-education","source_url":"https://www.desales.edu/beyond-the-classroom/pt-continuing-education","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official DeSales University continuing education page"}},
-  {"id":"aamc-virtual-med-school-fair-oct-2026","title":"AAMC Virtual Medical School Fair","organization":"Association of American Medical Colleges","description":"Free virtual fair connecting aspiring medical students with medical school admissions representatives, AAMC experts, advisors, and live information sessions.","categories":["Medical School Advising","Pathway Programs","Student Success","Professional Readiness"],"subcategories":["Admissions","Premedical Advising","Medical School Exploration","Application Readiness"],"audiences":["Aspiring Medical Students","Prehealth Advisors","Pathway Program Staff","Medical School Admissions Professionals","Students"],"date_display":"October 27–28, 2026, 11:00 AM–6:00 PM ET","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":0,"currency":"USD","display":"Free"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Directly supports medical-school advising and pathway programming through admissions access, application guidance, school exploration, and direct interaction with admissions representatives.","official_url":"https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd","source_url":"https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official AAMC Virtual Medical School Fair page"}},
-  {"id":"ponl-annual-nursing-leadership-2026","title":"PONL Annual Nursing Leadership Conference","organization":"Pennsylvania Organization of Nurse Leaders","description":"Pennsylvania nursing leadership conference for professional development, leadership practice, networking, and contemporary healthcare issues.","categories":["Nursing Education","Faculty Development","Healthcare Education","Workforce Development"],"subcategories":["Nursing Leadership","Professional Development","Healthcare Workforce"],"audiences":["Nurse Leaders","Nurse Educators","Healthcare Leaders","Program Leaders"],"date_display":"October 1–2, 2026","registration_deadline":null,"format":"In-person","region":"Harrisburg, PA","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["Up to 11.5 nursing professional development contact hours"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Pennsylvania nursing leadership and workforce-development opportunity relevant to academic-practice partnerships, educator development, and healthcare pathway leadership.","official_url":"https://ponl.org/","source_url":"https://ponl.org/","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official PONL conference information"}},
-  {"id":"pachc-annual-clinical-2026","title":"PACHC Annual Conference & Clinical Summit","organization":"Pennsylvania Association of Community Health Centers","description":"Pennsylvania community-health conference combining workforce, primary care, community health, health equity, clinical education, and current healthcare issues.","categories":["Community Health","Public Health","Health Equity","Workforce Development","Healthcare Education"],"subcategories":["Community Health Centers","Primary Care","Health Workforce","Health Equity","Healthcare Innovation"],"audiences":["Community Health Professionals","Clinicians","Educators","Healthcare Leaders","Program Staff"],"date_display":"October 13–15, 2026","registration_deadline":null,"format":"In-person","region":"Lancaster, PA","distance_miles":null,"cost":{"amount":600,"currency":"USD","display":"$600/person for 1–5 registrants (members); $570 for 6–15; $540 for 16–25; $1,100 non-member"},"ce_available":true,"ce_types":["10.5 CE credits"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Directly connected to community health, health equity, healthcare workforce development, and Pennsylvania community-based care.","official_url":"https://www.pachc.org/","source_url":"https://www.pachc.org/","verification":{"status":"verified","last_verified":"2026-09-29","verified_against":"Official PACHC conference information"}},
-  {"id":"pacnp-annual-educational-2026","title":"PA Coalition of Nurse Practitioners Annual Educational Conference","organization":"PA Coalition of Nurse Practitioners","description":"Pennsylvania nurse-practitioner education conference with clinical, leadership, and professional-development content, including emerging healthcare technology.","categories":["Nursing Education","Healthcare Education","Professional Development","AI in Healthcare"],"subcategories":["Nurse Practitioner Education","Leadership","Clinical Practice","Healthcare Technology"],"audiences":["Nurse Practitioners","Nursing Educators","Healthcare Professionals","Program Leaders"],"date_display":"October 15–17, 2026","registration_deadline":null,"format":"In-person","region":"Erie, PA","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["Up to 20 CEUs"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Useful Pennsylvania nursing education and workforce-development opportunity with contemporary healthcare technology content.","official_url":"https://panp.org/","source_url":"https://panp.org/","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official PA Coalition of Nurse Practitioners conference information"}},
-  {"id":"ppa-fall-conference-2026","title":"Pennsylvania Psychological Association Virtual Fall Conference","organization":"Pennsylvania Psychological Association","description":"Virtual psychology professional-development conference with live educational sessions and continuing education, including contemporary practice topics.","categories":["Counseling","Behavioral Health","Professional Development","Ethics"],"subcategories":["Psychology","Behavioral Health","Ethics","Professional Practice"],"audiences":["Psychologists","Behavioral Health Professionals","Educators","Students"],"date_display":"October 16, 2026","registration_deadline":null,"format":"Online","region":"Online","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["Up to 8 live CE credits"],"abstract_or_cfp":false,"pathways_relevance":"medium","pathways_reason":"Relevant to behavioral-health professional development and continuing education, with an accessible online format for Pennsylvania professionals.","official_url":"https://www.papsy.org/","source_url":"https://www.papsy.org/","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official Pennsylvania Psychological Association conference information"}},
-  {"id":"ppa-ethics-educators-2026","title":"PPA Ethics Educators' Conference","organization":"Pennsylvania Psychological Association","description":"Professional-development conference focused on ethics education, professional safety, inclusive practice, and ethical decision-making.","categories":["Ethics","Professional Development","Counseling","Behavioral Health"],"subcategories":["Ethics Education","Professional Practice","Inclusive Practice"],"audiences":["Psychologists","Counselor Educators","Behavioral Health Educators","Professional Development Leaders"],"date_display":"October 23, 2026","registration_deadline":null,"format":"In-person","region":"Mechanicsburg, PA","distance_miles":null,"cost":{"amount":null,"currency":"USD","display":"Price not listed"},"ce_available":true,"ce_types":["6 CE credits"],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Relevant to professional readiness, ethics education, inclusive practice, and preparation of behavioral-health professionals.","official_url":"https://www.papsy.org/","source_url":"https://www.papsy.org/","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official Pennsylvania Psychological Association conference information"}},
-  {"id":"misericordia-healthcare-symposium-2026","title":"Healthcare Symposium: Connected Care","organization":"Misericordia University","description":"Regional healthcare symposium focused on education, innovation, prevention, community health, and healthcare delivery.","categories":["Healthcare Education","Community Health","Professional Development","Workforce Development"],"subcategories":["Connected Care","Health Innovation","Prevention","Regional Workforce"],"audiences":["Healthcare Professionals","Educators","Students","Community Health Professionals","Program Staff"],"date_display":"October 23, 2026","registration_deadline":null,"format":"In-person","region":"Dallas, PA","distance_miles":null,"cost":{"amount":25,"currency":"USD","display":"$25"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"high","pathways_reason":"Low-cost regional opportunity aligned with healthcare education, innovation, prevention, community health, and workforce development in Northeastern Pennsylvania.","official_url":"https://www.misericordia.edu/","source_url":"https://www.misericordia.edu/","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official Misericordia University symposium information"}},
-  {"id":"pspine-philadelphia-neuroscience-2026","title":"P-SPINE Philadelphia Neuroscience Conference","organization":"P-SPINE","description":"Philadelphia neuroscience and biomedical research conference focused on neuroscience science, translational research, and research dissemination.","categories":["Biomedical Sciences","Research","Clinical Education"],"subcategories":["Neuroscience","Translational Research","Research Presentation"],"audiences":["Researchers","Trainees","Educators","Healthcare Professionals"],"date_display":"October 28, 2026","registration_deadline":"October 23, 2026","format":"In-person","region":"Philadelphia, PA","distance_miles":null,"cost":{"amount":0,"currency":"USD","display":"Free"},"ce_available":false,"ce_types":[],"abstract_or_cfp":false,"pathways_relevance":"medium","pathways_reason":"Accessible research-focused biomedical opportunity relevant to neuroscience education, trainee exposure, research dissemination, and biomedical career pathways.","official_url":"https://www.p-spine.org/","source_url":"https://www.p-spine.org/","verification":{"status":"verified","last_verified":"2026-09-26","verified_against":"Official P-SPINE conference information"}}
+  {
+    "id": "geisinger-parenti-2026",
+    "title": "Annual Dr. Parenti Lectureship Limb Salvage Conference 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Hybrid educational activity focused on limb salvage, team-based care, new technology, and research in Charcot neuroarthropathy.",
+    "categories": [
+      "Biomedical Sciences",
+      "Clinical Education",
+      "Interprofessional Education"
+    ],
+    "subcategories": [
+      "Orthopedics",
+      "Podiatry",
+      "Technology",
+      "Research"
+    ],
+    "audiences": [
+      "Faculty",
+      "Medical Students",
+      "Residents",
+      "Fellows",
+      "Advanced Practitioners"
+    ],
+    "date_display": "October 2, 2026",
+    "registration_deadline": null,
+    "format": "Hybrid",
+    "region": "Scranton, PA",
+    "distance_miles": 0,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "AMA PRA Category 1 CME",
+      "Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Local Geisinger educational activity with interdisciplinary clinical education, research, technology, and team-based-care content.",
+    "official_url": "https://cce.geisinger.edu/content/annual-dr-parenti-lectureship-limb-salvage-conference-2026",
+    "source_url": "https://cce.geisinger.edu/content/annual-dr-parenti-lectureship-limb-salvage-conference-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official Geisinger CE page"
+    }
+  },
+  {
+    "id": "geisinger-echo-2026",
+    "title": "Ultrasound ECHO Skills Stations 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person hands-on POCUS and bedside echocardiography training using didactic instruction and live-model scanning practice.",
+    "categories": [
+      "Clinical Education",
+      "Biomedical Sciences",
+      "Nursing Education"
+    ],
+    "subcategories": [
+      "POCUS",
+      "Critical Care",
+      "Skills Training"
+    ],
+    "audiences": [
+      "Physicians",
+      "PAs",
+      "NPs",
+      "Nurses",
+      "Respiratory Therapists"
+    ],
+    "date_display": "October 26, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Scranton, PA",
+    "distance_miles": 0,
+    "cost": {
+      "amount": 350,
+      "currency": "USD",
+      "display": "$350"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "AAPA Category I CME",
+      "AMA PRA Category 1 CME",
+      "ANCC",
+      "Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Useful example of local interdisciplinary clinical-skills education and hands-on simulation-style learning.",
+    "official_url": "https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026",
+    "source_url": "https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official Geisinger CE page"
+    }
+  },
+  {
+    "id": "psu-strategies-2026",
+    "title": "Strategies: Educational Excellence for Health Care Providers and Educators",
+    "organization": "Penn State",
+    "description": "Two-day conference for healthcare professionals and educators across Pennsylvania, with interactive sessions, networking, nursing professional development, and Act 48 credit.",
+    "categories": [
+      "Health Professions Education",
+      "Nursing Education",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Teaching",
+      "Curriculum",
+      "Professional Development"
+    ],
+    "audiences": [
+      "Healthcare Educators",
+      "Faculty",
+      "Nurses",
+      "Program Coordinators",
+      "Healthcare Professionals"
+    ],
+    "date_display": "November 12–13, 2026",
+    "registration_deadline": "October 21, 2026 regular registration",
+    "format": "In-person",
+    "region": "State College, PA",
+    "distance_miles": 150,
+    "cost": {
+      "amount": 450,
+      "currency": "USD",
+      "display": "$375 team / $450 regular"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "8.5 PSNA hours",
+      "8.5 Act 48 hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly focused on healthcare education and educator development, with a team-registration option relevant to a professional-development budget.",
+    "official_url": "https://health-education.outreach.psu.edu/register/",
+    "source_url": "https://health-education.outreach.psu.edu/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official Penn State conference and registration pages"
+    }
+  },
+  {
+    "id": "amia-symposium-2026",
+    "title": "AMIA 2026 Annual Symposium",
+    "organization": "American Medical Informatics Association",
+    "description": "Five-day biomedical and health informatics meeting covering clinical informatics, translational and clinical research informatics, AI, LLMs, clinical decision support, implementation science, and governance.",
+    "categories": [
+      "Health Informatics",
+      "AI in Healthcare",
+      "Biomedical Sciences",
+      "Research"
+    ],
+    "subcategories": [
+      "Clinical Informatics",
+      "AI",
+      "Data",
+      "Implementation Science"
+    ],
+    "audiences": [
+      "Informaticians",
+      "Clinicians",
+      "Researchers",
+      "Educators",
+      "Healthcare Leaders",
+      "Trainees"
+    ],
+    "date_display": "November 7–11, 2026",
+    "registration_deadline": "October 5, 2026 advanced registration",
+    "format": "In-person",
+    "region": "Dallas, TX",
+    "distance_miles": null,
+    "cost": {
+      "amount": 1140,
+      "currency": "USD",
+      "display": "$1,140 professional member advanced; $685 student/trainee member"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 24.75 AMA PRA Category 1 CME"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong fit for health informatics, biomedical AI, learning health systems, research, and cross-disciplinary healthcare education.",
+    "official_url": "https://amia.org/education-events/amia-2026-annual-symposium",
+    "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/registration",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AMIA symposium and registration pages"
+    }
+  },
+  {
+    "id": "apha-annual-2026",
+    "title": "2026 APHA Annual Meeting & Expo",
+    "organization": "American Public Health Association",
+    "description": "Large public health meeting bringing together public health professionals and partners for education, networking, research, and presentations.",
+    "categories": [
+      "Public Health",
+      "Research",
+      "Population Health"
+    ],
+    "subcategories": [
+      "Community Health",
+      "Population Health",
+      "Research"
+    ],
+    "audiences": [
+      "Public Health Professionals",
+      "Researchers",
+      "Educators",
+      "Healthcare Professionals"
+    ],
+    "date_display": "November 1–4, 2026",
+    "registration_deadline": null,
+    "format": "Hybrid",
+    "region": "San Antonio, TX",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to population health, community health, health equity, research dissemination, and public-health workforce development.",
+    "official_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
+    "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official APHA event page"
+    }
+  },
+  {
+    "id": "aacn-rn-bsn-2026",
+    "title": "Reimagining RN-Baccalaureate Programs Through Competency-Based Education",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Interactive virtual workshop on implementing the AACN Essentials through competency-based education, experiential learning, progression indicators, and assessment.",
+    "categories": [
+      "Nursing Education",
+      "Health Professions Education"
+    ],
+    "subcategories": [
+      "Competency-Based Education",
+      "Curriculum",
+      "Assessment"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Program Leaders",
+      "Educators"
+    ],
+    "date_display": "November 3–4, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 99,
+      "currency": "USD",
+      "display": "$99 AACN member / $199 non-member"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Nursing continuing professional development"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Useful for curriculum design, competency-based education, experiential learning, and health-professions pathway program development.",
+    "official_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26",
+    "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26/registration",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AACN workshop and registration pages"
+    }
+  },
+  {
+    "id": "aacn-cbe-2026",
+    "title": "CBE Workshop Series: Foundations and Practice",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Two-day virtual workshop series covering competency-based education foundations, curriculum design, assessment, and implementation strategies.",
+    "categories": [
+      "Nursing Education",
+      "Health Professions Education"
+    ],
+    "subcategories": [
+      "Competency-Based Education",
+      "Curriculum",
+      "Assessment"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Educators",
+      "Program Leaders"
+    ],
+    "date_display": "November 18–19, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 249,
+      "currency": "USD",
+      "display": "$249 AACN member / $349 non-member for both days"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 7.5 Nursing Continuing Professional Development CEUs"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to building measurable educational pathways, competency frameworks, assessment systems, and curriculum progression.",
+    "official_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
+    "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AACN workshop page"
+    }
+  },
+  {
+    "id": "aacn-transform-2026",
+    "title": "Transform 2026",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Conference for faculty and leaders shaping the future of academic nursing, with leadership and education programming.",
+    "categories": [
+      "Nursing Education",
+      "Leadership",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Academic Nursing",
+      "Leadership",
+      "Education"
+    ],
+    "audiences": [
+      "Faculty",
+      "Nursing Leaders",
+      "Deans",
+      "Program Leaders"
+    ],
+    "date_display": "December 3–5, 2026",
+    "registration_deadline": "November 4, 2026 early registration ends",
+    "format": "In-person",
+    "region": "Indianapolis, IN",
+    "distance_miles": null,
+    "cost": {
+      "amount": 699,
+      "currency": "USD",
+      "display": "$699 AACN member early / $899 non-member early"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Nursing continuing professional development"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Relevant to academic nursing leadership, faculty development, and health-professions education strategy.",
+    "official_url": "https://www.aacnnursing.org/transform/registration",
+    "source_url": "https://www.aacnnursing.org/transform/registration",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AACN Transform registration page"
+    }
+  },
+  {
+    "id": "aca-advocacy-power-hour-oct-2026",
+    "title": "ACA Advocacy Power Hour",
+    "organization": "American Counseling Association",
+    "description": "Virtual professional and policy discussion with federal and state updates and attendee roundtable discussion.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Counseling",
+      "Advocacy",
+      "Policy"
+    ],
+    "audiences": [
+      "Counselors",
+      "Counselor Educators",
+      "Behavioral Health Professionals"
+    ],
+    "date_display": "October 15, 2026 at 3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "No fee listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Provides a low-barrier counseling-sector learning and networking opportunity with state and federal updates.",
+    "official_url": "https://community.counseling.org/browse/announcements",
+    "source_url": "https://community.counseling.org/browse/announcements",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official ACA community announcement"
+    }
+  },
+  {
+    "id": "aspbp-2026-virtual-conference",
+    "title": "2026 ASPBP Virtual Conference and Recruitment Fair",
+    "organization": "Association for STEMM Pathway and Bridge Programs",
+    "description": "Three-day virtual conference focused on student transitions and the success of pathway and bridge program students, with opportunities for learning, networking, and presentations.",
+    "categories": [
+      "Pathway Programs",
+      "Bridge Programs",
+      "Student Success",
+      "STEMM",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Student Transitions",
+      "Program Design",
+      "Research",
+      "Recruitment"
+    ],
+    "audiences": [
+      "Pathway Program Staff",
+      "Program Leaders",
+      "Advisors",
+      "Educators",
+      "Researchers"
+    ],
+    "date_display": "October 6–8, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Registration price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly focused on pathway and bridge programs, student transitions, program success, and professional learning for people who run or support these programs.",
+    "official_url": "https://aspbp.org/",
+    "source_url": "https://aspbp.org/updates",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official ASPBP site and event updates"
+    }
+  },
+  {
+    "id": "ama-changemeded-cpd-2026",
+    "title": "Beyond CME: Reimagining Continuing Professional Development",
+    "organization": "American Medical Association ChangeMedEd",
+    "description": "Virtual ChangeMedEd webinar focused on rethinking continuing professional development across medical education.",
+    "categories": [
+      "Professionalism",
+      "Professional Development",
+      "Medical Education"
+    ],
+    "subcategories": [
+      "Continuing Professional Development",
+      "Faculty Development",
+      "Lifelong Learning"
+    ],
+    "audiences": [
+      "Medical Educators",
+      "Faculty",
+      "Healthcare Professionals",
+      "Program Leaders"
+    ],
+    "date_display": "October 20, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to professional development systems, lifelong learning, and how health-professions programs develop and sustain professional competencies.",
+    "official_url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts",
+    "source_url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AMA ChangeMedEd 2026 webinar listing"
+    }
+  },
+  {
+    "id": "aamc-learn-serve-lead-2026",
+    "title": "Learn Serve Lead 2026: The AAMC Annual Meeting",
+    "organization": "Association of American Medical Colleges",
+    "description": "AAMC annual meeting spanning academic medicine, medical education, research, workforce development, advocacy, and health care.",
+    "categories": [
+      "Medical Education",
+      "Professional Development",
+      "Medical School Advising",
+      "Pathway Programs",
+      "Research"
+    ],
+    "subcategories": [
+      "Academic Medicine",
+      "Faculty Development",
+      "Student Affairs",
+      "Medical Education"
+    ],
+    "audiences": [
+      "Medical Educators",
+      "Faculty",
+      "Academic Leaders",
+      "Student Affairs Professionals",
+      "Advisors",
+      "Researchers"
+    ],
+    "date_display": "November 6–10, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Anaheim, CA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Registration price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Broad academic-medicine professional development with medical education, advising, student affairs, workforce, and research content.",
+    "official_url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "source_url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official AAMC Learn Serve Lead page"
+    }
+  },
+  {
+    "id": "scranton-us-conference-disability-2026",
+    "title": "25th Annual U.S. Conference on DISABILITY",
+    "organization": "The University of Scranton",
+    "description": "Daylong conference focused on disability inclusion and careers, honoring the legacy of Edward R. Leahy, Jr., with programming on transforming barriers into opportunities.",
+    "categories": [
+      "Disability",
+      "Rehabilitation",
+      "Counseling",
+      "Professional Development",
+      "Health Professions Education"
+    ],
+    "subcategories": [
+      "Disability Inclusion",
+      "Employment",
+      "Career Development",
+      "Rehabilitation",
+      "Health Equity"
+    ],
+    "audiences": [
+      "Educators",
+      "Healthcare Professionals",
+      "Students",
+      "Families",
+      "Advocates",
+      "Rehabilitation Professionals",
+      "Program Staff"
+    ],
+    "date_display": "October 7, 2026, 7:45 AM–approximately 4:30 PM",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Scranton, PA",
+    "distance_miles": 0,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Local conference with direct relevance to disability inclusion, rehabilitation, career development, health equity, and professional pathways for people working with students and healthcare populations.",
+    "official_url": "https://www.scranton.edu/disabilityconference",
+    "source_url": "https://news.scranton.edu/articles/2026/08/news-calndr-fall-2026.shtml",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-25",
+      "verified_against": "Official University of Scranton event calendar and conference announcement"
+    }
+  },
+  {
+    "id": "lvhn-innovations-education-2026",
+    "title": "Innovations in Education 2026",
+    "organization": "Lehigh Valley Health Network / Jefferson Health",
+    "description": "Interdisciplinary healthcare education activity focused on new education delivery methods and learner engagement, including AI, accessibility, simulation, art therapy, and professional development coaching.",
+    "categories": [
+      "Healthcare Education",
+      "AI in Healthcare",
+      "Simulation",
+      "Professional Development",
+      "Accessibility"
+    ],
+    "subcategories": [
+      "AI in Education",
+      "Universal Design",
+      "Neuroinclusion",
+      "Simulation",
+      "Coaching"
+    ],
+    "audiences": [
+      "Educators",
+      "Healthcare Professionals",
+      "Researchers",
+      "Behavioral Health Professionals",
+      "Allied Health Professionals",
+      "Program Leaders"
+    ],
+    "date_display": "October 1, 2026, 8:00 AM–4:45 PM",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Center Valley, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "AMA PRA Category 1 CME 6.25 hours",
+      "ACPE 6.25 hours",
+      "ANCC Nursing Continuing Professional Development 6.25 hours",
+      "Social Worker CEUs 6.25 hours",
+      "Non-Physician Attendance 6.25 hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to healthcare education, AI-enabled teaching, accessibility, neuroinclusion, simulation, coaching, and learner engagement.",
+    "official_url": "https://jefferson-lehigh.cloud-cme.com/course/courseoverview?EID=14458&P=0",
+    "source_url": "https://jefferson-lehigh.cloud-cme.com/course/courseoverview?EID=14458&P=0",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-26",
+      "verified_against": "Official Lehigh Valley Health Network continuing education page"
+    }
+  },
+  {
+    "id": "jefferson-intelligent-teaching-2026",
+    "title": "Intelligent Teaching: AI in Health Professions Education",
+    "organization": "Thomas Jefferson University",
+    "description": "Live national virtual conference for health professions educators, scholars, and innovators focused on practical AI competencies for teaching, learning, and institutional effectiveness.",
+    "categories": [
+      "AI in Healthcare",
+      "Healthcare Education",
+      "Medical Education",
+      "Faculty Development",
+      "Health Informatics"
+    ],
+    "subcategories": [
+      "AI in Education",
+      "Curriculum",
+      "Assessment",
+      "Educational Innovation"
+    ],
+    "audiences": [
+      "Health Professions Educators",
+      "Faculty",
+      "Scholars",
+      "Educational Innovators",
+      "Program Leaders"
+    ],
+    "date_display": "October 6–7, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct match for healthcare education, AI integration, curriculum, assessment, and faculty/program development; especially relevant to digital learning and pathway-program innovation.",
+    "official_url": "https://events.aihealthed.org/",
+    "source_url": "https://www.jefferson.edu/academics/colleges-schools-institutes/population-health/leadership-workforce-development.html",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-26",
+      "verified_against": "Official Thomas Jefferson University event listing"
+    }
+  },
+  {
+    "id": "commonwealth-cmhc-virtual-2026",
+    "title": "5th Annual Clinical Mental Health Counseling Virtual Conference",
+    "organization": "Commonwealth University of Pennsylvania",
+    "description": "Virtual counseling conference, “Context Matters: Counseling in Changing Times,” with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Clinical Mental Health Counseling",
+      "Counselor Education",
+      "Supervision",
+      "Continuing Education"
+    ],
+    "audiences": [
+      "Counseling Students",
+      "Clinical Professionals",
+      "Supervisors",
+      "Counselor Educators",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 16, 2026, 9:00 AM–4:00 PM ET",
+    "registration_deadline": "October 9, 2026 at 5:00 PM ET",
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Small fee; exact amount not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 7 CE credits"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong counseling and counselor-education fit with accessible online participation and CE; relevant to behavioral-health workforce development and professional preparation.",
+    "official_url": "https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference",
+    "source_url": "https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-26",
+      "verified_against": "Official Commonwealth University event page"
+    }
+  },
+  {
+    "id": "desales-ai-healthcare-2026",
+    "title": "Leading with Intelligence: AI Across the Healthcare Continuum",
+    "organization": "DeSales University",
+    "description": "Continuing education conference examining AI in clinical decision-making, leadership, healthcare practice, and education, with regional healthcare and academic speakers.",
+    "categories": [
+      "AI in Healthcare",
+      "Healthcare Education",
+      "Professional Development",
+      "Health Informatics",
+      "Rehabilitation"
+    ],
+    "subcategories": [
+      "AI in Education",
+      "AI in Clinical Care",
+      "Healthcare Leadership",
+      "Digital Ethics"
+    ],
+    "audiences": [
+      "Physicians",
+      "Nurses",
+      "Advanced Practitioners",
+      "Therapists",
+      "Educators",
+      "Healthcare Leaders",
+      "Administrators"
+    ],
+    "date_display": "November 7, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Center Valley, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "CME credits available"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Highly relevant to AI in healthcare education and workforce preparation, including AI teaching, digital ethics, leadership, and interdisciplinary health-professions education.",
+    "official_url": "https://www.desales.edu/beyond-the-classroom/pt-continuing-education",
+    "source_url": "https://www.desales.edu/beyond-the-classroom/pt-continuing-education",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-26",
+      "verified_against": "Official DeSales University continuing education page"
+    }
+  },
+  {
+    "id": "aamc-virtual-med-school-fair-oct-2026",
+    "title": "AAMC Virtual Medical School Fair",
+    "organization": "Association of American Medical Colleges",
+    "description": "Free virtual fair connecting aspiring medical students with medical school admissions representatives, AAMC experts, advisors, and live information sessions.",
+    "categories": [
+      "Medical School Advising",
+      "Pathway Programs",
+      "Student Success",
+      "Professional Readiness"
+    ],
+    "subcategories": [
+      "Admissions",
+      "Premedical Advising",
+      "Medical School Exploration",
+      "Application Readiness"
+    ],
+    "audiences": [
+      "Aspiring Medical Students",
+      "Prehealth Advisors",
+      "Pathway Program Staff",
+      "Medical School Admissions Professionals",
+      "Students"
+    ],
+    "date_display": "October 27–28, 2026, 11:00 AM–6:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly supports medical-school advising and pathway programming through admissions access, application guidance, school exploration, and direct interaction with admissions representatives.",
+    "official_url": "https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd",
+    "source_url": "https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-26",
+      "verified_against": "Official AAMC Virtual Medical School Fair page"
+    }
+  },
+  {
+    "id": "ponl-annual-nursing-leadership-2026",
+    "title": "PONL Annual Nursing Leadership Conference",
+    "organization": "Pennsylvania Organization of Nurse Leaders",
+    "description": "Pennsylvania nursing leadership conference for professional development, leadership practice, networking, and contemporary healthcare issues.",
+    "categories": [
+      "Nursing Education",
+      "Faculty Development",
+      "Healthcare Education",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Nursing Leadership",
+      "Professional Development",
+      "Healthcare Workforce"
+    ],
+    "audiences": [
+      "Nurse Leaders",
+      "Nurse Educators",
+      "Healthcare Leaders",
+      "Program Leaders"
+    ],
+    "date_display": "October 1–2, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Harrisburg, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 11.5 nursing professional development contact hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Pennsylvania nursing leadership and workforce-development opportunity relevant to academic-practice partnerships, educator development, and healthcare pathway leadership.",
+    "official_url": "https://www.ponl.net/event-6558469",
+    "source_url": "https://www.ponl.net/event-6558469",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official PONL conference information"
+    }
+  },
+  {
+    "id": "pachc-annual-clinical-2026",
+    "title": "PACHC Annual Conference & Clinical Summit",
+    "organization": "Pennsylvania Association of Community Health Centers",
+    "description": "Pennsylvania community-health conference combining workforce, primary care, community health, health equity, clinical education, and current healthcare issues.",
+    "categories": [
+      "Community Health",
+      "Public Health",
+      "Health Equity",
+      "Workforce Development",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Community Health Centers",
+      "Primary Care",
+      "Health Workforce",
+      "Health Equity",
+      "Healthcare Innovation"
+    ],
+    "audiences": [
+      "Community Health Professionals",
+      "Clinicians",
+      "Educators",
+      "Healthcare Leaders",
+      "Program Staff"
+    ],
+    "date_display": "October 13–15, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Lancaster, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 600,
+      "currency": "USD",
+      "display": "$600/person for 1–5 registrants (members); $570 for 6–15; $540 for 16–25; $1,100 non-member"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "10.5 CE credits"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly connected to community health, health equity, healthcare workforce development, and Pennsylvania community-based care.",
+    "official_url": "https://pachc.org/annual-conference/",
+    "source_url": "https://pachc.org/annual-conference/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official PACHC conference information"
+    }
+  },
+  {
+    "id": "pacnp-annual-educational-2026",
+    "title": "PA Coalition of Nurse Practitioners Annual Educational Conference",
+    "organization": "PA Coalition of Nurse Practitioners",
+    "description": "Pennsylvania nurse-practitioner education conference with clinical, leadership, and professional-development content, including emerging healthcare technology.",
+    "categories": [
+      "Nursing Education",
+      "Healthcare Education",
+      "Professional Development",
+      "AI in Healthcare"
+    ],
+    "subcategories": [
+      "Nurse Practitioner Education",
+      "Leadership",
+      "Clinical Practice",
+      "Healthcare Technology"
+    ],
+    "audiences": [
+      "Nurse Practitioners",
+      "Nursing Educators",
+      "Healthcare Professionals",
+      "Program Leaders"
+    ],
+    "date_display": "October 15–17, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Erie, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 20 CEUs"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Useful Pennsylvania nursing education and workforce-development opportunity with contemporary healthcare technology content.",
+    "official_url": "https://www.pacnp.org/page/2026_Annual_Conference",
+    "source_url": "https://www.pacnp.org/page/2026_Annual_Conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official PA Coalition of Nurse Practitioners conference information"
+    }
+  },
+  {
+    "id": "ppa-fall-conference-2026",
+    "title": "Pennsylvania Psychological Association Virtual Fall Conference",
+    "organization": "Pennsylvania Psychological Association",
+    "description": "Virtual psychology professional-development conference with live educational sessions and continuing education, including contemporary practice topics.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development",
+      "Ethics"
+    ],
+    "subcategories": [
+      "Psychology",
+      "Behavioral Health",
+      "Ethics",
+      "Professional Practice"
+    ],
+    "audiences": [
+      "Psychologists",
+      "Behavioral Health Professionals",
+      "Educators",
+      "Students"
+    ],
+    "date_display": "October 16, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 8 live CE credits"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Relevant to behavioral-health professional development and continuing education, with an accessible online format for Pennsylvania professionals.",
+    "official_url": "https://www.papsy.org/events/2026-virtual-fall-conference",
+    "source_url": "https://www.papsy.org/events/2026-virtual-fall-conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official Pennsylvania Psychological Association conference information"
+    }
+  },
+  {
+    "id": "ppa-ethics-educators-2026",
+    "title": "PPA Ethics Educators' Conference",
+    "organization": "Pennsylvania Psychological Association",
+    "description": "Professional-development conference focused on ethics education, professional safety, inclusive practice, and ethical decision-making.",
+    "categories": [
+      "Ethics",
+      "Professional Development",
+      "Counseling",
+      "Behavioral Health"
+    ],
+    "subcategories": [
+      "Ethics Education",
+      "Professional Practice",
+      "Inclusive Practice"
+    ],
+    "audiences": [
+      "Psychologists",
+      "Counselor Educators",
+      "Behavioral Health Educators",
+      "Professional Development Leaders"
+    ],
+    "date_display": "October 23, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Mechanicsburg, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "6 CE credits"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to professional readiness, ethics education, inclusive practice, and preparation of behavioral-health professionals.",
+    "official_url": "https://www.papsy.org/events/ethics-educators-conference-2026",
+    "source_url": "https://www.papsy.org/events/ethics-educators-conference-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official Pennsylvania Psychological Association conference information"
+    }
+  },
+  {
+    "id": "misericordia-healthcare-symposium-2026",
+    "title": "Healthcare Symposium: Connected Care",
+    "organization": "Misericordia University",
+    "description": "Regional healthcare symposium focused on education, innovation, prevention, community health, and healthcare delivery.",
+    "categories": [
+      "Healthcare Education",
+      "Community Health",
+      "Professional Development",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Connected Care",
+      "Health Innovation",
+      "Prevention",
+      "Regional Workforce"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Educators",
+      "Students",
+      "Community Health Professionals",
+      "Program Staff"
+    ],
+    "date_display": "October 23, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Dallas, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 25,
+      "currency": "USD",
+      "display": "$25"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Low-cost regional opportunity aligned with healthcare education, innovation, prevention, community health, and workforce development in Northeastern Pennsylvania.",
+    "official_url": "https://www.misericordia.edu/academics/academic-colleges/college-of-health-sciences-and-education/health-symposium-2026",
+    "source_url": "https://www.misericordia.edu/academics/academic-colleges/college-of-health-sciences-and-education/health-symposium-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-29",
+      "verified_against": "Official Misericordia University symposium information"
+    }
+  },
+  {
+    "id": "pspine-philadelphia-neuroscience-2026",
+    "title": "P-SPINE Philadelphia Neuroscience Conference",
+    "organization": "P-SPINE",
+    "description": "Philadelphia neuroscience and biomedical research conference focused on neuroscience science, translational research, and research dissemination.",
+    "categories": [
+      "Biomedical Sciences",
+      "Research",
+      "Clinical Education"
+    ],
+    "subcategories": [
+      "Neuroscience",
+      "Translational Research",
+      "Research Presentation"
+    ],
+    "audiences": [
+      "Researchers",
+      "Trainees",
+      "Educators",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 28, 2026",
+    "registration_deadline": "October 23, 2026",
+    "format": "In-person",
+    "region": "Philadelphia, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Accessible research-focused biomedical opportunity relevant to neuroscience education, trainee exposure, research dissemination, and biomedical career pathways.",
+    "official_url": "https://www.p-spine.org/",
+    "source_url": "https://www.p-spine.org/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-26",
+      "verified_against": "Official P-SPINE conference information"
+    }
+  }
 ]
