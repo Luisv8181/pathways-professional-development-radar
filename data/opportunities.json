@@ -1196,5 +1196,248 @@
       "last_verified": "2026-09-29",
       "verified_against": "Official P-SPINE conference information"
     }
+  },
+  {
+    "id": "good-shepherd-mind-your-brain-2026",
+    "title": "Mind Your Brain @ Good Shepherd Rehabilitation",
+    "organization": "Good Shepherd Rehabilitation",
+    "description": "Free conference for individuals with brain injury, families, caregivers, and healthcare professionals, with education focused on recovery and clinical practice.",
+    "categories": [
+      "Rehabilitation",
+      "Clinical Education",
+      "Community Health"
+    ],
+    "subcategories": [
+      "Brain Injury",
+      "TBI",
+      "Caregiver Support"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Rehabilitation Professionals",
+      "Caregivers",
+      "Families"
+    ],
+    "date_display": "October 10, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Center Valley, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Regional rehabilitation opportunity directly relevant to brain injury, caregiver support, clinical education, and rehabilitation workforce development.",
+    "official_url": "https://www.goodshepherdrehab.org/mind-your-brain-2026/",
+    "source_url": "https://www.goodshepherdrehab.org/mind-your-brain-2026/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-30",
+      "verified_against": "Official Good Shepherd Rehabilitation conference page"
+    }
+  },
+  {
+    "id": "upmc-disability-equity-2026",
+    "title": "Voices Values Visibility: Advancing Disability Equity Together Conference",
+    "organization": "UPMC Center for Continuing Education in the Health Sciences",
+    "description": "Virtual interdisciplinary conference focused on disability equity, barriers to care, social determinants of health, universal design, lived experience, and inclusive treatment planning.",
+    "categories": [
+      "Health Equity",
+      "Disability",
+      "Rehabilitation",
+      "Healthcare Education",
+      "Community Health"
+    ],
+    "subcategories": [
+      "Disability Equity",
+      "Universal Design",
+      "Social Determinants of Health",
+      "Interdisciplinary Training"
+    ],
+    "audiences": [
+      "Researchers",
+      "Healthcare Professionals",
+      "Educators",
+      "Advocates",
+      "Social Workers"
+    ],
+    "date_display": "October 23, 2026, 8:30 AM–4:30 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 1,
+      "currency": "USD",
+      "display": "$1"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "7 AMA PRA Category 1 Credit",
+      "7 ANCC",
+      "7 APA",
+      "7 ASWB",
+      "7 Attendance"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong match for disability inclusion, health equity, interdisciplinary education, universal design, and lived-experience-informed care.",
+    "official_url": "https://cce.upmc.com/content/voices-values-visibility-advancing-disability-equity-together-conference",
+    "source_url": "https://cce.upmc.com/content/voices-values-visibility-advancing-disability-equity-together-conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-30",
+      "verified_against": "Official UPMC continuing education course page"
+    }
+  },
+  {
+    "id": "paap-annual-2026",
+    "title": "PAAP 2026 Annual Conference: Collaborations to Change",
+    "organization": "Pennsylvania Association of Addiction Professionals",
+    "description": "One-day addiction-specific educational conference with immersive training, networking, and a virtual access option.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Workforce Development",
+      "Community Health"
+    ],
+    "subcategories": [
+      "Addiction",
+      "Recovery",
+      "Professional Development"
+    ],
+    "audiences": [
+      "Addiction Professionals",
+      "Counselors",
+      "Behavioral Health Professionals",
+      "Researchers",
+      "Students"
+    ],
+    "date_display": "October 1, 2026",
+    "registration_deadline": "October 1, 2026 late/onsite registration",
+    "format": "Hybrid",
+    "region": "Harrisburg, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 197,
+      "currency": "USD",
+      "display": "$97 member/student through Sept. 28; $197 non-member; online access $82"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Up to 6.5 CEUs"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct Pennsylvania behavioral-health workforce opportunity relevant to addiction counseling, recovery, training, and accessible virtual professional development.",
+    "official_url": "https://paaddictionprofessionals.org/registration-information-paap-annual-conference/",
+    "source_url": "https://paaddictionprofessionals.org/annual-conference-pennsylvania-association-of-addictions-professionals/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-30",
+      "verified_against": "Official PAAP conference and registration pages"
+    }
+  },
+  {
+    "id": "penn-dental-ai-oral-medicine-2026",
+    "title": "Current Landscape of Artificial Intelligence in Oral Medicine",
+    "organization": "Penn Dental Medicine",
+    "description": "Hybrid case-based continuing-education session examining AI applications, limitations, ethics, clinical reasoning, education, and research in oral medicine.",
+    "categories": [
+      "AI in Healthcare",
+      "Healthcare Education",
+      "Biomedical Sciences",
+      "Health Informatics"
+    ],
+    "subcategories": [
+      "AI in Clinical Care",
+      "AI Ethics",
+      "Dental Education",
+      "Research"
+    ],
+    "audiences": [
+      "Dental Professionals",
+      "Educators",
+      "Researchers",
+      "Clinicians"
+    ],
+    "date_display": "October 16, 2026",
+    "registration_deadline": null,
+    "format": "Hybrid",
+    "region": "Philadelphia, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "5 CE credits"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong AI-in-healthcare education example connecting clinical decision support, ethics, research, and responsible educational integration.",
+    "official_url": "https://www.dental.upenn.edu/news-events/events/cde-aaom-fall-meeting/",
+    "source_url": "https://www.dental.upenn.edu/continuing-education/aaom-fall-meeting/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-30",
+      "verified_against": "Official Penn Dental Medicine event and continuing-education pages"
+    }
+  },
+  {
+    "id": "pediatric-capacity-building-institute-2027",
+    "title": "Pediatric Capacity Building Institute Year 4",
+    "organization": "Pennsylvania Department of Human Services",
+    "description": "Nine-month interactive institute focused on strengthening administrative and clinical capacity across systems serving youth with complex needs and their families.",
+    "categories": [
+      "Behavioral Health",
+      "Healthcare Education",
+      "Workforce Development",
+      "Community Health",
+      "Counseling"
+    ],
+    "subcategories": [
+      "Child and Adolescent Mental Health",
+      "Complex Needs",
+      "Trauma-Informed Practice",
+      "Cross-System Collaboration"
+    ],
+    "audiences": [
+      "Behavioral Health Professionals",
+      "Education Representatives",
+      "Provider Representatives",
+      "Hospital Representatives",
+      "County Administrators",
+      "System-of-Care Professionals"
+    ],
+    "date_display": "March–November 2027; sessions listed through November",
+    "registration_deadline": "October 6, 2026 interest survey",
+    "format": "Hybrid",
+    "region": "Harrisburg, PA / Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 400,
+      "currency": "USD",
+      "display": "$400 registration fee for selected participants"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Excellent fit for child/adolescent behavioral health, interdisciplinary workforce development, trauma-informed supervision, complex-needs systems, and cross-sector education.",
+    "official_url": "https://www.pa.gov/agencies/dhs/resources/children-families-complex-needs-planning/pediatric-capacity-building-institute",
+    "source_url": "https://www.paproviders.org/reminder-invitation-to-apply-to-the-2027-pediatric-capacity-building-institute-year-4",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-09-30",
+      "verified_against": "Official Pennsylvania DHS PCBI page and 2027 invitation"
+    }
   }
 ]
