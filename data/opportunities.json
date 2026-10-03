@@ -1,54 +1,5 @@
 [
   {
-    "id": "geisinger-parenti-2026",
-    "title": "Annual Dr. Parenti Lectureship Limb Salvage Conference 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "Hybrid educational activity focused on limb salvage, team-based care, new technology, and research in Charcot neuroarthropathy.",
-    "categories": [
-      "Biomedical Sciences",
-      "Clinical Education",
-      "Interprofessional Education"
-    ],
-    "subcategories": [
-      "Orthopedics",
-      "Podiatry",
-      "Technology",
-      "Research"
-    ],
-    "audiences": [
-      "Faculty",
-      "Medical Students",
-      "Residents",
-      "Fellows",
-      "Advanced Practitioners"
-    ],
-    "date_display": "October 2, 2026",
-    "registration_deadline": null,
-    "format": "Hybrid",
-    "region": "Scranton, PA",
-    "distance_miles": 0,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "AMA PRA Category 1 CME",
-      "Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Local Geisinger educational activity with interdisciplinary clinical education, research, technology, and team-based-care content.",
-    "official_url": "https://cce.geisinger.edu/content/annual-dr-parenti-lectureship-limb-salvage-conference-2026",
-    "source_url": "https://cce.geisinger.edu/content/annual-dr-parenti-lectureship-limb-salvage-conference-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Geisinger CE page"
-    }
-  },
-  {
     "id": "geisinger-echo-2026",
     "title": "Ultrasound ECHO Skills Stations 2026",
     "organization": "Geisinger College of Health Sciences",
@@ -1438,6 +1389,600 @@
       "status": "verified",
       "last_verified": "2026-09-30",
       "verified_against": "Official Pennsylvania DHS PCBI page and 2027 invitation"
+    }
+  },
+  {
+    "id": "geisinger-fccs-oct5-2026",
+    "title": "Fundamentals of Critical Care Support Provider Course - October 5 - 6, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person educational activity on initial management of critically ill patients, including airway management, shock, trauma, brain injury, and critical care skill stations.",
+    "categories": [
+      "Healthcare Education",
+      "Clinical Education",
+      "Simulation",
+      "Nursing Education"
+    ],
+    "subcategories": [
+      "Critical Care",
+      "Skills Training",
+      "Interprofessional Education"
+    ],
+    "audiences": [
+      "Healthcare Providers",
+      "Nurses",
+      "Respiratory Therapists",
+      "Pharmacists",
+      "Physicians",
+      "PAs",
+      "Paramedics"
+    ],
+    "date_display": "October 5–6, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Scranton, PA",
+    "distance_miles": 0,
+    "cost": {
+      "amount": 350,
+      "currency": "USD",
+      "display": "$350"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "13 AAPA Category I CME",
+      "13 AMA PRA Category 1 Credit",
+      "13 ANCC",
+      "13 Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Local interprofessional critical-care training includes hands-on skill stations and is relevant to clinical education and simulation-oriented professional development.",
+    "official_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-october-5-6-2026",
+    "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-october-5-6-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-hics-oct6-2026",
+    "title": "Hospital Incident Command System Training - October 6, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person emergency preparedness training covering Hospital Incident Command System fundamentals, Geisinger-specific application, and a tabletop exercise.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Emergency Preparedness",
+      "Disaster Response",
+      "Tabletop Exercise"
+    ],
+    "audiences": [
+      "Physicians",
+      "Physician Assistants",
+      "Nurses",
+      "Pharmacists",
+      "Clinical Leaders",
+      "Geisinger Staff"
+    ],
+    "date_display": "October 6, 2026, 9:00 AM–1:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Waverly, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "4 AAPA Category I CME",
+      "4 ACPE",
+      "4 AMA PRA Category 1 Credit",
+      "4 ANCC",
+      "4 Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct simulation-style tabletop exercise and emergency-management training relevant to health-professions education and preparedness.",
+    "official_url": "https://cce.geisinger.edu/node/31539",
+    "source_url": "https://cce.geisinger.edu/node/31539",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-hics-oct16-2026",
+    "title": "Hospital Incident Command System Training - October 16, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person HICS emergency preparedness training with fundamentals, Geisinger application, and a tabletop exercise; open to Geisinger staff.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Emergency Preparedness",
+      "Disaster Response",
+      "Tabletop Exercise"
+    ],
+    "audiences": [
+      "Physicians",
+      "Physician Assistants",
+      "Nurses",
+      "Pharmacists",
+      "Respiratory Therapists",
+      "Administrators",
+      "Clinical Leaders",
+      "Geisinger Staff"
+    ],
+    "date_display": "October 16, 2026, 8:30 AM–12:30 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "4 AAPA Category I CME",
+      "4 ACPE",
+      "4 AMA PRA Category 1 Credit",
+      "4 ANCC",
+      "4 Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Combines emergency-management education with a tabletop exercise and broad interprofessional participation, making it relevant to simulation and workforce preparation.",
+    "official_url": "https://cce.geisinger.edu/node/31547",
+    "source_url": "https://cce.geisinger.edu/node/31547",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-peds-fccs-oct19-2026",
+    "title": "Fundamentals of Critical Care Medicine - Pediatric - October 19-20, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person pediatric critical-care course for clinicians who may care for critically ill children, with pediatric airway, neurologic assessment, resuscitation, trauma, and skill-station content.",
+    "categories": [
+      "Healthcare Education",
+      "Biomedical Sciences",
+      "Simulation",
+      "Nursing Education"
+    ],
+    "subcategories": [
+      "Pediatric Critical Care",
+      "Skills Training",
+      "Resuscitation"
+    ],
+    "audiences": [
+      "Healthcare Providers",
+      "Nurses",
+      "Respiratory Therapists",
+      "Physicians",
+      "PAs",
+      "Paramedics"
+    ],
+    "date_display": "October 19–20, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 350,
+      "currency": "USD",
+      "display": "$350"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "12.5 AAPA Category I CME",
+      "12.5 AMA PRA Category 1 Credit",
+      "12.5 ANCC",
+      "12.5 Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Regional pediatric clinical education with multiple skill stations and multidisciplinary participation, relevant to healthcare training and simulation.",
+    "official_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-medicine-pediatric-october-19-20-2026",
+    "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-medicine-pediatric-october-19-20-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-clinical-quality-2026",
+    "title": "Third Annual Clinical Quality Symposium",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Interprofessional symposium on patient safety, high-reliability care, human factors, clinical pathways, decision support, data analytics, and at-home screening.",
+    "categories": [
+      "Healthcare Education",
+      "Research",
+      "Health Informatics",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Clinical Quality",
+      "Patient Safety",
+      "Human Factors",
+      "Clinical Informatics"
+    ],
+    "audiences": [
+      "Physicians",
+      "PAs",
+      "NPs",
+      "Nurses",
+      "LPNs",
+      "Pharmacists",
+      "Social Workers",
+      "Students",
+      "Administrative Staff"
+    ],
+    "date_display": "October 22, 2026, 8:00 AM–4:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 100,
+      "currency": "USD",
+      "display": "$100"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "5.5 AAPA Category I CME",
+      "5.5 ACPE",
+      "5.5 AMA PRA Category 1 Credit",
+      "5.5 ANCC",
+      "5.5 ASWB",
+      "5.5 Participation Credit",
+      "5 CPHQ CE credits"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Combines quality improvement, patient safety, human factors, informatics, and interprofessional education, directly relevant to health-professions learning.",
+    "official_url": "https://cce.geisinger.edu/content/third-annual-clinical-quality-symposium",
+    "source_url": "https://cce.geisinger.edu/content/third-annual-clinical-quality-symposium",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-mi-oct23-2026",
+    "title": "Motivational Interviewing Workshop - October 23, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "October 23, 2026, 9:00 AM–1:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/content/motivational-interviewing-shared-decision-making-and-behavior-change",
+    "source_url": "https://cce.geisinger.edu/content/motivational-interviewing-shared-decision-making-and-behavior-change",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-nursing-research-2026",
+    "title": "Translating Knowledge: Nursing Research and Evidence-Based Practice Conference 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Hybrid nursing research and evidence-based practice conference featuring project presentations, social determinants of health in pediatric care, workplace violence, and research-to-practice content.",
+    "categories": [
+      "Nursing Education",
+      "Research",
+      "Community Health",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Evidence-Based Practice",
+      "Nursing Research",
+      "Social Determinants of Health"
+    ],
+    "audiences": [
+      "Advanced Practice Nurses",
+      "RNs",
+      "LPNs",
+      "Nursing Students",
+      "Faculty",
+      "Healthcare Professionals"
+    ],
+    "date_display": "November 11, 2026, 7:00 AM–3:30 PM EST",
+    "registration_deadline": null,
+    "format": "Hybrid",
+    "region": "Danville, PA / Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 100,
+      "currency": "USD",
+      "display": "$100"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "5 ANCC",
+      "5 Participation Credit",
+      "5 nursing contact hours"
+    ],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong fit for nursing education, research dissemination, evidence-based practice, and community-health applications.",
+    "official_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
+    "source_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official Geisinger CE conference page"
+    }
+  },
+  {
+    "id": "hrsa-pediatric-depression-anxiety-2026",
+    "title": "HRSA Grand Rounds: Screening and Treatment of Pediatric Depression and Anxiety",
+    "organization": "Health Resources and Services Administration",
+    "description": "Virtual HRSA Grand Rounds covering screening and diagnosis, non-pharmacologic interventions, prescribing considerations, and workforce support for pediatric depression and anxiety.",
+    "categories": [
+      "Public Health",
+      "Healthcare Education",
+      "Behavioral Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Child and Adolescent Mental Health",
+      "Pediatric Behavioral Health",
+      "Health Workforce"
+    ],
+    "audiences": [
+      "Health Professionals",
+      "Behavioral Health Professionals",
+      "Educators",
+      "Healthcare Workforce"
+    ],
+    "date_display": "October 7, 2026, 2:00–3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "1.0 CEU",
+      "1.0 AMA PRA Category 1 Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct connection to child/adolescent behavioral health, healthcare workforce education, and community-facing health programs.",
+    "official_url": "https://www.hrsa.gov/es/node/38159",
+    "source_url": "https://www.hrsa.gov/es/node/38159",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official HRSA continuing education page"
+    }
+  },
+  {
+    "id": "nih-nigms-t32-webinar-2026",
+    "title": "NIGMS Informational Webinar on Basic Biomedical Predoctoral T32 Training Programs",
+    "organization": "National Institute of General Medical Sciences",
+    "description": "Virtual NIH informational webinar explaining NIGMS Basic Biomedical Predoctoral T32 training programs and programmatic priorities for prospective applicants.",
+    "categories": [
+      "Biomedical Sciences",
+      "Research",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Biomedical Research Training",
+      "Predoctoral Training",
+      "Research Funding"
+    ],
+    "audiences": [
+      "Researchers",
+      "Faculty",
+      "Program Leaders",
+      "Trainees",
+      "Biomedical Scientists"
+    ],
+    "date_display": "October 29, 2026, 2:30–4:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Useful biomedical research workforce-development and training opportunity for programs supporting future health-science researchers.",
+    "official_url": "https://grants.nih.gov/news-events/calendar-of-events/6a9754377cc064048e0c1fe5",
+    "source_url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-015.html",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official NIH/NIGMS event and notice pages"
+    }
+  },
+  {
+    "id": "nih-nigms-btod-webinar-2026",
+    "title": "NIGMS Informational Webinar - Biomedical Technology Optimization and Dissemination Centers Program",
+    "organization": "National Institute of General Medical Sciences",
+    "description": "Virtual NIH informational webinar on the Biomedical Technology Optimization and Dissemination Centers Program for prospective applicants.",
+    "categories": [
+      "Biomedical Sciences",
+      "Research",
+      "AI in Healthcare"
+    ],
+    "subcategories": [
+      "Biomedical Technology",
+      "Research Funding",
+      "Technology Translation"
+    ],
+    "audiences": [
+      "Researchers",
+      "Faculty",
+      "Program Leaders",
+      "Biomedical Scientists"
+    ],
+    "date_display": "October 28, 2026, 3:00–4:30 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to biomedical technology development, research training, dissemination, and translation of health-science innovation.",
+    "official_url": "https://www.grants.nih.gov/news-events/calendar-of-events/6aad983fc35d8cfb70017ca4",
+    "source_url": "https://www.grants.nih.gov/news-events/calendar-of-events/6aad983fc35d8cfb70017ca4",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official NIH/NIGMS event page"
+    }
+  },
+  {
+    "id": "nih-niddk-data-science-ai-2026",
+    "title": "NIDDK-CR Data Science and Meet the Expert Webinar: Pixels to Phenotypes - Whole Slide Imaging Pathomics",
+    "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "description": "Virtual data-science and AI-driven biomedical research webinar on scalable and explainable whole-slide imaging pathomics tools.",
+    "categories": [
+      "Biomedical Sciences",
+      "Research",
+      "AI in Healthcare",
+      "Health Informatics"
+    ],
+    "subcategories": [
+      "Data Science",
+      "AI",
+      "Imaging",
+      "Pathomics"
+    ],
+    "audiences": [
+      "Biomedical Researchers",
+      "Data Scientists",
+      "Informaticians",
+      "Educators",
+      "Trainees"
+    ],
+    "date_display": "October 28, 2026, 3:00–4:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly aligned with AI-driven biomedical research, data science, and health informatics skill development.",
+    "official_url": "https://repository.niddk.nih.gov/pages/webinars",
+    "source_url": "https://repository.niddk.nih.gov/pages/webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official NIDDK Central Repository webinar schedule"
+    }
+  },
+  {
+    "id": "cdc-zohu-oct7-2026",
+    "title": "October 2026 ZOHU Call",
+    "organization": "Centers for Disease Control and Prevention",
+    "description": "Virtual One Health webinar covering H5N1 emergence and cattle movement, with free continuing education through CDC TRAIN.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Health Equity"
+    ],
+    "subcategories": [
+      "One Health",
+      "Emerging Infectious Diseases",
+      "Zoonotic Disease"
+    ],
+    "audiences": [
+      "Public Health Professionals",
+      "Healthcare Professionals",
+      "Educators",
+      "Researchers"
+    ],
+    "date_display": "October 7, 2026, 2:00–3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Free CDC continuing education"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Accessible public-health and One Health training relevant to community health, emerging infections, and workforce education.",
+    "official_url": "https://www.cdc.gov/zohu-call/webinars/october-26.html",
+    "source_url": "https://www.cdc.gov/zohu-call/webinars/october-26.html",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-03",
+      "verified_against": "Official CDC ZOHU webinar page"
     }
   }
 ]
