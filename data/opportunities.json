@@ -21,7 +21,7 @@
       "Nurses",
       "Respiratory Therapists"
     ],
-    "date_display": "October 26, 2026",
+    "date_display": "October 26, 2026, 7:00 AM–5:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Scranton, PA",
@@ -33,10 +33,10 @@
     },
     "ce_available": true,
     "ce_types": [
-      "AAPA Category I CME",
-      "AMA PRA Category 1 CME",
-      "ANCC",
-      "Participation Credit"
+      "8.00 AAPA Category I CME",
+      "8.00 AMA PRA Category 1 Credit™",
+      "8.00 ANCC",
+      "8.00 Participation Credit"
     ],
     "abstract_or_cfp": false,
     "pathways_relevance": "medium",
@@ -45,8 +45,8 @@
     "source_url": "https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Geisinger CE page"
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE course page"
     }
   },
   {
@@ -231,8 +231,8 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official AACN workshop and registration pages"
+      "last_verified": "2026-10-04",
+      "verified_against": "Official AACN workshop page"
     }
   },
   {
@@ -275,7 +275,7 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
+      "last_verified": "2026-10-04",
       "verified_against": "Official AACN workshop page"
     }
   },
@@ -321,8 +321,8 @@
     "source_url": "https://www.aacnnursing.org/transform/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official AACN Transform registration page"
+      "last_verified": "2026-10-04",
+      "verified_against": "Official AACN registration page"
     }
   },
   {
@@ -558,62 +558,6 @@
       "status": "verified",
       "last_verified": "2026-09-29",
       "verified_against": "Official University of Scranton event calendar and conference announcement"
-    }
-  },
-  {
-    "id": "lvhn-innovations-education-2026",
-    "title": "Innovations in Education 2026",
-    "organization": "Lehigh Valley Health Network / Jefferson Health",
-    "description": "Interdisciplinary healthcare education activity focused on new education delivery methods and learner engagement, including AI, accessibility, simulation, art therapy, and professional development coaching.",
-    "categories": [
-      "Healthcare Education",
-      "AI in Healthcare",
-      "Simulation",
-      "Professional Development",
-      "Accessibility"
-    ],
-    "subcategories": [
-      "AI in Education",
-      "Universal Design",
-      "Neuroinclusion",
-      "Simulation",
-      "Coaching"
-    ],
-    "audiences": [
-      "Educators",
-      "Healthcare Professionals",
-      "Researchers",
-      "Behavioral Health Professionals",
-      "Allied Health Professionals",
-      "Program Leaders"
-    ],
-    "date_display": "October 1, 2026, 8:00 AM–4:45 PM",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Center Valley, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "AMA PRA Category 1 CME 6.25 hours",
-      "ACPE 6.25 hours",
-      "ANCC Nursing Continuing Professional Development 6.25 hours",
-      "Social Worker CEUs 6.25 hours",
-      "Non-Physician Attendance 6.25 hours"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to healthcare education, AI-enabled teaching, accessibility, neuroinclusion, simulation, coaching, and learner engagement.",
-    "official_url": "https://jefferson-lehigh.cloud-cme.com/course/courseoverview?EID=14458&P=0",
-    "source_url": "https://jefferson-lehigh.cloud-cme.com/course/courseoverview?EID=14458&P=0",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Lehigh Valley Health Network continuing education page"
     }
   },
   {
@@ -1247,54 +1191,6 @@
     }
   },
   {
-    "id": "paap-annual-2026",
-    "title": "PAAP 2026 Annual Conference: Collaborations to Change",
-    "organization": "Pennsylvania Association of Addiction Professionals",
-    "description": "One-day addiction-specific educational conference with immersive training, networking, and a virtual access option.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Workforce Development",
-      "Community Health"
-    ],
-    "subcategories": [
-      "Addiction",
-      "Recovery",
-      "Professional Development"
-    ],
-    "audiences": [
-      "Addiction Professionals",
-      "Counselors",
-      "Behavioral Health Professionals",
-      "Researchers",
-      "Students"
-    ],
-    "date_display": "October 1, 2026",
-    "registration_deadline": "October 1, 2026 late/onsite registration",
-    "format": "Hybrid",
-    "region": "Harrisburg, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 197,
-      "currency": "USD",
-      "display": "$97 member/student through Sept. 28; $197 non-member; online access $82"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 6.5 CEUs"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct Pennsylvania behavioral-health workforce opportunity relevant to addiction counseling, recovery, training, and accessible virtual professional development.",
-    "official_url": "https://paaddictionprofessionals.org/registration-information-paap-annual-conference/",
-    "source_url": "https://paaddictionprofessionals.org/annual-conference-pennsylvania-association-of-addictions-professionals/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-30",
-      "verified_against": "Official PAAP conference and registration pages"
-    }
-  },
-  {
     "id": "penn-dental-ai-oral-medicine-2026",
     "title": "Current Landscape of Artificial Intelligence in Oral Medicine",
     "organization": "Penn Dental Medicine",
@@ -1799,7 +1695,7 @@
     "source_url": "https://www.hrsa.gov/es/node/38159",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-04",
       "verified_against": "Official HRSA continuing education page"
     }
   },
@@ -1935,7 +1831,7 @@
     "source_url": "https://repository.niddk.nih.gov/pages/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-04",
       "verified_against": "Official NIDDK Central Repository webinar schedule"
     }
   },
@@ -1981,8 +1877,355 @@
     "source_url": "https://www.cdc.gov/zohu-call/webinars/october-26.html",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-03",
+      "last_verified": "2026-10-04",
       "verified_against": "Official CDC ZOHU webinar page"
+    }
+  },
+  {
+    "id": "geisinger-sane-refresher-2026",
+    "title": "SANE Refresher Course - 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Sexual Assault Nurse Examiner refresher educational activity listed on the Geisinger CE calendar.",
+    "categories": [
+      "Nursing Education",
+      "Healthcare Education",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Forensic Nursing",
+      "SANE",
+      "Clinical Education"
+    ],
+    "audiences": [
+      "Nurses",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 12, 2026, 7:00 AM–5:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Specialized nursing workforce development and clinical education relevant to preparation of healthcare professionals.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-pulmonary-symposium-2026",
+    "title": "15th Annual Pulmonary Medicine Symposium",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person pulmonary medicine symposium covering chronic cough, airway and laryngeal contributions, pulmonary function testing, behavioral cough suppression therapy, and interprofessional case discussion.",
+    "categories": [
+      "Biomedical Sciences",
+      "Healthcare Education",
+      "Research"
+    ],
+    "subcategories": [
+      "Pulmonary Medicine",
+      "Interprofessional Education",
+      "Clinical Practice"
+    ],
+    "audiences": [
+      "Physicians",
+      "Advanced Practitioners",
+      "Nurses",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 14, 2026, 7:30 AM–2:45 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 100,
+      "currency": "USD",
+      "display": "$100"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Regional interprofessional clinical education with explicit behavioral, diagnostic, and collaborative-care content.",
+    "official_url": "https://cce.geisinger.edu/content/15th-annual-pulmonary-medicine-symposium",
+    "source_url": "https://cce.geisinger.edu/content/15th-annual-pulmonary-medicine-symposium",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "geisinger-hics-oct22-2026",
+    "title": "Hospital Incident Command System Training - October 22, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Hospital Incident Command System training with a tabletop exercise, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Emergency Preparedness",
+      "Disaster Response",
+      "Tabletop Exercise"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Clinical Leaders",
+      "Geisinger Staff"
+    ],
+    "date_display": "October 22, 2026, 12:00–4:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-breast-conference-2026",
+    "title": "Geisinger Annual Breast Conference",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person breast-care educational conference listed on the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Biomedical Sciences",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Breast Care",
+      "Interprofessional Education"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Clinicians",
+      "Educators"
+    ],
+    "date_display": "October 23, 2026, 7:30 AM–3:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Regional clinical education opportunity within a major healthcare-system educational environment.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-stable-oct26-2026",
+    "title": "The STABLE Program - October 26, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person neonatal stabilization training listed on the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Nursing Education",
+      "Simulation"
+    ],
+    "subcategories": [
+      "Neonatal Care",
+      "Stabilization",
+      "Clinical Skills"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Nurses",
+      "Clinicians"
+    ],
+    "date_display": "October 26, 2026, 8:00 AM–5:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "High-value clinical skills and stabilization training that aligns with simulation and healthcare workforce preparation.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-icu-liberation-oct29-2026",
+    "title": "SCCM ICU Liberation Course - October 29-30, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person critical-care educational course listed on the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Nursing Education",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Critical Care",
+      "ICU",
+      "Interprofessional Education"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Nurses",
+      "Clinicians"
+    ],
+    "date_display": "October 29–30, 2026, 8:00 AM–5:30 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Critical-care professional development relevant to interprofessional healthcare education and workforce training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "aacn-civility-2026",
+    "title": "Bringing the AACN Essentials to Life: Integrating Civility & Healthy Work Environments in Curricula",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Virtual AACN learning session on integrating civility and healthy work environments into nursing curricula.",
+    "categories": [
+      "Nursing Education",
+      "Healthcare Education",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Civility",
+      "Healthy Work Environments",
+      "Curriculum"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Educators",
+      "Program Leaders"
+    ],
+    "date_display": "October 7, 2026, 2:00–3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Nursing continuing professional development"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct fit for curriculum design, professional formation, and health-professions education.",
+    "official_url": "https://www.aacnnursing.org/conferences-webinars",
+    "source_url": "https://www.aacnnursing.org/conferences-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official AACN conferences and webinars page"
+    }
+  },
+  {
+    "id": "aacn-nurse-voice-2026",
+    "title": "The Power of a Nurse’s Voice: Leading Change in Every Space",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Virtual AACN learning session focused on nursing leadership and leading change.",
+    "categories": [
+      "Nursing Education",
+      "Healthcare Education",
+      "Leadership"
+    ],
+    "subcategories": [
+      "Nursing Leadership",
+      "Advocacy",
+      "Change Management"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Nurses",
+      "Healthcare Leaders",
+      "Educators"
+    ],
+    "date_display": "October 14, 2026, 2:00–3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Nursing continuing professional development"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Useful leadership and professional-development content for nursing and health-professions educators.",
+    "official_url": "https://www.aacnnursing.org/conferences-webinars",
+    "source_url": "https://www.aacnnursing.org/conferences-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-04",
+      "verified_against": "Official AACN conferences and webinars page"
     }
   }
 ]
