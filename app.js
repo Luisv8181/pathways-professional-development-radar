@@ -2,7 +2,7 @@ const $ = id => document.getElementById(id);
 const state = { all: [], students: [], format: "", docs: {} };
 
 // Resolve data and guide files from the deployed app location, not the current URL/hash route.
-const APP_BASE_URL = new URL(".", document.currentScript?.src || location.href);
+const APP_BASE_URL = new URL(".", document.baseURI);
 const assetUrl = path => new URL(path, APP_BASE_URL);
 
 const DOCS = {
@@ -26,9 +26,9 @@ async function getJson(path) {
   // Try the script-relative location first, then common deployment bases.
   const candidates = [
     assetUrl(path),
-    new URL(path, location.href),
-    new URL(`/${path}`, location.origin),
-    new URL(`/pathways-professional-development-radar/${path}`, location.origin)
+    new URL(path, document.baseURI),
+    new URL(`/pathways-professional-development-radar/${path}`, location.origin),
+    new URL(path, location.href)
   ];
   const seen = new Set();
   const errors = [];
