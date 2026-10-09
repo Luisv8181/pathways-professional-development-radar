@@ -22,14 +22,35 @@ const esc = (v = "") => String(v).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<":
 /* ---------- Data ---------- */
 
 async function getJson(path) {
-  const url = assetUrl(path);
-  const r = await fetch(url, { cache: "no-store" });
-  if (!r.ok) throw new Error(`Could not load ${url.pathname} (HTTP ${r.status})`);
-  try {
-    return await r.json();
-  } catch (error) {
-    throw new Error(`Invalid JSON at ${url.pathname}: ${error.message}`);
+  // GitHub Pages can serve this repository at either the account root or a project subpath.
+  // Try the script-relative location first, then common deployment bases.
+  const candidates = [
+    assetUrl(path),
+    new URL(path, location.href),
+    new URL(`/${path}`, location.origin),
+    new URL(`/pathways-professional-development-radar/${path}`, location.origin)
+  ];
+  const seen = new Set();
+  const errors = [];
+  for (const url of candidates) {
+    if (seen.has(url.href)) continue;
+    seen.add(url.href);
+    try {
+      const r = await fetch(url, { cache: "no-store" });
+      if (!r.ok) {
+        errors.push(`${url.pathname}: HTTP ${r.status}`);
+        continue;
+      }
+      try {
+        return await r.json();
+      } catch (error) {
+        errors.push(`${url.pathname}: invalid JSON (${error.message})`);
+      }
+    } catch (error) {
+      errors.push(`${url.pathname}: ${error.message}`);
+    }
   }
+  throw new Error(`Could not load ${path}. Tried: ${errors.join("; ")}`);
 }
 
 function startTime(o) {
