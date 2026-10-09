@@ -139,6 +139,67 @@ function applyFilters() {
   renderCards(list);
 }
 
+
+/* ---------- Professional opportunity cards ---------- */
+
+function renderCards(list) {
+  $("resultCount").textContent = list.length + (list.length === 1 ? " opportunity" : " opportunities");
+  $("opportunities").innerHTML = list.length ? list.map(x => {
+    const i = state.all.indexOf(x);
+    const categories = (x.categories || []).slice(0, 3)
+      .map(c => `<span class="badge">${esc(c)}</span>`).join("");
+    const relevance = x.pathways_relevance === "high"
+      ? '<span class="badge blue">Pathways relevant</span>' : "";
+    const free = x.cost?.amount === 0 ? '<span class="badge green">Free</span>' : "";
+    const ce = x.ce_available ? '<span class="badge">CE credit</span>' : "";
+    const cfp = x.abstract_or_cfp ? '<span class="badge">Call for abstracts</span>' : "";
+    return `<button type="button" class="card" data-i="${i}" aria-haspopup="dialog">
+      <p class="date">${esc(x.date_display || "Date not listed")}</p>
+      <h3>${esc(x.title || "Untitled opportunity")}</h3>
+      <p class="org">${esc(x.organization || "Organization not listed")}</p>
+      <div class="badges">${relevance}${free}${ce}${cfp}${categories}</div>
+      <div class="facts">
+        <span><b>${esc(x.cost?.display || "Price not listed")}</b></span>
+        <span>${esc(x.format || "Format unknown")} · ${esc(x.region || "Location varies")}</span>
+      </div>
+    </button>`;
+  }).join("") : '<div class="empty"><strong>No opportunities match.</strong>Try a different search or clear one of the filters.</div>';
+}
+
+function openSheet(x) {
+  if (!x) return;
+  const arr = values => (values || []).length ? values.map(esc).join(", ") : "Not listed";
+  const verified = x.verification?.last_verified
+    ? `Verified ${esc(x.verification.last_verified)} against ${esc(x.verification.verified_against || "the official source")}`
+    : "Verification date not listed";
+  const categories = arr(x.categories);
+  const subcategories = arr(x.subcategories);
+  const audiences = arr(x.audiences);
+  const ceTypes = arr(x.ce_types);
+  const official = /^https?:\/\//i.test(x.official_url || "") ? esc(x.official_url) : "#";
+  $("sheetBody").innerHTML = `<button type="button" class="close" aria-label="Close">&times;</button>
+    <p class="date">${esc(x.date_display || "Date not listed")}</p>
+    <h2>${esc(x.title || "Untitled opportunity")}</h2>
+    <p class="org">${esc(x.organization || "Organization not listed")}</p>
+    <p>${esc(x.description || "")}</p>
+    <dl class="dl">
+      <div><dt>Format</dt><dd>${esc(x.format || "Unknown")}</dd></div>
+      <div><dt>Location</dt><dd>${esc(x.region || "Varies")}</dd></div>
+      <div><dt>Cost</dt><dd>${esc(x.cost?.display || "Price not listed")}</dd></div>
+      <div><dt>Registration / deadline</dt><dd>${esc(x.registration_deadline || "Not listed")}</dd></div>
+      <div style="grid-column:1/-1;border-right:0"><dt>Topics</dt><dd>${categories}</dd></div>
+      <div style="grid-column:1/-1;border-right:0"><dt>Subtopics</dt><dd>${subcategories}</dd></div>
+      <div style="grid-column:1/-1;border-right:0"><dt>Who it's for</dt><dd>${audiences}</dd></div>
+      <div style="grid-column:1/-1;border-right:0"><dt>Continuing education</dt><dd>${x.ce_available ? "Available" : "Not indicated"}: ${ceTypes}</dd></div>
+      <div style="grid-column:1/-1;border-right:0"><dt>Why it may fit Pathways</dt><dd>${esc(x.pathways_reason || "Relevance note not listed")}</dd></div>
+    </dl>
+    <div class="sheet-actions">
+      <a class="btn" href="${official}" target="_blank" rel="noopener noreferrer">Open official page</a>
+      <span class="verified">${verified}</span>
+    </div>`;
+  $("sheet").showModal();
+}
+
 /* ---------- Student section ---------- */
 
 const studentState = { category: "", region: "", format: "", q: "", quick: "" };
