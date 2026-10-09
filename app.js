@@ -1,6 +1,10 @@
 const $ = id => document.getElementById(id);
 const state = { all: [], students: [], format: "", docs: {} };
 
+// Resolve data and guide files from the deployed app location, not the current URL/hash route.
+const APP_BASE_URL = new URL(".", document.currentScript?.src || location.href);
+const assetUrl = path => new URL(path, APP_BASE_URL);
+
 const DOCS = {
   start: "docs/START-HERE.md",
   using: "docs/USING-THE-RADAR.md",
@@ -18,9 +22,14 @@ const esc = (v = "") => String(v).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<":
 /* ---------- Data ---------- */
 
 async function getJson(path) {
-  const r = await fetch(path);
-  if (!r.ok) throw new Error("Could not load " + path);
-  return r.json();
+  const url = assetUrl(path);
+  const r = await fetch(url, { cache: "no-store" });
+  if (!r.ok) throw new Error(`Could not load ${url.pathname} (HTTP ${r.status})`);
+  try {
+    return await r.json();
+  } catch (error) {
+    throw new Error(`Invalid JSON at ${url.pathname}: ${error.message}`);
+  }
 }
 
 function startTime(o) {
@@ -196,7 +205,7 @@ async function showDoc(key) {
   const root = $("doc");
   try {
     if (!state.docs[key]) {
-      const r = await fetch(DOCS[key]);
+      const r = await fetch(assetUrl(DOCS[key]), { cache: "no-store" });
       if (!r.ok) throw new Error();
       state.docs[key] = markdown(await r.text());
     }
