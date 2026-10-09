@@ -123,18 +123,20 @@
       "Trainees"
     ],
     "date_display": "November 7–11, 2026",
-    "registration_deadline": "October 5, 2026 advanced registration",
+    "registration_deadline": "October 5, 2026 advanced registration ended; standard rates now apply",
     "format": "In-person",
     "region": "Dallas, TX",
     "distance_miles": null,
     "cost": {
-      "amount": 1140,
+      "amount": 1265,
       "currency": "USD",
-      "display": "$1,140 professional member advanced; $685 student/trainee member"
+      "display": "$1,265 professional member standard; $1,010 early-career member; $760 student/trainee member; $1,770 non-member standard"
     },
     "ce_available": true,
     "ce_types": [
-      "Up to 24.75 AMA PRA Category 1 CME"
+      "Up to 24.75 AMA PRA Category 1 CME",
+      "Up to 24.75 nursing contact hours",
+      "Up to 24.75 ACHIP professional development units"
     ],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
@@ -143,8 +145,8 @@
     "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official AMIA symposium and registration pages"
+      "last_verified": "2026-10-08",
+      "verified_against": "Official AMIA registration and credit-information pages"
     }
   },
   {
@@ -231,7 +233,7 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-04",
+      "last_verified": "2026-10-08",
       "verified_against": "Official AACN workshop page"
     }
   },
@@ -254,7 +256,7 @@
       "Educators",
       "Program Leaders"
     ],
-    "date_display": "November 18–19, 2026",
+    "date_display": "November 18–19, 2026, 12:00–4:00 PM ET each day",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -262,11 +264,11 @@
     "cost": {
       "amount": 249,
       "currency": "USD",
-      "display": "$249 AACN member / $349 non-member for both days"
+      "display": "$149 AACN member / $249 non-member per day; both days $249 member / $349 non-member"
     },
     "ce_available": true,
     "ce_types": [
-      "Up to 7.5 Nursing Continuing Professional Development CEUs"
+      "Up to 3.75 Nursing Continuing Professional Development CEUs per day; 7.5 for both days"
     ],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
@@ -275,7 +277,7 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-04",
+      "last_verified": "2026-10-08",
       "verified_against": "Official AACN workshop page"
     }
   },
@@ -321,8 +323,8 @@
     "source_url": "https://www.aacnnursing.org/transform/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official AACN registration page"
+      "last_verified": "2026-10-08",
+      "verified_against": "Official AACN Transform registration page"
     }
   },
   {
@@ -366,54 +368,6 @@
       "status": "verified",
       "last_verified": "2026-09-29",
       "verified_against": "Official ACA community announcement"
-    }
-  },
-  {
-    "id": "aspbp-2026-virtual-conference",
-    "title": "2026 ASPBP Virtual Conference and Recruitment Fair",
-    "organization": "Association for STEMM Pathway and Bridge Programs",
-    "description": "Three-day virtual conference focused on student transitions and the success of pathway and bridge program students, with opportunities for learning, networking, and presentations.",
-    "categories": [
-      "Pathway Programs",
-      "Bridge Programs",
-      "Student Success",
-      "STEMM",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Student Transitions",
-      "Program Design",
-      "Research",
-      "Recruitment"
-    ],
-    "audiences": [
-      "Pathway Program Staff",
-      "Program Leaders",
-      "Advisors",
-      "Educators",
-      "Researchers"
-    ],
-    "date_display": "October 6–8, 2026",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Registration price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly focused on pathway and bridge programs, student transitions, program success, and professional learning for people who run or support these programs.",
-    "official_url": "https://aspbp.org/aspbp-conference",
-    "source_url": "https://aspbp.org/aspbp-conference",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official ASPBP site and event updates"
     }
   },
   {
@@ -507,105 +461,6 @@
       "status": "verified",
       "last_verified": "2026-09-29",
       "verified_against": "Official AAMC Learn Serve Lead page"
-    }
-  },
-  {
-    "id": "scranton-us-conference-disability-2026",
-    "title": "25th Annual U.S. Conference on DISABILITY",
-    "organization": "The University of Scranton",
-    "description": "Daylong conference focused on disability inclusion and careers, honoring the legacy of Edward R. Leahy, Jr., with programming on transforming barriers into opportunities.",
-    "categories": [
-      "Disability",
-      "Rehabilitation",
-      "Counseling",
-      "Professional Development",
-      "Health Professions Education"
-    ],
-    "subcategories": [
-      "Disability Inclusion",
-      "Employment",
-      "Career Development",
-      "Rehabilitation",
-      "Health Equity"
-    ],
-    "audiences": [
-      "Educators",
-      "Healthcare Professionals",
-      "Students",
-      "Families",
-      "Advocates",
-      "Rehabilitation Professionals",
-      "Program Staff"
-    ],
-    "date_display": "October 7, 2026, 7:45 AM–approximately 4:30 PM",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Scranton, PA",
-    "distance_miles": 0,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Local conference with direct relevance to disability inclusion, rehabilitation, career development, health equity, and professional pathways for people working with students and healthcare populations.",
-    "official_url": "https://www.scranton.edu/disabilityconference",
-    "source_url": "https://news.scranton.edu/articles/2026/08/news-calndr-fall-2026.shtml",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official University of Scranton event calendar and conference announcement"
-    }
-  },
-  {
-    "id": "jefferson-intelligent-teaching-2026",
-    "title": "Intelligent Teaching: AI in Health Professions Education",
-    "organization": "Thomas Jefferson University",
-    "description": "Live national virtual conference for health professions educators, scholars, and innovators focused on practical AI competencies for teaching, learning, and institutional effectiveness.",
-    "categories": [
-      "AI in Healthcare",
-      "Healthcare Education",
-      "Medical Education",
-      "Faculty Development",
-      "Health Informatics"
-    ],
-    "subcategories": [
-      "AI in Education",
-      "Curriculum",
-      "Assessment",
-      "Educational Innovation"
-    ],
-    "audiences": [
-      "Health Professions Educators",
-      "Faculty",
-      "Scholars",
-      "Educational Innovators",
-      "Program Leaders"
-    ],
-    "date_display": "October 6–7, 2026",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct match for healthcare education, AI integration, curriculum, assessment, and faculty/program development; especially relevant to digital learning and pathway-program innovation.",
-    "official_url": "https://events.aihealthed.org/event/2026/summary",
-    "source_url": "https://www.jefferson.edu/academics/colleges-schools-institutes/population-health/leadership-workforce-development.html",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Thomas Jefferson University event listing"
     }
   },
   {
@@ -757,200 +612,6 @@
     }
   },
   {
-    "id": "ponl-annual-nursing-leadership-2026",
-    "title": "PONL Annual Nursing Leadership Conference",
-    "organization": "Pennsylvania Organization of Nurse Leaders",
-    "description": "Pennsylvania nursing leadership conference for professional development, leadership practice, networking, and contemporary healthcare issues.",
-    "categories": [
-      "Nursing Education",
-      "Faculty Development",
-      "Healthcare Education",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Nursing Leadership",
-      "Professional Development",
-      "Healthcare Workforce"
-    ],
-    "audiences": [
-      "Nurse Leaders",
-      "Nurse Educators",
-      "Healthcare Leaders",
-      "Program Leaders"
-    ],
-    "date_display": "October 1–2, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Harrisburg, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 675,
-      "currency": "USD",
-      "display": "$675 non-member two-day regular; $350 student/one-day; member pricing also listed on official page"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 11.5 nursing professional development contact hours"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Pennsylvania nursing leadership and workforce-development opportunity relevant to academic-practice partnerships, educator development, and healthcare pathway leadership.",
-    "official_url": "https://www.ponl.net/event-6558469",
-    "source_url": "https://www.ponl.net/event-6558469",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official PONL conference information"
-    }
-  },
-  {
-    "id": "pachc-annual-clinical-2026",
-    "title": "PACHC Annual Conference & Clinical Summit",
-    "organization": "Pennsylvania Association of Community Health Centers",
-    "description": "Pennsylvania community-health conference combining workforce, primary care, community health, health equity, clinical education, and current healthcare issues.",
-    "categories": [
-      "Community Health",
-      "Public Health",
-      "Health Equity",
-      "Workforce Development",
-      "Healthcare Education"
-    ],
-    "subcategories": [
-      "Community Health Centers",
-      "Primary Care",
-      "Health Workforce",
-      "Health Equity",
-      "Healthcare Innovation"
-    ],
-    "audiences": [
-      "Community Health Professionals",
-      "Clinicians",
-      "Educators",
-      "Healthcare Leaders",
-      "Program Staff"
-    ],
-    "date_display": "October 13–15, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Lancaster, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 600,
-      "currency": "USD",
-      "display": "$600/person for 1–5 registrants (members); $570 for 6–15; $540 for 16–25; $1,100 non-member"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "10.5 CE credits"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly connected to community health, health equity, healthcare workforce development, and Pennsylvania community-based care.",
-    "official_url": "https://pachc.org/annual-conference/",
-    "source_url": "https://pachc.org/annual-conference/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official PACHC conference information"
-    }
-  },
-  {
-    "id": "pacnp-annual-educational-2026",
-    "title": "PA Coalition of Nurse Practitioners Annual Educational Conference",
-    "organization": "PA Coalition of Nurse Practitioners",
-    "description": "Pennsylvania nurse-practitioner education conference with clinical, leadership, and professional-development content, including emerging healthcare technology.",
-    "categories": [
-      "Nursing Education",
-      "Healthcare Education",
-      "Professional Development",
-      "AI in Healthcare"
-    ],
-    "subcategories": [
-      "Nurse Practitioner Education",
-      "Leadership",
-      "Clinical Practice",
-      "Healthcare Technology"
-    ],
-    "audiences": [
-      "Nurse Practitioners",
-      "Nursing Educators",
-      "Healthcare Professionals",
-      "Program Leaders"
-    ],
-    "date_display": "October 15–17, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Erie, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 425,
-      "currency": "USD",
-      "display": "$425 two-day member / $550 two-day non-member; one-day options also listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 20 CEUs"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Useful Pennsylvania nursing education and workforce-development opportunity with contemporary healthcare technology content.",
-    "official_url": "https://www.pacnp.org/page/2026_Annual_Conference",
-    "source_url": "https://www.pacnp.org/page/2026_Annual_Conference",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official PA Coalition of Nurse Practitioners conference information"
-    }
-  },
-  {
-    "id": "ppa-fall-conference-2026",
-    "title": "Pennsylvania Psychological Association Virtual Fall Conference",
-    "organization": "Pennsylvania Psychological Association",
-    "description": "Virtual psychology professional-development conference with live educational sessions and continuing education, including contemporary practice topics.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Professional Development",
-      "Ethics"
-    ],
-    "subcategories": [
-      "Psychology",
-      "Behavioral Health",
-      "Ethics",
-      "Professional Practice"
-    ],
-    "audiences": [
-      "Psychologists",
-      "Behavioral Health Professionals",
-      "Educators",
-      "Students"
-    ],
-    "date_display": "October 16, 2026",
-    "registration_deadline": "October 15, 2026 at 5:00 PM EDT",
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 149,
-      "currency": "USD",
-      "display": "$149 member all-access; a la carte options $50–$150 depending workshop/ticket"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 8 live CE credits"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Relevant to behavioral-health professional development and continuing education, with an accessible online format for Pennsylvania professionals.",
-    "official_url": "https://www.papsy.org/events/2026-virtual-fall-conference",
-    "source_url": "https://www.papsy.org/events/2026-virtual-fall-conference",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Pennsylvania Psychological Association conference information"
-    }
-  },
-  {
     "id": "ppa-ethics-educators-2026",
     "title": "PPA Ethics Educators' Conference",
     "organization": "Pennsylvania Psychological Association",
@@ -1093,50 +754,6 @@
     }
   },
   {
-    "id": "good-shepherd-mind-your-brain-2026",
-    "title": "Mind Your Brain @ Good Shepherd Rehabilitation",
-    "organization": "Good Shepherd Rehabilitation",
-    "description": "Free conference for individuals with brain injury, families, caregivers, and healthcare professionals, with education focused on recovery and clinical practice.",
-    "categories": [
-      "Rehabilitation",
-      "Clinical Education",
-      "Community Health"
-    ],
-    "subcategories": [
-      "Brain Injury",
-      "TBI",
-      "Caregiver Support"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Rehabilitation Professionals",
-      "Caregivers",
-      "Families"
-    ],
-    "date_display": "October 10, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Center Valley, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Regional rehabilitation opportunity directly relevant to brain injury, caregiver support, clinical education, and rehabilitation workforce development.",
-    "official_url": "https://www.goodshepherdrehab.org/mind-your-brain-2026/",
-    "source_url": "https://www.goodshepherdrehab.org/mind-your-brain-2026/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-30",
-      "verified_against": "Official Good Shepherd Rehabilitation conference page"
-    }
-  },
-  {
     "id": "upmc-disability-equity-2026",
     "title": "Voices Values Visibility: Advancing Disability Equity Together Conference",
     "organization": "UPMC Center for Continuing Education in the Health Sciences",
@@ -1191,54 +808,6 @@
     }
   },
   {
-    "id": "penn-dental-ai-oral-medicine-2026",
-    "title": "Current Landscape of Artificial Intelligence in Oral Medicine",
-    "organization": "Penn Dental Medicine",
-    "description": "Hybrid case-based continuing-education session examining AI applications, limitations, ethics, clinical reasoning, education, and research in oral medicine.",
-    "categories": [
-      "AI in Healthcare",
-      "Healthcare Education",
-      "Biomedical Sciences",
-      "Health Informatics"
-    ],
-    "subcategories": [
-      "AI in Clinical Care",
-      "AI Ethics",
-      "Dental Education",
-      "Research"
-    ],
-    "audiences": [
-      "Dental Professionals",
-      "Educators",
-      "Researchers",
-      "Clinicians"
-    ],
-    "date_display": "October 16, 2026",
-    "registration_deadline": null,
-    "format": "Hybrid",
-    "region": "Philadelphia, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "5 CE credits"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong AI-in-healthcare education example connecting clinical decision support, ethics, research, and responsible educational integration.",
-    "official_url": "https://www.dental.upenn.edu/news-events/events/cde-aaom-fall-meeting/",
-    "source_url": "https://www.dental.upenn.edu/continuing-education/aaom-fall-meeting/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-30",
-      "verified_against": "Official Penn Dental Medicine event and continuing-education pages"
-    }
-  },
-  {
     "id": "pediatric-capacity-building-institute-2027",
     "title": "Pediatric Capacity Building Institute Year 4",
     "organization": "Pennsylvania Department of Human Services",
@@ -1285,164 +854,6 @@
       "status": "verified",
       "last_verified": "2026-09-30",
       "verified_against": "Official Pennsylvania DHS PCBI page and 2027 invitation"
-    }
-  },
-  {
-    "id": "geisinger-hics-oct6-2026",
-    "title": "Hospital Incident Command System Training - October 6, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person emergency preparedness training covering Hospital Incident Command System fundamentals, Geisinger-specific application, and a tabletop exercise.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Emergency Preparedness",
-      "Disaster Response",
-      "Tabletop Exercise"
-    ],
-    "audiences": [
-      "Physicians",
-      "Physician Assistants",
-      "Nurses",
-      "Pharmacists",
-      "Clinical Leaders",
-      "Geisinger Staff"
-    ],
-    "date_display": "October 6, 2026, 9:00 AM–1:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Waverly, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "4 AAPA Category I CME",
-      "4 ACPE",
-      "4 AMA PRA Category 1 Credit",
-      "4 ANCC",
-      "4 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct simulation-style tabletop exercise and emergency-management training relevant to health-professions education and preparedness.",
-    "official_url": "https://cce.geisinger.edu/node/31539",
-    "source_url": "https://cce.geisinger.edu/node/31539",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE course page"
-    }
-  },
-  {
-    "id": "geisinger-hics-oct16-2026",
-    "title": "Hospital Incident Command System Training - October 16, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person HICS emergency preparedness training with fundamentals, Geisinger application, and a tabletop exercise; open to Geisinger staff.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Emergency Preparedness",
-      "Disaster Response",
-      "Tabletop Exercise"
-    ],
-    "audiences": [
-      "Physicians",
-      "Physician Assistants",
-      "Nurses",
-      "Pharmacists",
-      "Respiratory Therapists",
-      "Administrators",
-      "Clinical Leaders",
-      "Geisinger Staff"
-    ],
-    "date_display": "October 16, 2026, 8:30 AM–12:30 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "4 AAPA Category I CME",
-      "4 ACPE",
-      "4 AMA PRA Category 1 Credit",
-      "4 ANCC",
-      "4 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Combines emergency-management education with a tabletop exercise and broad interprofessional participation, making it relevant to simulation and workforce preparation.",
-    "official_url": "https://cce.geisinger.edu/node/31547",
-    "source_url": "https://cce.geisinger.edu/node/31547",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE course page"
-    }
-  },
-  {
-    "id": "geisinger-peds-fccs-oct19-2026",
-    "title": "Fundamentals of Critical Care Medicine - Pediatric - October 19-20, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person pediatric critical-care course for clinicians who may care for critically ill children, with pediatric airway, neurologic assessment, resuscitation, trauma, and skill-station content.",
-    "categories": [
-      "Healthcare Education",
-      "Biomedical Sciences",
-      "Simulation",
-      "Nursing Education"
-    ],
-    "subcategories": [
-      "Pediatric Critical Care",
-      "Skills Training",
-      "Resuscitation"
-    ],
-    "audiences": [
-      "Healthcare Providers",
-      "Nurses",
-      "Respiratory Therapists",
-      "Physicians",
-      "PAs",
-      "Paramedics"
-    ],
-    "date_display": "October 19–20, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 350,
-      "currency": "USD",
-      "display": "$350"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "12.5 AAPA Category I CME",
-      "12.5 AMA PRA Category 1 Credit",
-      "12.5 ANCC",
-      "12.5 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Regional pediatric clinical education with multiple skill stations and multidisciplinary participation, relevant to healthcare training and simulation.",
-    "official_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-medicine-pediatric-october-19-20-2026",
-    "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-medicine-pediatric-october-19-20-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE course page"
     }
   },
   {
@@ -1505,49 +916,6 @@
     }
   },
   {
-    "id": "geisinger-mi-oct23-2026",
-    "title": "Motivational Interviewing Workshop - October 23, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "October 23, 2026, 9:00 AM–1:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/content/motivational-interviewing-shared-decision-making-and-behavior-change",
-    "source_url": "https://cce.geisinger.edu/content/motivational-interviewing-shared-decision-making-and-behavior-change",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-03",
-      "verified_against": "Official Geisinger CE course page"
-    }
-  },
-  {
     "id": "geisinger-nursing-research-2026",
     "title": "Translating Knowledge: Nursing Research and Evidence-Based Practice Conference 2026",
     "organization": "Geisinger College of Health Sciences",
@@ -1594,56 +962,8 @@
     "source_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-06",
+      "last_verified": "2026-10-08",
       "verified_against": "Official Geisinger CE conference page"
-    }
-  },
-  {
-    "id": "hrsa-pediatric-depression-anxiety-2026",
-    "title": "HRSA Grand Rounds: Screening and Treatment of Pediatric Depression and Anxiety",
-    "organization": "Health Resources and Services Administration",
-    "description": "Virtual HRSA Grand Rounds covering screening and diagnosis, non-pharmacologic interventions, prescribing considerations, and workforce support for pediatric depression and anxiety.",
-    "categories": [
-      "Public Health",
-      "Healthcare Education",
-      "Behavioral Health",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Child and Adolescent Mental Health",
-      "Pediatric Behavioral Health",
-      "Health Workforce"
-    ],
-    "audiences": [
-      "Health Professionals",
-      "Behavioral Health Professionals",
-      "Educators",
-      "Healthcare Workforce"
-    ],
-    "date_display": "October 7, 2026, 2:00–3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "1.0 CEU",
-      "1.0 AMA PRA Category 1 Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct connection to child/adolescent behavioral health, healthcare workforce education, and community-facing health programs.",
-    "official_url": "https://www.hrsa.gov/es/node/38159",
-    "source_url": "https://www.hrsa.gov/es/node/38159",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official HRSA continuing education page"
     }
   },
   {
@@ -1780,138 +1100,6 @@
       "status": "verified",
       "last_verified": "2026-10-04",
       "verified_against": "Official NIDDK Central Repository webinar schedule"
-    }
-  },
-  {
-    "id": "cdc-zohu-oct7-2026",
-    "title": "October 2026 ZOHU Call",
-    "organization": "Centers for Disease Control and Prevention",
-    "description": "Virtual One Health webinar covering H5N1 emergence and cattle movement, with free continuing education through CDC TRAIN.",
-    "categories": [
-      "Public Health",
-      "Community Health",
-      "Health Equity"
-    ],
-    "subcategories": [
-      "One Health",
-      "Emerging Infectious Diseases",
-      "Zoonotic Disease"
-    ],
-    "audiences": [
-      "Public Health Professionals",
-      "Healthcare Professionals",
-      "Educators",
-      "Researchers"
-    ],
-    "date_display": "October 7, 2026, 2:00–3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Free CDC continuing education"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Accessible public-health and One Health training relevant to community health, emerging infections, and workforce education.",
-    "official_url": "https://www.cdc.gov/zohu-call/webinars/october-26.html",
-    "source_url": "https://www.cdc.gov/zohu-call/webinars/october-26.html",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official CDC ZOHU webinar page"
-    }
-  },
-  {
-    "id": "geisinger-sane-refresher-2026",
-    "title": "SANE Refresher Course - 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Sexual Assault Nurse Examiner refresher educational activity listed on the Geisinger CE calendar.",
-    "categories": [
-      "Nursing Education",
-      "Healthcare Education",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Forensic Nursing",
-      "SANE",
-      "Clinical Education"
-    ],
-    "audiences": [
-      "Nurses",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 12, 2026, 7:00 AM–5:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Specialized nursing workforce development and clinical education relevant to preparation of healthcare professionals.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-pulmonary-symposium-2026",
-    "title": "15th Annual Pulmonary Medicine Symposium",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person pulmonary medicine symposium covering chronic cough, airway and laryngeal contributions, pulmonary function testing, behavioral cough suppression therapy, and interprofessional case discussion.",
-    "categories": [
-      "Biomedical Sciences",
-      "Healthcare Education",
-      "Research"
-    ],
-    "subcategories": [
-      "Pulmonary Medicine",
-      "Interprofessional Education",
-      "Clinical Practice"
-    ],
-    "audiences": [
-      "Physicians",
-      "Advanced Practitioners",
-      "Nurses",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 14, 2026, 7:30 AM–2:45 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 100,
-      "currency": "USD",
-      "display": "$100"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Regional interprofessional clinical education with explicit behavioral, diagnostic, and collaborative-care content.",
-    "official_url": "https://cce.geisinger.edu/content/15th-annual-pulmonary-medicine-symposium",
-    "source_url": "https://cce.geisinger.edu/content/15th-annual-pulmonary-medicine-symposium",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official Geisinger CE course page"
     }
   },
   {
@@ -2073,11 +1261,10 @@
     },
     "ce_available": true,
     "ce_types": [
-      "14.50 AAPA Category I CME",
-      "14.50 ACPE",
-      "14.50 AMA PRA Category 1 Credit™",
-      "14.50 ANCC",
-      "14.50 Participation Credit"
+      "14.5 AAPA Category I CME",
+      "14.5 AMA PRA Category 1 Credit",
+      "14.5 ANCC",
+      "14.5 Participation Credit"
     ],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
@@ -2086,142 +1273,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-06",
+      "last_verified": "2026-10-08",
       "verified_against": "Official Geisinger CE course page"
-    }
-  },
-  {
-    "id": "aacn-civility-2026",
-    "title": "Bringing the AACN Essentials to Life: Integrating Civility & Healthy Work Environments in Curricula",
-    "organization": "American Association of Colleges of Nursing",
-    "description": "Virtual AACN learning session on integrating civility and healthy work environments into nursing curricula.",
-    "categories": [
-      "Nursing Education",
-      "Healthcare Education",
-      "Faculty Development"
-    ],
-    "subcategories": [
-      "Civility",
-      "Healthy Work Environments",
-      "Curriculum"
-    ],
-    "audiences": [
-      "Nursing Faculty",
-      "Educators",
-      "Program Leaders"
-    ],
-    "date_display": "October 7, 2026, 2:00–3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Nursing continuing professional development"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct fit for curriculum design, professional formation, and health-professions education.",
-    "official_url": "https://www.aacnnursing.org/conferences-webinars",
-    "source_url": "https://www.aacnnursing.org/conferences-webinars",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official AACN conferences and webinars page"
-    }
-  },
-  {
-    "id": "aacn-nurse-voice-2026",
-    "title": "The Power of a Nurse’s Voice: Leading Change in Every Space",
-    "organization": "American Association of Colleges of Nursing",
-    "description": "Virtual AACN learning session focused on nursing leadership and leading change.",
-    "categories": [
-      "Nursing Education",
-      "Healthcare Education",
-      "Leadership"
-    ],
-    "subcategories": [
-      "Nursing Leadership",
-      "Advocacy",
-      "Change Management"
-    ],
-    "audiences": [
-      "Nursing Faculty",
-      "Nurses",
-      "Healthcare Leaders",
-      "Educators"
-    ],
-    "date_display": "October 14, 2026, 2:00–3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Nursing continuing professional development"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Useful leadership and professional-development content for nursing and health-professions educators.",
-    "official_url": "https://www.aacnnursing.org/conferences-webinars",
-    "source_url": "https://www.aacnnursing.org/conferences-webinars",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official AACN conferences and webinars page"
-    }
-  },
-  {
-    "id": "geisinger-coaching-oct15-2026",
-    "title": "Cultivating Competency Through Coaching Workshop - October 15, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person faculty-development workshop focused on cultivating competency through coaching.",
-    "categories": [
-      "Healthcare Education",
-      "Faculty Development",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Competency-Based Education",
-      "Coaching",
-      "Teaching"
-    ],
-    "audiences": [
-      "Educators",
-      "Faculty",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 15, 2026, 8:30 AM–4:30 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct fit for faculty development, competency-based education, and coaching within health-professions education.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
     }
   },
   {
@@ -2428,16 +1481,22 @@
       "display": "Price not listed"
     },
     "ce_available": true,
-    "ce_types": [],
+    "ce_types": [
+      "4 AAPA Category I CME",
+      "4 ACPE",
+      "4 AMA PRA Category 1 Credit",
+      "4 ANCC",
+      "4 Participation Credit"
+    ],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "official_url": "https://cce.geisinger.edu/content/hospital-incident-command-system-training-november-10-2026",
+    "source_url": "https://cce.geisinger.edu/content/hospital-incident-command-system-training-november-10-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Geisinger CE course page"
     }
   },
   {
@@ -2479,8 +1538,388 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Geisinger CE course page"
+    }
+  },
+  {
+    "id": "amia-first-look-students-2026",
+    "title": "AMIA 2026 First Look for Students Program",
+    "organization": "American Medical Informatics Association",
+    "description": "Student pathway program introducing undergraduate and graduate students to health informatics through mentored attendance, educational sessions, research presentations, scientific sessions, and networking at the AMIA Annual Symposium.",
+    "categories": [
+      "Health Informatics",
+      "Biomedical Sciences",
+      "Research",
+      "Pathway Programs",
+      "Student Success"
+    ],
+    "subcategories": [
+      "Student Pathways",
+      "Health Informatics Careers",
+      "Mentorship",
+      "Research Exposure"
+    ],
+    "audiences": [
+      "Undergraduate Students",
+      "Graduate Students",
+      "STEM Students",
+      "Nursing Students",
+      "Pharmacy Students",
+      "Public Health Students",
+      "Data Science Students"
+    ],
+    "date_display": "November 8, 2026, required attendance day; symposium runs November 7–11",
+    "registration_deadline": "October 16, 2026 at 11:59 PM ET",
+    "format": "In-person",
+    "region": "Dallas, TX",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Selected participants receive complimentary one-day registration, a $50 award incentive, and complimentary 2027 student/trainee membership"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong fit for biomedical career pathways, student advising, mentorship, health informatics exposure, and widening access to research-oriented career networks.",
+    "official_url": "https://amia.org/education-events/amia-2026-annual-symposium/first-look",
+    "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/first-look",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official AMIA First Look program page"
+    }
+  },
+  {
+    "id": "naahp-caahp-2027-regional-cfp",
+    "title": "2027 CAAHP Regional Conference: At the Heart of Pre-Health Advising",
+    "organization": "National Association of Advisors for the Health Professions / CAAHP",
+    "description": "Regional pre-health advising conference in Minneapolis with proposals invited for workshops, concurrent sessions, and posters. Attendee registration is scheduled to open in January 2027.",
+    "categories": [
+      "Health Professions Advising",
+      "Medical School Advising",
+      "Pathway Programs",
+      "Student Success",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Pre-Health Advising",
+      "Conference Presentations",
+      "Student Transitions",
+      "Advising Practice"
+    ],
+    "audiences": [
+      "Pre-Health Advisors",
+      "Health Professions Advisors",
+      "Faculty",
+      "Program Leaders",
+      "Student Success Professionals",
+      "Researchers"
+    ],
+    "date_display": "April 7–10, 2027",
+    "registration_deadline": "Call for proposals deadline: October 16, 2026 at 5:00 PM ET",
+    "format": "In-person",
+    "region": "Minneapolis, MN",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Attendee registration opens January 2027; future attendee prices listed on official source"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct fit for Pathways staff through advising practice, program improvement, presentation, networking, and student-transition learning.",
+    "official_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
+    "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official CAAHP meetings and CFP page"
+    }
+  },
+  {
+    "id": "aca-act-fundamentals-oct22-2026",
+    "title": "ACT Fundamentals: Six Core Processes to Increase Psychological Flexibility",
+    "organization": "American Counseling Association",
+    "description": "Live one-hour counseling webinar introducing psychological flexibility, the six core ACT processes, experiential avoidance, cognitive fusion, and practical ACT-based interventions.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Acceptance and Commitment Therapy",
+      "Psychological Flexibility",
+      "Clinical Skills"
+    ],
+    "audiences": [
+      "Counselors",
+      "Behavioral Health Professionals",
+      "Counselor Educators",
+      "Students"
+    ],
+    "date_display": "October 22, 2026, 1:00–2:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed on retrieved official page"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "1.0 NBCC hours",
+      "1.0 Washington hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to counseling practice, evidence-informed clinical skills, and behavioral-health workforce development.",
+    "official_url": "https://learn.counseling.org/products/live-webinar-act-fundamentals-six-core-processes-to-increase-psychological-flexibility",
+    "source_url": "https://learn.counseling.org/products/live-webinar-act-fundamentals-six-core-processes-to-increase-psychological-flexibility",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official ACA Learn webinar and CE page"
+    }
+  },
+  {
+    "id": "geisinger-respiratory-care-nov13-2026",
+    "title": "21st Annual Fall into Step with Respiratory Care",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person respiratory care conference covering adult and pediatric critical care, respiratory disease, mass-casualty respiratory conditions, ICU Liberation, ventilation strategies, and cystic fibrosis updates.",
+    "categories": [
+      "Healthcare Education",
+      "Nursing Education",
+      "Biomedical Sciences",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Respiratory Care",
+      "Critical Care",
+      "Pulmonary Medicine",
+      "Pediatric Care"
+    ],
+    "audiences": [
+      "Respiratory Therapists",
+      "Nurses",
+      "Providers",
+      "Pulmonary Healthcare Team",
+      "Respiratory Therapy Students",
+      "Nursing Students"
+    ],
+    "date_display": "November 13, 2026, 7:30 AM–5:15 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 100,
+      "currency": "USD",
+      "display": "$100"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "6 AMA PRA Category 1 Credit",
+      "6 ANCC",
+      "6 Participation Credit"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Regional interprofessional clinical education and workforce training with pediatric and adult critical-care content.",
+    "official_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
+    "source_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Geisinger CE conference page"
+    }
+  },
+  {
+    "id": "pa-hiv-special-populations-oct15-2026",
+    "title": "HIV and Special Populations: HIV Care in Communities with Specific Needs",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training for HIV prevention and care providers on HIV care in communities with specific needs; registration requires the code listed by the official state training page.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Health Equity",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Special Populations",
+      "Community-Based Care"
+    ],
+    "audiences": [
+      "Ryan White Case Managers",
+      "HIV Care Providers",
+      "SNNLP Navigators",
+      "Pennsylvania Department of Health Employees",
+      "CMHD Employees"
+    ],
+    "date_display": "October 15, 2026, 9:00–11:00 AM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Strong community-health and equity fit for workforce training, public-health practice, and culturally responsive services.",
+    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Pennsylvania Department of Health training page"
+    }
+  },
+  {
+    "id": "pa-hiv-benefits-oct26-2026",
+    "title": "Public Benefits for People with HIV - Part 1",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training for Ryan White case managers and HIV-service navigators covering public benefits for people with HIV.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Health Equity",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Benefits Navigation",
+      "Case Management"
+    ],
+    "audiences": [
+      "Ryan White Case Managers",
+      "SNNLP Navigators",
+      "Pennsylvania Department of Health Employees",
+      "CMHD Employees"
+    ],
+    "date_display": "October 26–28, 2026, 10:00 AM–12:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Supports community-based case management and access-to-care navigation for underserved populations.",
+    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Pennsylvania Department of Health training page"
+    }
+  },
+  {
+    "id": "pa-hiv-aging-oct29-2026",
+    "title": "HIV and Special Populations: HIV & Aging",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training focused on HIV and aging for HIV prevention and care providers.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Health Equity",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Aging",
+      "Special Populations"
+    ],
+    "audiences": [
+      "Ryan White Case Managers",
+      "SNNLP Navigators",
+      "Pennsylvania Department of Health Employees",
+      "CMHD Employees"
+    ],
+    "date_display": "October 29, 2026, 9:00–11:00 AM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to lifespan-sensitive community health training and healthcare navigation for people with HIV.",
+    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Pennsylvania Department of Health training page"
+    }
+  },
+  {
+    "id": "pa-hiv-behavioral-health-nov9-2026",
+    "title": "Co-occurring Behavioral Health Issues in HIV Care",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training for HIV care case managers and navigators on co-occurring behavioral-health issues in HIV care.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Public Health",
+      "Community Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Co-occurring Conditions",
+      "Case Management"
+    ],
+    "audiences": [
+      "Ryan White Case Managers",
+      "SNNLP Navigators",
+      "Pennsylvania Department of Health Employees",
+      "CMHD Employees"
+    ],
+    "date_display": "November 9–10, 2026, 10:00 AM–12:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct connection between behavioral health, counseling, community-based HIV care, and interprofessional workforce training.",
+    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-08",
+      "verified_against": "Official Pennsylvania Department of Health training page"
     }
   }
 ]
