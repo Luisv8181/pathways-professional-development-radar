@@ -21,7 +21,7 @@
       "Nurses",
       "Respiratory Therapists"
     ],
-    "date_display": "October 26, 2026, 7:00 AM–5:30 PM EDT",
+    "date_display": "October 26, 2026, 7:00 AM\u20135:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Scranton, PA",
@@ -34,7 +34,7 @@
     "ce_available": true,
     "ce_types": [
       "8.00 AAPA Category I CME",
-      "8.00 AMA PRA Category 1 Credit™",
+      "8.00 AMA PRA Category 1 Credit\u2122",
       "8.00 ANCC",
       "8.00 Participation Credit"
     ],
@@ -71,7 +71,7 @@
       "Program Coordinators",
       "Healthcare Professionals"
     ],
-    "date_display": "November 12–13, 2026",
+    "date_display": "November 12\u201313, 2026",
     "registration_deadline": "October 21, 2026 regular registration",
     "format": "In-person",
     "region": "State College, PA",
@@ -122,7 +122,7 @@
       "Healthcare Leaders",
       "Trainees"
     ],
-    "date_display": "November 7–11, 2026",
+    "date_display": "November 7\u201311, 2026",
     "registration_deadline": "October 5, 2026 advanced registration ended; standard rates now apply",
     "format": "In-person",
     "region": "Dallas, TX",
@@ -170,7 +170,7 @@
       "Educators",
       "Healthcare Professionals"
     ],
-    "date_display": "November 1–4, 2026",
+    "date_display": "November 1\u20134, 2026",
     "registration_deadline": null,
     "format": "Hybrid",
     "region": "San Antonio, TX",
@@ -212,7 +212,7 @@
       "Program Leaders",
       "Educators"
     ],
-    "date_display": "November 3–4, 2026",
+    "date_display": "November 3\u20134, 2026",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -256,7 +256,7 @@
       "Educators",
       "Program Leaders"
     ],
-    "date_display": "November 18–19, 2026, 12:00–4:00 PM ET each day",
+    "date_display": "November 18\u201319, 2026, 12:00\u20134:00 PM ET each day",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -302,7 +302,7 @@
       "Deans",
       "Program Leaders"
     ],
-    "date_display": "December 3–5, 2026",
+    "date_display": "December 3\u20135, 2026",
     "registration_deadline": "November 4, 2026 early registration ends",
     "format": "In-person",
     "region": "Indianapolis, IN",
@@ -440,7 +440,7 @@
       "Advisors",
       "Researchers"
     ],
-    "date_display": "November 6–10, 2026",
+    "date_display": "November 6\u201310, 2026",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Anaheim, CA",
@@ -467,7 +467,7 @@
     "id": "commonwealth-cmhc-virtual-2026",
     "title": "5th Annual Clinical Mental Health Counseling Virtual Conference",
     "organization": "Commonwealth University of Pennsylvania",
-    "description": "Virtual counseling conference, “Context Matters: Counseling in Changing Times,” with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.",
+    "description": "Virtual counseling conference, \u201cContext Matters: Counseling in Changing Times,\u201d with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.",
     "categories": [
       "Counseling",
       "Behavioral Health",
@@ -487,7 +487,7 @@
       "Counselor Educators",
       "Healthcare Professionals"
     ],
-    "date_display": "October 16, 2026, 9:00 AM–4:00 PM ET",
+    "date_display": "October 16, 2026, 9:00 AM\u20134:00 PM ET",
     "registration_deadline": "October 9, 2026 at 5:00 PM ET",
     "format": "Online",
     "region": "Online",
@@ -588,7 +588,7 @@
       "Medical School Admissions Professionals",
       "Students"
     ],
-    "date_display": "October 27–28, 2026, 11:00 AM–6:00 PM ET",
+    "date_display": "October 27\u201328, 2026, 11:00 AM\u20136:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -778,7 +778,7 @@
       "Advocates",
       "Social Workers"
     ],
-    "date_display": "October 23, 2026, 8:30 AM–4:30 PM ET",
+    "date_display": "October 23, 2026, 8:30 AM\u20134:30 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -833,7 +833,7 @@
       "County Administrators",
       "System-of-Care Professionals"
     ],
-    "date_display": "March–November 2027; sessions listed through November",
+    "date_display": "March\u2013November 2027; sessions listed through November",
     "registration_deadline": "October 6, 2026 interest survey",
     "format": "Hybrid",
     "region": "Harrisburg, PA / Online",
@@ -884,7 +884,7 @@
       "Students",
       "Administrative Staff"
     ],
-    "date_display": "October 22, 2026, 8:00 AM–4:00 PM EDT",
+    "date_display": "October 22, 2026, 8:00 AM\u20134:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -939,7 +939,7 @@
       "Faculty",
       "Healthcare Professionals"
     ],
-    "date_display": "November 11, 2026, 7:00 AM–3:30 PM EST",
+    "date_display": "November 11, 2026, 7:00 AM\u20133:30 PM EST",
     "registration_deadline": null,
     "format": "Hybrid",
     "region": "Danville, PA / Online",
@@ -988,7 +988,7 @@
       "Trainees",
       "Biomedical Scientists"
     ],
-    "date_display": "October 29, 2026, 2:30–4:00 PM ET",
+    "date_display": "October 29, 2026, 2:30\u20134:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1032,7 +1032,7 @@
       "Program Leaders",
       "Biomedical Scientists"
     ],
-    "date_display": "October 28, 2026, 3:00–4:30 PM ET",
+    "date_display": "October 28, 2026, 3:00\u20134:30 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1079,7 +1079,7 @@
       "Educators",
       "Trainees"
     ],
-    "date_display": "October 28, 2026, 3:00–4:00 PM ET",
+    "date_display": "October 28, 2026, 3:00\u20134:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1122,7 +1122,7 @@
       "Clinical Leaders",
       "Geisinger Staff"
     ],
-    "date_display": "October 22, 2026, 12:00–4:00 PM EDT",
+    "date_display": "October 22, 2026, 12:00\u20134:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1163,7 +1163,7 @@
       "Clinicians",
       "Educators"
     ],
-    "date_display": "October 23, 2026, 7:30 AM–3:00 PM EDT",
+    "date_display": "October 23, 2026, 7:30 AM\u20133:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1206,7 +1206,7 @@
       "Nurses",
       "Clinicians"
     ],
-    "date_display": "October 26, 2026, 8:00 AM–5:00 PM EDT",
+    "date_display": "October 26, 2026, 8:00 AM\u20135:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1249,7 +1249,7 @@
       "Nurses",
       "Clinicians"
     ],
-    "date_display": "October 29–30, 2026, 8:00 AM–5:30 PM EDT",
+    "date_display": "October 29\u201330, 2026, 8:00 AM\u20135:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1297,7 +1297,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 28, 2026, 9:00 AM–1:00 PM EDT",
+    "date_display": "October 28, 2026, 9:00 AM\u20131:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1340,7 +1340,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 29, 2026, 12:00–4:00 PM EDT",
+    "date_display": "October 29, 2026, 12:00\u20134:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1383,7 +1383,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 30, 2026, 12:00–4:00 PM EDT",
+    "date_display": "October 30, 2026, 12:00\u20134:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1408,7 +1408,7 @@
   },
   {
     "id": "geisinger-fccs-nov3-2026",
-    "title": "Fundamentals of Critical Care Support Provider Course - November 3–4, 2026",
+    "title": "Fundamentals of Critical Care Support Provider Course - November 3\u20134, 2026",
     "organization": "Geisinger College of Health Sciences",
     "description": "In-person critical-care provider course listed on the Geisinger CE calendar.",
     "categories": [
@@ -1427,7 +1427,7 @@
       "Physicians",
       "PAs"
     ],
-    "date_display": "November 3–4, 2026, 7:00 AM–5:00 PM EDT",
+    "date_display": "November 3\u20134, 2026, 7:00 AM\u20135:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1470,7 +1470,7 @@
       "Clinical Leaders",
       "Geisinger Staff"
     ],
-    "date_display": "November 10, 2026, 9:00 AM–1:00 PM EST",
+    "date_display": "November 10, 2026, 9:00 AM\u20131:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1519,7 +1519,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 10, 2026, 12:00–4:00 PM EST",
+    "date_display": "November 10, 2026, 12:00\u20134:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1569,7 +1569,7 @@
       "Public Health Students",
       "Data Science Students"
     ],
-    "date_display": "November 8, 2026, required attendance day; symposium runs November 7–11",
+    "date_display": "November 8, 2026, required attendance day; symposium runs November 7\u201311",
     "registration_deadline": "October 16, 2026 at 11:59 PM ET",
     "format": "In-person",
     "region": "Dallas, TX",
@@ -1618,7 +1618,7 @@
       "Student Success Professionals",
       "Researchers"
     ],
-    "date_display": "April 7–10, 2027",
+    "date_display": "April 7\u201310, 2027",
     "registration_deadline": "Call for proposals deadline: October 16, 2026 at 5:00 PM ET",
     "format": "In-person",
     "region": "Minneapolis, MN",
@@ -1662,7 +1662,7 @@
       "Counselor Educators",
       "Students"
     ],
-    "date_display": "October 22, 2026, 1:00–2:00 PM ET",
+    "date_display": "October 22, 2026, 1:00\u20132:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1713,7 +1713,7 @@
       "Respiratory Therapy Students",
       "Nursing Students"
     ],
-    "date_display": "November 13, 2026, 7:30 AM–5:15 PM EST",
+    "date_display": "November 13, 2026, 7:30 AM\u20135:15 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1763,7 +1763,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "October 15, 2026, 9:00–11:00 AM ET",
+    "date_display": "October 15, 2026, 9:00\u201311:00 AM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1808,7 +1808,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "October 26–28, 2026, 10:00 AM–12:00 PM ET",
+    "date_display": "October 26\u201328, 2026, 10:00 AM\u201312:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1853,7 +1853,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "October 29, 2026, 9:00–11:00 AM ET",
+    "date_display": "October 29, 2026, 9:00\u201311:00 AM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1899,7 +1899,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "November 9–10, 2026, 10:00 AM–12:00 PM ET",
+    "date_display": "November 9\u201310, 2026, 10:00 AM\u201312:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1920,6 +1920,639 @@
       "status": "verified",
       "last_verified": "2026-10-08",
       "verified_against": "Official Pennsylvania Department of Health training page"
+    }
+  },
+  {
+    "id": "geisinger-mi-oct23-2026",
+    "title": "Motivational Interviewing Workshop - October 23, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "October 23, 2026, 9:00 AM\u20131:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-nov16-2026",
+    "title": "Motivational Interviewing Workshop - November 16, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "November 16, 2026, 12:00\u20134:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-nov20-2026",
+    "title": "Motivational Interviewing Workshop - November 20, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "November 20, 2026, 9:00 AM\u20131:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-nov23-2026",
+    "title": "Motivational Interviewing Workshop - November 23, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "November 23, 2026, 12:00\u20134:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-dec2-2026",
+    "title": "Motivational Interviewing Workshop - December 2, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "December 2, 2026, 9:00 AM\u20131:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-dec4-2026",
+    "title": "Motivational Interviewing Workshop - December 4, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "December 4, 2026, 12:00\u20134:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-dec11-2026",
+    "title": "Motivational Interviewing Workshop - December 11, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "December 11, 2026, 12:00\u20134:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-mi-dec14-2026",
+    "title": "Motivational Interviewing Workshop - December 14, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
+    "categories": [
+      "Counseling",
+      "Healthcare Education",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Motivational Interviewing",
+      "Behavior Change",
+      "Shared Decision Making"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Counselors",
+      "Clinicians"
+    ],
+    "date_display": "December 14, 2026, 12:00\u20134:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Port Matilda, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-hics-oct16-2026",
+    "title": "Hospital Incident Command System Training - October 16, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Hospital Incident Command System training with a tabletop exercise, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Emergency Preparedness",
+      "Disaster Response",
+      "Tabletop Exercise"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Clinical Leaders",
+      "Geisinger Staff"
+    ],
+    "date_display": "October 16, 2026, 8:30 AM\u201312:30 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-hics-nov12-2026",
+    "title": "Hospital Incident Command System Training - November 12, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person Hospital Incident Command System training with a tabletop exercise, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Emergency Preparedness",
+      "Disaster Response",
+      "Tabletop Exercise"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Clinical Leaders",
+      "Geisinger Staff"
+    ],
+    "date_display": "November 12, 2026, 9:00 AM\u20131:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Danville, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-sane-refresher-2026",
+    "title": "SANE Refresher Course - 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person SANE refresher course for nurses and providers supporting forensic examination services, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Nursing Education",
+      "Healthcare Education",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Forensic Nursing",
+      "Sexual Assault Nurse Examiner",
+      "Continuing Education"
+    ],
+    "audiences": [
+      "Nurses",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 12, 2026, 7:00 AM\u20135:00 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to nursing continuing education, trauma-informed forensic practice, and workforce capacity.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-pulmonary-symposium-2026",
+    "title": "15th Annual Pulmonary Medicine Symposium",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person annual pulmonary medicine symposium, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Biomedical Sciences",
+      "Medical Education"
+    ],
+    "subcategories": [
+      "Pulmonary Medicine",
+      "Clinical Education"
+    ],
+    "audiences": [
+      "Physicians",
+      "Healthcare Professionals",
+      "Clinicians"
+    ],
+    "date_display": "October 14, 2026, 7:30 AM\u20132:45 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to biomedical and clinical continuing education for health-professions staff.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-coaching-competency-oct2026",
+    "title": "Cultivating Competency Through Coaching Workshop - October 15, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person coaching workshop for cultivating competency, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Coaching and Mentoring",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Coaching",
+      "Competency-Based Education",
+      "Professional Development"
+    ],
+    "audiences": [
+      "Educators",
+      "Clinical Leaders",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 15, 2026, 8:30 AM\u20134:30 PM EDT",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to coaching, competency-based education, and faculty development.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-fccs-pediatric-2026",
+    "title": "Fundamentals of Critical Care Medicine - Pediatric - October 19-20, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person pediatric fundamentals of critical care medicine course, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Critical Care",
+      "Pediatrics",
+      "Clinical Training"
+    ],
+    "audiences": [
+      "Physicians",
+      "Nurses",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 19\u201320, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to clinical continuing education and workforce development.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "geisinger-coaching-competency-jan2027",
+    "title": "Cultivating Competency Through Coaching Workshop - January 20, 2027",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person coaching workshop for cultivating competency, listed in the Geisinger CE upcoming-events calendar.",
+    "categories": [
+      "Healthcare Education",
+      "Coaching and Mentoring",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Coaching",
+      "Competency-Based Education",
+      "Professional Development"
+    ],
+    "audiences": [
+      "Educators",
+      "Clinical Leaders",
+      "Healthcare Professionals"
+    ],
+    "date_display": "January 20, 2027, 8:30 AM\u20134:30 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Relevant to coaching, competency-based education, and faculty development.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-10",
+      "verified_against": "Official Geisinger CE upcoming-events calendar"
     }
   }
 ]
