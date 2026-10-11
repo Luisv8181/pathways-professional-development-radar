@@ -92,9 +92,9 @@
     "official_url": "https://health-education.outreach.psu.edu/register/",
     "source_url": "https://health-education.outreach.psu.edu/",
     "verification": {
-      "status": "verified",
+      "status": "needs_review",
       "last_verified": "2026-09-29",
-      "verified_against": "Official Penn State conference and registration pages"
+      "verified_against": "Official PSU Strategies pages checked 2026-10-11: registration and home pages still show 2025 conference content; 2026 dates, prices, and registration deadlines are not yet posted. 2026 details unconfirmed."
     }
   },
   {
@@ -365,9 +365,9 @@
     "official_url": "https://community.counseling.org/browse/announcements",
     "source_url": "https://community.counseling.org/browse/announcements",
     "verification": {
-      "status": "verified",
+      "status": "needs_review",
       "last_verified": "2026-09-29",
-      "verified_against": "Official ACA community announcement"
+      "verified_against": "ACA Connect announcements checked 2026-10-11: official Advocacy Power Hour schedule lists sessions only through July 16, 2026; no October 2026 session is posted. Oct 15, 2026 date unconfirmed."
     }
   },
   {
@@ -391,7 +391,7 @@
       "Healthcare Professionals",
       "Program Leaders"
     ],
-    "date_display": "October 20, 2026",
+    "date_display": "October 20, 2026, 1:00\u20132:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -410,8 +410,8 @@
     "source_url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official AMA ChangeMedEd 2026 webinar listing"
+      "last_verified": "2026-10-11",
+      "verified_against": "AMA ChangeMedEd webinar listing + on24 registration page (Oct 20, 2026, noon-1 PM CT; Master Adaptive Learner / Learning Health Systems / AI themes)"
     }
   },
   {
@@ -508,8 +508,8 @@
     "source_url": "https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Commonwealth University event page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official Commonwealth University event page (Oct 16, 2026, 9 AM-4 PM ET, Zoom; theme \"Context Matters: Counseling in Changing Times\"; 7 CE; small fee; registration closed Oct 9)"
     }
   },
   {
@@ -539,7 +539,7 @@
       "Healthcare Leaders",
       "Administrators"
     ],
-    "date_display": "November 7, 2026",
+    "date_display": "November 7, 2026, 7:30 AM\u20134:30 PM ET",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Center Valley, PA",
@@ -560,8 +560,8 @@
     "source_url": "https://www.desales.edu/beyond-the-classroom/pt-continuing-education",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official DeSales University continuing education page"
+      "last_verified": "2026-10-11",
+      "verified_against": "DeSales announcement + PT Continuing Education page (Sat Nov 7, 7:30 AM-4:30 PM, Gambet Center; interdisciplinary AI conference; keynote Martin Pusic, MD, PhD, Harvard)"
     }
   },
   {
@@ -607,8 +607,8 @@
     "source_url": "https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official AAMC Virtual Medical School Fair page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official AAMC Virtual Fair event page (Oct 27-28, 2026, 11 AM-6 PM ET; 5 live Zoom sessions Oct 27; free attendee access)"
     }
   },
   {
@@ -654,8 +654,8 @@
     "source_url": "https://www.papsy.org/events/ethics-educators-conference-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Pennsylvania Psychological Association conference information"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official PPA event page (Oct 23, 2026; 4 sessions, 6 CE; $100 PPA member / $200 non-member / $30 student member)"
     }
   },
   {
@@ -1570,7 +1570,7 @@
       "Data Science Students"
     ],
     "date_display": "November 8, 2026, required attendance day; symposium runs November 7\u201311",
-    "registration_deadline": "October 16, 2026 at 11:59 PM ET",
+    "registration_deadline": "October 16, 2026 at 11:59 PM PT",
     "format": "In-person",
     "region": "Dallas, TX",
     "distance_miles": null,
@@ -1588,8 +1588,8 @@
     "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/first-look",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official AMIA First Look program page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official AMIA First Look application form (10th annual; Sun Nov 8, 2026, Hilton Anatole, Dallas; deadline Oct 16, 2026 11:59 PM PT; $50 award + complimentary one-day registration + 2027 student/trainee membership)"
     }
   },
   {
@@ -1636,9 +1636,9 @@
     "official_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "verification": {
-      "status": "verified",
+      "status": "needs_review",
       "last_verified": "2026-10-08",
-      "verified_against": "Official CAAHP meetings and CFP page"
+      "verified_against": "Recorded official URL returns HTTP 404 on 2026-10-11 (NAAHP site restructured); CFP deadline and 2027 conference details not confirmable."
     }
   },
   {
@@ -1782,8 +1782,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official Pennsylvania Department of Health training page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
     }
   },
   {
@@ -1827,8 +1827,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official Pennsylvania Department of Health training page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
     }
   },
   {
@@ -1872,8 +1872,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official Pennsylvania Department of Health training page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
     }
   },
   {
@@ -1918,8 +1918,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official Pennsylvania Department of Health training page"
+      "last_verified": "2026-10-11",
+      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
     }
   },
   {
@@ -2553,6 +2553,51 @@
       "status": "verified",
       "last_verified": "2026-10-10",
       "verified_against": "Official Geisinger CE upcoming-events calendar"
+    }
+  },
+  {
+    "id": "pa-hiv-benefits-part2-nov16-2026",
+    "title": "Public Benefits for People with HIV - Part 2",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training for Ryan White case managers and HIV-service navigators, continuing the Public Benefits series for people with HIV.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Health Equity",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Benefits Navigation",
+      "Case Management"
+    ],
+    "audiences": [
+      "Ryan White Case Managers",
+      "SNNLP Navigators",
+      "Pennsylvania Department of Health Employees",
+      "CMHD Employees"
+    ],
+    "date_display": "November 16\u201317, 2026, 10:00 AM\u201312:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Supports community-based case management and access-to-care navigation for underserved populations.",
+    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-11",
+      "verified_against": "Official PA DOH HIV Education and Training page (Part 2 of Medical Case Management training series; registration via Mid-Atlantic AETC, password PACM)"
     }
   }
 ]
