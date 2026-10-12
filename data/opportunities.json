@@ -21,7 +21,7 @@
       "Nurses",
       "Respiratory Therapists"
     ],
-    "date_display": "October 26, 2026, 7:00 AM\u20135:30 PM EDT",
+    "date_display": "October 26, 2026, 7:00 AM–5:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Scranton, PA",
@@ -34,7 +34,7 @@
     "ce_available": true,
     "ce_types": [
       "8.00 AAPA Category I CME",
-      "8.00 AMA PRA Category 1 Credit\u2122",
+      "8.00 AMA PRA Category 1 Credit™",
       "8.00 ANCC",
       "8.00 Participation Credit"
     ],
@@ -71,7 +71,7 @@
       "Program Coordinators",
       "Healthcare Professionals"
     ],
-    "date_display": "November 12\u201313, 2026",
+    "date_display": "November 12–13, 2026",
     "registration_deadline": "October 21, 2026 regular registration",
     "format": "In-person",
     "region": "State College, PA",
@@ -122,7 +122,7 @@
       "Healthcare Leaders",
       "Trainees"
     ],
-    "date_display": "November 7\u201311, 2026",
+    "date_display": "November 7–11, 2026",
     "registration_deadline": "October 5, 2026 advanced registration ended; standard rates now apply",
     "format": "In-person",
     "region": "Dallas, TX",
@@ -170,7 +170,7 @@
       "Educators",
       "Healthcare Professionals"
     ],
-    "date_display": "November 1\u20134, 2026",
+    "date_display": "November 1–4, 2026",
     "registration_deadline": null,
     "format": "Hybrid",
     "region": "San Antonio, TX",
@@ -212,7 +212,7 @@
       "Program Leaders",
       "Educators"
     ],
-    "date_display": "November 3\u20134, 2026",
+    "date_display": "November 3–4, 2026",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -256,7 +256,7 @@
       "Educators",
       "Program Leaders"
     ],
-    "date_display": "November 18\u201319, 2026, 12:00\u20134:00 PM ET each day",
+    "date_display": "November 18–19, 2026, 12:00–4:00 PM ET each day",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -302,7 +302,7 @@
       "Deans",
       "Program Leaders"
     ],
-    "date_display": "December 3\u20135, 2026",
+    "date_display": "December 3–5, 2026",
     "registration_deadline": "November 4, 2026 early registration ends",
     "format": "In-person",
     "region": "Indianapolis, IN",
@@ -391,7 +391,7 @@
       "Healthcare Professionals",
       "Program Leaders"
     ],
-    "date_display": "October 20, 2026, 1:00\u20132:00 PM ET",
+    "date_display": "October 20, 2026, 1:00–2:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -440,7 +440,7 @@
       "Advisors",
       "Researchers"
     ],
-    "date_display": "November 6\u201310, 2026",
+    "date_display": "November 6–10, 2026",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Anaheim, CA",
@@ -467,7 +467,7 @@
     "id": "commonwealth-cmhc-virtual-2026",
     "title": "5th Annual Clinical Mental Health Counseling Virtual Conference",
     "organization": "Commonwealth University of Pennsylvania",
-    "description": "Virtual counseling conference, \u201cContext Matters: Counseling in Changing Times,\u201d with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.",
+    "description": "Virtual counseling conference, “Context Matters: Counseling in Changing Times,” with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.",
     "categories": [
       "Counseling",
       "Behavioral Health",
@@ -487,7 +487,7 @@
       "Counselor Educators",
       "Healthcare Professionals"
     ],
-    "date_display": "October 16, 2026, 9:00 AM\u20134:00 PM ET",
+    "date_display": "October 16, 2026, 9:00 AM–4:00 PM ET",
     "registration_deadline": "October 9, 2026 at 5:00 PM ET",
     "format": "Online",
     "region": "Online",
@@ -539,7 +539,7 @@
       "Healthcare Leaders",
       "Administrators"
     ],
-    "date_display": "November 7, 2026, 7:30 AM\u20134:30 PM ET",
+    "date_display": "November 7, 2026, 7:30 AM–4:30 PM ET",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Center Valley, PA",
@@ -588,7 +588,7 @@
       "Medical School Admissions Professionals",
       "Students"
     ],
-    "date_display": "October 27\u201328, 2026, 11:00 AM\u20136:00 PM ET",
+    "date_display": "October 27–28, 2026, 11:00 AM–6:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -778,7 +778,7 @@
       "Advocates",
       "Social Workers"
     ],
-    "date_display": "October 23, 2026, 8:30 AM\u20134:30 PM ET",
+    "date_display": "October 23, 2026, 8:30 AM–4:30 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -833,7 +833,7 @@
       "County Administrators",
       "System-of-Care Professionals"
     ],
-    "date_display": "March\u2013November 2027; sessions listed through November",
+    "date_display": "March–November 2027; sessions listed through November",
     "registration_deadline": "October 6, 2026 interest survey",
     "format": "Hybrid",
     "region": "Harrisburg, PA / Online",
@@ -884,7 +884,7 @@
       "Students",
       "Administrative Staff"
     ],
-    "date_display": "October 22, 2026, 8:00 AM\u20134:00 PM EDT",
+    "date_display": "October 22, 2026, 8:00 AM–4:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -939,7 +939,7 @@
       "Faculty",
       "Healthcare Professionals"
     ],
-    "date_display": "November 11, 2026, 7:00 AM\u20133:30 PM EST",
+    "date_display": "November 11, 2026, 7:00 AM–3:30 PM EST",
     "registration_deadline": null,
     "format": "Hybrid",
     "region": "Danville, PA / Online",
@@ -988,7 +988,7 @@
       "Trainees",
       "Biomedical Scientists"
     ],
-    "date_display": "October 29, 2026, 2:30\u20134:00 PM ET",
+    "date_display": "October 29, 2026, 2:30–4:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1032,7 +1032,7 @@
       "Program Leaders",
       "Biomedical Scientists"
     ],
-    "date_display": "October 28, 2026, 3:00\u20134:30 PM ET",
+    "date_display": "October 28, 2026, 3:00–4:30 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1079,7 +1079,7 @@
       "Educators",
       "Trainees"
     ],
-    "date_display": "October 28, 2026, 3:00\u20134:00 PM ET",
+    "date_display": "October 28, 2026, 3:00–4:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1122,7 +1122,7 @@
       "Clinical Leaders",
       "Geisinger Staff"
     ],
-    "date_display": "October 22, 2026, 12:00\u20134:00 PM EDT",
+    "date_display": "October 22, 2026, 12:00–4:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1163,7 +1163,7 @@
       "Clinicians",
       "Educators"
     ],
-    "date_display": "October 23, 2026, 7:30 AM\u20133:00 PM EDT",
+    "date_display": "October 23, 2026, 7:30 AM–3:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1206,7 +1206,7 @@
       "Nurses",
       "Clinicians"
     ],
-    "date_display": "October 26, 2026, 8:00 AM\u20135:00 PM EDT",
+    "date_display": "October 26, 2026, 8:00 AM–5:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1249,7 +1249,7 @@
       "Nurses",
       "Clinicians"
     ],
-    "date_display": "October 29\u201330, 2026, 8:00 AM\u20135:30 PM EDT",
+    "date_display": "October 29–30, 2026, 8:00 AM–5:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1297,7 +1297,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 28, 2026, 9:00 AM\u20131:00 PM EDT",
+    "date_display": "October 28, 2026, 9:00 AM–1:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1340,7 +1340,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 29, 2026, 12:00\u20134:00 PM EDT",
+    "date_display": "October 29, 2026, 12:00–4:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1383,7 +1383,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 30, 2026, 12:00\u20134:00 PM EDT",
+    "date_display": "October 30, 2026, 12:00–4:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1408,7 +1408,7 @@
   },
   {
     "id": "geisinger-fccs-nov3-2026",
-    "title": "Fundamentals of Critical Care Support Provider Course - November 3\u20134, 2026",
+    "title": "Fundamentals of Critical Care Support Provider Course - November 3–4, 2026",
     "organization": "Geisinger College of Health Sciences",
     "description": "In-person critical-care provider course listed on the Geisinger CE calendar.",
     "categories": [
@@ -1427,7 +1427,7 @@
       "Physicians",
       "PAs"
     ],
-    "date_display": "November 3\u20134, 2026, 7:00 AM\u20135:00 PM EDT",
+    "date_display": "November 3–4, 2026, 7:00 AM–5:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1470,7 +1470,7 @@
       "Clinical Leaders",
       "Geisinger Staff"
     ],
-    "date_display": "November 10, 2026, 9:00 AM\u20131:00 PM EST",
+    "date_display": "November 10, 2026, 9:00 AM–1:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1519,7 +1519,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 10, 2026, 12:00\u20134:00 PM EST",
+    "date_display": "November 10, 2026, 12:00–4:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1569,7 +1569,7 @@
       "Public Health Students",
       "Data Science Students"
     ],
-    "date_display": "November 8, 2026, required attendance day; symposium runs November 7\u201311",
+    "date_display": "November 8, 2026, required attendance day; symposium runs November 7–11",
     "registration_deadline": "October 16, 2026 at 11:59 PM PT",
     "format": "In-person",
     "region": "Dallas, TX",
@@ -1618,7 +1618,7 @@
       "Student Success Professionals",
       "Researchers"
     ],
-    "date_display": "April 7\u201310, 2027",
+    "date_display": "April 7–10, 2027",
     "registration_deadline": "Call for proposals deadline: October 16, 2026 at 5:00 PM ET",
     "format": "In-person",
     "region": "Minneapolis, MN",
@@ -1662,7 +1662,7 @@
       "Counselor Educators",
       "Students"
     ],
-    "date_display": "October 22, 2026, 1:00\u20132:00 PM ET",
+    "date_display": "October 22, 2026, 1:00–2:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1713,7 +1713,7 @@
       "Respiratory Therapy Students",
       "Nursing Students"
     ],
-    "date_display": "November 13, 2026, 7:30 AM\u20135:15 PM EST",
+    "date_display": "November 13, 2026, 7:30 AM–5:15 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -1763,7 +1763,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "October 15, 2026, 9:00\u201311:00 AM ET",
+    "date_display": "October 15, 2026, 9:00–11:00 AM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1808,7 +1808,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "October 26\u201328, 2026, 10:00 AM\u201312:00 PM ET",
+    "date_display": "October 26–28, 2026, 10:00 AM–12:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1853,7 +1853,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "October 29, 2026, 9:00\u201311:00 AM ET",
+    "date_display": "October 29, 2026, 9:00–11:00 AM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1899,7 +1899,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "November 9\u201310, 2026, 10:00 AM\u201312:00 PM ET",
+    "date_display": "November 9–10, 2026, 10:00 AM–12:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1942,7 +1942,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "October 23, 2026, 9:00 AM\u20131:00 PM EDT",
+    "date_display": "October 23, 2026, 9:00 AM–1:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -1985,7 +1985,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 16, 2026, 12:00\u20134:00 PM EST",
+    "date_display": "November 16, 2026, 12:00–4:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2028,7 +2028,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 20, 2026, 9:00 AM\u20131:00 PM EST",
+    "date_display": "November 20, 2026, 9:00 AM–1:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2071,7 +2071,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 23, 2026, 12:00\u20134:00 PM EST",
+    "date_display": "November 23, 2026, 12:00–4:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2114,7 +2114,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 2, 2026, 9:00 AM\u20131:00 PM EST",
+    "date_display": "December 2, 2026, 9:00 AM–1:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2157,7 +2157,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 4, 2026, 12:00\u20134:00 PM EST",
+    "date_display": "December 4, 2026, 12:00–4:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2200,7 +2200,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 11, 2026, 12:00\u20134:00 PM EST",
+    "date_display": "December 11, 2026, 12:00–4:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2243,7 +2243,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 14, 2026, 12:00\u20134:00 PM EST",
+    "date_display": "December 14, 2026, 12:00–4:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -2286,7 +2286,7 @@
       "Clinical Leaders",
       "Geisinger Staff"
     ],
-    "date_display": "October 16, 2026, 8:30 AM\u201312:30 PM EDT",
+    "date_display": "October 16, 2026, 8:30 AM–12:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -2329,7 +2329,7 @@
       "Clinical Leaders",
       "Geisinger Staff"
     ],
-    "date_display": "November 12, 2026, 9:00 AM\u20131:00 PM EST",
+    "date_display": "November 12, 2026, 9:00 AM–1:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Danville, PA",
@@ -2371,7 +2371,7 @@
       "Nurses",
       "Healthcare Professionals"
     ],
-    "date_display": "October 12, 2026, 7:00 AM\u20135:00 PM EDT",
+    "date_display": "October 12, 2026, 7:00 AM–5:00 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "not listed",
@@ -2411,7 +2411,7 @@
       "Healthcare Professionals",
       "Clinicians"
     ],
-    "date_display": "October 14, 2026, 7:30 AM\u20132:45 PM EDT",
+    "date_display": "October 14, 2026, 7:30 AM–2:45 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "not listed",
@@ -2452,7 +2452,7 @@
       "Clinical Leaders",
       "Healthcare Professionals"
     ],
-    "date_display": "October 15, 2026, 8:30 AM\u20134:30 PM EDT",
+    "date_display": "October 15, 2026, 8:30 AM–4:30 PM EDT",
     "registration_deadline": null,
     "format": "In-person",
     "region": "not listed",
@@ -2493,7 +2493,7 @@
       "Nurses",
       "Healthcare Professionals"
     ],
-    "date_display": "October 19\u201320, 2026",
+    "date_display": "October 19–20, 2026",
     "registration_deadline": null,
     "format": "In-person",
     "region": "not listed",
@@ -2534,7 +2534,7 @@
       "Clinical Leaders",
       "Healthcare Professionals"
     ],
-    "date_display": "January 20, 2027, 8:30 AM\u20134:30 PM EST",
+    "date_display": "January 20, 2027, 8:30 AM–4:30 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "not listed",
@@ -2577,7 +2577,7 @@
       "Pennsylvania Department of Health Employees",
       "CMHD Employees"
     ],
-    "date_display": "November 16\u201317, 2026, 10:00 AM\u201312:00 PM ET",
+    "date_display": "November 16–17, 2026, 10:00 AM–12:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -2598,6 +2598,530 @@
       "status": "verified",
       "last_verified": "2026-10-11",
       "verified_against": "Official PA DOH HIV Education and Training page (Part 2 of Medical Case Management training series; registration via Mid-Atlantic AETC, password PACM)"
+    }
+  },
+  {
+    "id": "geisinger-preventive-medicine-lecture-2026",
+    "title": "13th Preventive Medicine Lecture: Power Foods for Weight Loss and Diabetes",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Annual Preventive Medicine Lecture featuring Neal Barnard, MD, FACC, on research linking food choices to sustainable weight loss and Type 2 diabetes outcomes.",
+    "categories": [
+      "Healthcare Education",
+      "Biomedical Sciences",
+      "Public Health"
+    ],
+    "subcategories": [
+      "Nutrition",
+      "Preventive Medicine",
+      "Research"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Faculty",
+      "Clinicians",
+      "Public Health Professionals"
+    ],
+    "date_display": "November 5, 2026, 5:30 PM ET",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Scranton, PA",
+    "distance_miles": 15,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Local, free public lecture on nutrition and chronic-disease prevention by a nationally recognized researcher.",
+    "official_url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2026/10/09/18/42/geisinger-college-of-health-sciences-to-host-dr-neal-barnard-for-13th-preventive",
+    "source_url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2026/10/09/18/42/geisinger-college-of-health-sciences-to-host-dr-neal-barnard-for-13th-preventive",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official Geisinger news release (Oct 9, 2026): 13th Preventive Medicine Lecture, Nov 5 at 5:30 p.m., Neal Barnard, MD, FACC, 'Power Foods for Weight Loss and Diabetes'; registration encouraged but not required"
+    }
+  },
+  {
+    "id": "penn-state-addiction-conference-2026",
+    "title": "12th Annual Penn State Addiction Conference",
+    "organization": "Penn State College of Medicine / Addiction Center for Translation",
+    "description": "Free annual conference on addiction research, treatment, and recovery; call for abstracts currently open.",
+    "categories": [
+      "Behavioral Health",
+      "Counseling",
+      "Healthcare Education",
+      "Research"
+    ],
+    "subcategories": [
+      "Addiction",
+      "Substance Use",
+      "Recovery"
+    ],
+    "audiences": [
+      "Clinicians",
+      "Counselors",
+      "Researchers",
+      "Healthcare Educators",
+      "Faculty"
+    ],
+    "date_display": "December 7-8, 2026",
+    "registration_deadline": null,
+    "format": "Hybrid",
+    "region": "Hershey, PA",
+    "distance_miles": 150,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": true,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Free opioid/addiction-crisis conference with open abstract submission — directly relevant to behavioral health professional development.",
+    "official_url": "http://med.psu.edu/departments-faculty/addiction-center-for-translation/conference",
+    "source_url": "http://med.psu.edu/departments-faculty/addiction-center-for-translation/conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official Penn State conference page via delegated verification (Oct 12, 2026): 12th annual, Dec 7-8, 2026, hybrid Hershey, free, call for abstracts open"
+    }
+  },
+  {
+    "id": "penn-state-rural-health-ai-2026",
+    "title": "Frontiers of Rural Health & AI: Planning for Rural Pennsylvania",
+    "organization": "Penn State CTSI and Institute for Computational and Data Sciences",
+    "description": "Research matchmaking workshop pairing rural-health investigators with AI/computational researchers, focused on planning for rural Pennsylvania health needs.",
+    "categories": [
+      "AI in Healthcare",
+      "Research",
+      "Biomedical Sciences",
+      "Public Health"
+    ],
+    "subcategories": [
+      "Rural Health",
+      "AI",
+      "Research Collaboration"
+    ],
+    "audiences": [
+      "Researchers",
+      "Faculty",
+      "Healthcare Professionals",
+      "Data Scientists"
+    ],
+    "date_display": "October 30, 2026, 10:00 AM-3:00 PM ET",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Hershey, PA",
+    "distance_miles": 150,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed; registration required"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Imminent in-state AI-in-healthcare research matchmaking with a rural-health lens.",
+    "official_url": "https://harrisburg.psu.edu/story/59911/2026/09/30/penn-state-host-research-matchmaking-workshop-rural-health-and-ai",
+    "source_url": "https://harrisburg.psu.edu/story/59911/2026/09/30/penn-state-host-research-matchmaking-workshop-rural-health-and-ai",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official Penn State news post via delegated verification (Oct 12, 2026): Oct 30, 2026, 10 AM-3 PM, University Conference Center, Hershey; registration required"
+    }
+  },
+  {
+    "id": "imsh-2027",
+    "title": "IMSH 2027: International Meeting on Simulation in Healthcare",
+    "organization": "Society for Simulation in Healthcare",
+    "description": "The world's largest conference dedicated to healthcare simulation education and research.",
+    "categories": [
+      "Simulation",
+      "Healthcare Education",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Simulation",
+      "Medical Education"
+    ],
+    "audiences": [
+      "Healthcare Educators",
+      "Faculty",
+      "Simulation Professionals",
+      "Clinicians"
+    ],
+    "date_display": "January 23-27, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "New Orleans, LA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Flagship healthcare-simulation conference; strong fit for Geisinger's simulation-education footprint.",
+    "official_url": "https://imsh2027.org",
+    "source_url": "https://imsh2027.org",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official IMSH 2027 site via delegated verification (Oct 12, 2026): Jan 23-27, 2027, New Orleans, LA; SSH flagship event"
+    }
+  },
+  {
+    "id": "inacsl27-2027",
+    "title": "INACSL27 Conference",
+    "organization": "International Nursing Association for Clinical Simulation and Learning",
+    "description": "Annual nursing simulation conference; registration opens winter 2026 and the call for abstracts is open.",
+    "categories": [
+      "Simulation",
+      "Nursing Education",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Nursing Simulation",
+      "Faculty Development"
+    ],
+    "audiences": [
+      "Nursing Educators",
+      "Simulation Professionals",
+      "Faculty",
+      "Healthcare Educators"
+    ],
+    "date_display": "June 9-12, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Phoenix, AZ",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Nursing simulation conference with open call for abstracts.",
+    "official_url": "https://www.inacsl.org/inacsl27-call-for-abstracts",
+    "source_url": "https://www.inacsl.org/inacsl27-call-for-abstracts",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official INACSL call-for-abstracts page via delegated verification (Oct 12, 2026): Jun 9-12, 2027, Phoenix; abstracts open"
+    }
+  },
+  {
+    "id": "aamc-ideas-accelerated-pathways-2026",
+    "title": "AAMC IDEAS Webinar: Accelerated Pathways - Three-Year Programs, Workforce Needs, and Access to Opportunities",
+    "organization": "Association of American Medical Colleges",
+    "description": "Free webinar and final installment of the 'Pathways to Medicine' series, on accelerated MD pathways, workforce needs, and access.",
+    "categories": [
+      "Medical Education",
+      "Pathway Programs",
+      "Health Professions Advising"
+    ],
+    "subcategories": [
+      "Accelerated MD Pathways",
+      "Workforce",
+      "Access"
+    ],
+    "audiences": [
+      "Health Professions Advisors",
+      "Medical Educators",
+      "Faculty",
+      "Program Leaders"
+    ],
+    "date_display": "December 15, 2026, 2:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly on the Pathways thesis: accelerated MD pathways and access, from the national medical-education body.",
+    "official_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
+    "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official AAMC upcoming-webinars page via delegated verification (Oct 12, 2026): Dec 15, 2026, 2:00 PM EST, virtual, free; final 'Pathways to Medicine' installment"
+    }
+  },
+  {
+    "id": "aamc-pathways-medicine-webinars-2026",
+    "title": "AAMC Pathways to Medicine Webinar Series (October 2026)",
+    "organization": "Association of American Medical Colleges",
+    "description": "Free virtual series on premedical pathway programs: fulfilling institutional missions (Oct 15) and technology as an equity multiplier (Oct 21).",
+    "categories": [
+      "Medical Education",
+      "Pathway Programs",
+      "Health Professions Advising",
+      "AI in Healthcare"
+    ],
+    "subcategories": [
+      "Premedical Pathways",
+      "Equity",
+      "Technology"
+    ],
+    "audiences": [
+      "Health Professions Advisors",
+      "Medical Educators",
+      "Program Leaders",
+      "Faculty"
+    ],
+    "date_display": "October 15 and October 21, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Two imminent free webinars on pathway-program missions and equity in health-professions advising.",
+    "official_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
+    "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official AAMC upcoming-webinars page via delegated verification (Oct 12, 2026): Oct 15 (premedical pathway programs fulfilling missions) and Oct 21 (technology as equity multiplier), virtual, free"
+    }
+  },
+  {
+    "id": "aacn-ai-essentials-workshop-2027",
+    "title": "AACN Workshop: Using AI to Implement the AACN Essentials and Strengthen Competency-Based Learning",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Post-conference workshop on using AI to implement the AACN Essentials and strengthen competency-based nursing education.",
+    "categories": [
+      "Nursing Education",
+      "AI in Healthcare",
+      "Competency-Based Education",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "AI",
+      "Competency-Based Education",
+      "Curriculum"
+    ],
+    "audiences": [
+      "Nursing Educators",
+      "Faculty",
+      "Program Leaders"
+    ],
+    "date_display": "January 14-15, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Coronado, CA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "AI-in-nursing-education workshop paired with the AACN Doctoral Education Conference; fits the radar's AI lane.",
+    "official_url": "https://www.aacnnursing.org/conferences-webinars",
+    "source_url": "https://www.aacnnursing.org/conferences-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official AACN conferences page via delegated verification (Oct 12, 2026): Jan 14-15, 2027, Coronado, CA post-conference workshop"
+    }
+  },
+  {
+    "id": "aca-addiction-summit-2027",
+    "title": "ACA Addiction Treatment & Recovery Summit",
+    "organization": "American Counseling Association",
+    "description": "Virtual summit on addiction treatment and recovery; call for proposals currently open.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Addiction",
+      "Substance Use",
+      "Recovery"
+    ],
+    "audiences": [
+      "Counselors",
+      "Counselor Educators",
+      "Behavioral Health Professionals"
+    ],
+    "date_display": "January 20, 2027",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "SUD/dual-diagnosis training summit with an open call for proposals — actionable now.",
+    "official_url": "https://www.counseling.org/events-education/events",
+    "source_url": "https://www.counseling.org/events-education/events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official ACA events page via delegated verification (Oct 12, 2026): Jan 20, 2027, virtual; call for proposals open"
+    }
+  },
+  {
+    "id": "aca-conference-expo-2027",
+    "title": "ACA Conference & Expo 2027",
+    "organization": "American Counseling Association",
+    "description": "The ACA's flagship annual counseling conference.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development",
+      "Counselor Education"
+    ],
+    "subcategories": [
+      "Conference",
+      "Professional Development"
+    ],
+    "audiences": [
+      "Counselors",
+      "Counselor Educators",
+      "Behavioral Health Professionals"
+    ],
+    "date_display": "March 11-13, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Portland, OR",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "The flagship national counseling conference; early planning window for Pathways counseling staff.",
+    "official_url": "https://www.counseling.org/events-education/events",
+    "source_url": "https://www.counseling.org/events-education/events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official ACA events page via delegated verification (Oct 12, 2026): Mar 11-13, 2027, Portland, OR"
+    }
+  },
+  {
+    "id": "tribal-public-health-conference-2027",
+    "title": "2027 Tribal Public Health Conference",
+    "organization": "Tribal public health organizations",
+    "description": "Conference advancing tribal public-health practice; call for proposals open with a late-October deadline.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Research"
+    ],
+    "subcategories": [
+      "Tribal Public Health",
+      "Health Equity"
+    ],
+    "audiences": [
+      "Public Health Professionals",
+      "Researchers",
+      "Community Health Professionals"
+    ],
+    "date_display": "April 6-8, 2027",
+    "registration_deadline": "Call for proposals deadline: October 31, 2026",
+    "format": "In-person",
+    "region": null,
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Public-health conference with an actionable CFP deadline within the month.",
+    "official_url": "https://tphconference.org/call-for-proposals/",
+    "source_url": "https://tphconference.org/call-for-proposals/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official conference CFP page via delegated verification (Oct 12, 2026): Apr 6-8, 2027; CFP open, deadline Oct 31, 2026"
+    }
+  },
+  {
+    "id": "aca-suicide-prevention-summit-2026",
+    "title": "ACA Beyond the Crisis: Suicide Prevention and Intervention Summit",
+    "organization": "American Counseling Association",
+    "description": "Virtual summit on suicide prevention and intervention for counseling professionals.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Suicide Prevention",
+      "Crisis Intervention"
+    ],
+    "audiences": [
+      "Counselors",
+      "Counselor Educators",
+      "Behavioral Health Professionals"
+    ],
+    "date_display": "November 4-5, 2026",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Suicide prevention is a core counseling professional responsibility; virtual and imminent.",
+    "official_url": "https://www.counseling.org/events-education/events",
+    "source_url": "https://www.counseling.org/events-education/events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official ACA events page via delegated verification (Oct 12, 2026): Nov 4-5, 2026, virtual"
     }
   }
 ]

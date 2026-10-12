@@ -1,8 +1,8 @@
 [
   {
     "id": "hosa-phlebotomy-competition-2026",
-    "title": "HOSA Phlebotomy Competition \u2013 Get Ready for the Challenge!",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "title": "HOSA Phlebotomy Competition – Get Ready for the Challenge!",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual preparation webinar for students interested in HOSA's phlebotomy competitive event.",
     "categories": [
       "HOSA",
@@ -35,7 +35,7 @@
   {
     "id": "hosa-selective-college-application-2026",
     "title": "Standing Out: How to Strengthen Your Application to Selective Colleges",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual college-application preparation webinar presented through HOSA programming.",
     "categories": [
       "HOSA",
@@ -68,7 +68,7 @@
   {
     "id": "hosa-dental-careers-2026",
     "title": "Cavities, Root Canals, and Crowns, Oh My!",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual dental-career exploration webinar presented through HOSA programming.",
     "categories": [
       "HOSA",
@@ -101,7 +101,7 @@
   {
     "id": "hosa-pharmacy-careers-2026",
     "title": "Exploring Pharmacy Career Paths",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual exploration of pharmacy career paths and tools for expanding students' awareness of the profession.",
     "categories": [
       "HOSA",
@@ -134,7 +134,7 @@
   {
     "id": "hosa-ot-career-2026",
     "title": "The Healthcare Career Your Students May Be Missing",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual healthcare-career exploration webinar focused on occupational therapy.",
     "categories": [
       "HOSA",
@@ -167,7 +167,7 @@
   {
     "id": "hosa-physical-therapy-career-2026",
     "title": "PT & Me: Preparing for Your Future Career in Physical Therapy",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual career-exploration webinar focused on physical therapy education and career preparation.",
     "categories": [
       "HOSA",
@@ -200,7 +200,7 @@
   {
     "id": "hosa-health-wellness-career-2026",
     "title": "NASM Health & Wellness Career Pathways",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual exploration of health and wellness career pathways.",
     "categories": [
       "HOSA",
@@ -453,7 +453,7 @@
       "Rising Seniors",
       "Students Interested in Biomedical Research"
     ],
-    "date_display": "June 14 \u2013 July 30, 2027",
+    "date_display": "June 14 – July 30, 2027",
     "format": "In-person / Hybrid",
     "region": "Pittsburgh, PA",
     "cost": {
@@ -486,7 +486,7 @@
       "Grades 10-12",
       "Philadelphia Public and Charter School Students"
     ],
-    "date_display": "Late February \u2013 March 2027 (four Saturdays)",
+    "date_display": "Late February – March 2027 (four Saturdays)",
     "format": "In-person",
     "region": "Philadelphia, PA",
     "cost": {
@@ -605,7 +605,7 @@
   {
     "id": "hosa-premed-college-applicant-2026",
     "title": "Standing Out as a Pre-Med College Applicant",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual pre-med college-application webinar presented through HOSA programming by CollegeAdvisor.",
     "categories": [
       "HOSA",
@@ -638,7 +638,7 @@
   {
     "id": "hosa-vet-med-2026",
     "title": "Vet Med Starts Now: Real Stories, Career Paths, and HOSA Veterinary Science",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual veterinary-medicine career webinar with real stories and HOSA Veterinary Science paths, presented by the American Association of Veterinary Medical Colleges.",
     "categories": [
       "HOSA",
@@ -670,7 +670,7 @@
   {
     "id": "hosa-premed-profile-2026",
     "title": "Building a Competitive Pre-Med Profile Before Senior Year",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual pre-med profile-building webinar presented through HOSA programming by CollegeAdvisor.",
     "categories": [
       "HOSA",
@@ -703,7 +703,7 @@
   {
     "id": "hosa-maintain-my-brain-2026",
     "title": "Make a PSA That Matters: Inside the Maintain My Brain Challenge",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual webinar introducing the Maintain My Brain Challenge PSA competition, presented through HOSA programming by Hilarity for Charity.",
     "categories": [
       "HOSA",
@@ -736,7 +736,7 @@
   {
     "id": "hosa-premed-bsmd-2026",
     "title": "Applying to Pre-Med and BS/MD Programs",
-    "organization": "HOSA \u2013 Future Health Professionals",
+    "organization": "HOSA – Future Health Professionals",
     "description": "Virtual pre-med and BS/MD program application webinar presented through HOSA programming by CollegeAdvisor.",
     "categories": [
       "HOSA",
@@ -764,6 +764,38 @@
       "status": "verified",
       "last_verified": "2026-10-10",
       "verified_against": "Official HOSA 2026-2027 webinar listing"
+    }
+  },
+  {
+    "id": "geisinger-physician-ready-2027",
+    "title": "Physician Ready Program (Danville Expansion) 2026-2027",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Free yearlong Pathways program giving high school students hands-on medical-career exposure: specialty exploration, clinical skills instruction, patient simulations, physician shadowing, mentoring, volunteer opportunities, and pre-med advising, plus a year-long food-insecurity research project with poster presentation.",
+    "categories": [
+      "Pathway Programs",
+      "Healthcare Careers",
+      "Career Exploration",
+      "Pre-Health",
+      "Research"
+    ],
+    "audiences": [
+      "High School Students"
+    ],
+    "date_display": "October 2026 - June 2027; monthly in-person sessions, beginning mid-October",
+    "format": "In-person",
+    "region": "Greater Danville, PA",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2026/10/06/14/53/geisinger-college-of-health-sciences-to-launch-physician-ready-program-in-the-gre",
+    "source_url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2026/10/06/14/53/geisinger-college-of-health-sciences-to-launch-physician-ready-program-in-the-gre",
+    "eligibility": "High school students in the greater Danville area with career goals of becoming a physician or physician assistant; application, essay, and interview required.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "Official Geisinger news release (Oct 6, 2026): free yearlong program, ~30-40 students, monthly sessions Oct-Jun at Geisinger Medical Center; applications accepted, deadline Oct 15; apply at go.geisinger.edu/PRP"
     }
   }
 ]
