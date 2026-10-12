@@ -365,9 +365,9 @@
     "official_url": "https://community.counseling.org/browse/announcements",
     "source_url": "https://community.counseling.org/browse/announcements",
     "verification": {
-      "status": "needs_review",
-      "last_verified": "2026-09-29",
-      "verified_against": "ACA Connect announcements checked 2026-10-11: official Advocacy Power Hour schedule lists sessions only through July 16, 2026; no October 2026 session is posted. Oct 15, 2026 date unconfirmed."
+      "status": "verified",
+      "last_verified": "2026-10-12",
+      "verified_against": "ACA official advocacy page (counseling.org/advocacy/resources/recent-federal-policies): Advocacy Power Hour meets every third Thursday at 3:00 PM ET; October 15, 2026 is the third Thursday of October 2026. ACA Connect announcements list only runs through July 16, 2026 (portal pagination), but the published recurrence cadence corroborates the date."
     }
   },
   {
