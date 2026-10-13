@@ -2353,46 +2353,6 @@
     }
   },
   {
-    "id": "geisinger-sane-refresher-2026",
-    "title": "SANE Refresher Course - 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person SANE refresher course for nurses and providers supporting forensic examination services, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Nursing Education",
-      "Healthcare Education",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Forensic Nursing",
-      "Sexual Assault Nurse Examiner",
-      "Continuing Education"
-    ],
-    "audiences": [
-      "Nurses",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 12, 2026, 7:00 AM–5:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "not listed",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to nursing continuing education, trauma-informed forensic practice, and workforce capacity.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
     "id": "geisinger-pulmonary-symposium-2026",
     "title": "15th Annual Pulmonary Medicine Symposium",
     "organization": "Geisinger College of Health Sciences",
@@ -3122,6 +3082,179 @@
       "status": "verified",
       "last_verified": "2026-10-12",
       "verified_against": "Official ACA events page via delegated verification (Oct 12, 2026): Nov 4-5, 2026, virtual"
+    }
+  },
+  {
+    "id": "penn-state-perinatal-tips-fall-2026",
+    "title": "Perinatal TiPS Fall 2026 Webinar Series: Mental Health Across the Generations",
+    "organization": "Penn State Health / Perinatal TiPS",
+    "description": "Six-part weekly one-hour Zoom series on recognition, assessment, and management of common mental health conditions across the reproductive, perinatal, childhood, and adolescent periods. Remaining sessions: Oct 14 (eating disorders, perinatal), Oct 21 (eating disorders, children/adolescents), Oct 28 (anxiety, perinatal), Nov 4 (anxiety, children/adolescents); series began Sept 30, 2026.",
+    "categories": [
+      "Behavioral Health",
+      "Counseling",
+      "Healthcare Education",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Perinatal Mental Health",
+      "Child and Adolescent Mental Health",
+      "Assessment and Screening"
+    ],
+    "audiences": [
+      "Clinicians",
+      "Counselors",
+      "Healthcare Professionals"
+    ],
+    "date_display": "Remaining sessions October 14, 21, 28 and November 4, 2026, 12:00-1:00 PM ET each session (series began September 30, 2026)",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Free-access clinician-facing mental-health skill-building on perinatal and child/adolescent assessment — directly relevant to behavioral-health professional development.",
+    "official_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/2026-10-14/",
+    "source_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/2026-10-14/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-13",
+      "verified_against": "Official Penn State Health News event page: six one-hour sessions weekly via Zoom noon-1 PM, topics per session, sessions remaining Oct 14/21/28 and Nov 4, 2026"
+    }
+  },
+  {
+    "id": "aamc-midcareer-faculty-leadership-2026",
+    "title": "2026 Midcareer Faculty Leadership Development Seminar",
+    "organization": "Association of American Medical Colleges (AAMC)",
+    "description": "Three-day in-person faculty leadership seminar for midcareer faculty affiliated with AAMC member institutions. Registration-based enrollment.",
+    "categories": [
+      "Faculty Development",
+      "Medical Education",
+      "Professionalism"
+    ],
+    "subcategories": [
+      "Faculty Leadership",
+      "Career Development"
+    ],
+    "audiences": [
+      "Faculty",
+      "Midcareer Faculty",
+      "Academic Medicine Educators"
+    ],
+    "date_display": "December 8-10, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Westminster, CO",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "$2,375 early-bird; $2,725 standard (registration-based enrollment; AAMC member institution affiliation required)"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Faculty leadership development at an AAMC-member faculty audience; narrow eligibility and high price limit Pathways-team relevance.",
+    "official_url": "https://www.aamc.org/learn-network/leadership-development/mflds",
+    "source_url": "https://www.aamc.org/learn-network/leadership-development/mflds",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-13",
+      "verified_against": "Official AAMC leadership-development page via delegated verification (Oct 13, 2026): Dec 8-10, 2026, in-person Westminster CO; early-bird $2,375, standard $2,725; attendees must be affiliated with an AAMC member institution; CE not stated"
+    }
+  },
+  {
+    "id": "positive-culture-framework-training-2026",
+    "title": "Positive Culture Framework Training",
+    "organization": "Montana State University Center for Health and Safety Culture (listed on APHA events calendar)",
+    "description": "Three-day online training on the Positive Culture Framework for health and safety culture. Registration closes October 16, 2026 or at capacity.",
+    "categories": [
+      "Public Health",
+      "Workforce Development",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Health and Safety Culture",
+      "Professional Training"
+    ],
+    "audiences": [
+      "Public Health Professionals",
+      "Healthcare Professionals"
+    ],
+    "date_display": "October 20-22, 2026",
+    "registration_deadline": "October 16, 2026 or at capacity",
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 600,
+      "currency": "USD",
+      "display": "$600 regular ($500 early-bird expired September 18, 2026; +$25 CEU fee)"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "12 Category 1 CECH (NCHEC)",
+      "1.2 CEUs"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Health-and-safety-culture workforce training with public-health relevance; virtual format accessible to Pathways staff.",
+    "official_url": "https://www.apha.org/events-and-meetings/apha-calendar/october-positive-culture-framework-training",
+    "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/october-positive-culture-framework-training",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-13",
+      "verified_against": "Official APHA calendar listing via delegated verification (Oct 13, 2026): Oct 20-22, 2026, online, registration closes Oct 16, 2026; pricing from provider page chsculture.org ($600 regular; +$25 CEU fee); 12 Category 1 CECH, 1.2 CEUs"
+    }
+  },
+  {
+    "id": "one-health-systems-summit-2026",
+    "title": "2026 One Health Systems Summit",
+    "organization": "University of Tennessee Knoxville College of Social Work - Center for Pet Family Well-Being (with University of Washington Center for One Health Research, WSU College of Veterinary Medicine, Street Dog Coalition, Street Medicine San Antonio)",
+    "description": "One-day in-person pre-conference workshop at the APHA 2026 Annual Meeting on One Health systems bridging human, animal, and community health.",
+    "categories": [
+      "Public Health",
+      "Research",
+      "Community Health"
+    ],
+    "subcategories": [
+      "One Health",
+      "Systems Thinking"
+    ],
+    "audiences": [
+      "Public Health Professionals",
+      "Researchers",
+      "Clinicians",
+      "Veterinarians"
+    ],
+    "date_display": "October 31, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "San Antonio, TX",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "One Health pre-conference at APHA Annual Meeting; relevant to public-health and community-health workforce development.",
+    "official_url": "https://csw.utk.edu/cpfw/one-health-systems-summit/",
+    "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-one-health-systems-summit",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-13",
+      "verified_against": "Official APHA calendar listing plus UTK organizer page via delegated verification (Oct 13, 2026): Oct 31, 2026, in-person San Antonio TX, one-day pre-conference workshop at APHA 2026 Annual Meeting; price and CE not listed"
     }
   }
 ]

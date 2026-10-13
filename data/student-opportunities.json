@@ -439,7 +439,7 @@
     "id": "upmc-hillman-2027",
     "title": "UPMC Hillman Cancer Center Academy",
     "organization": "UPMC Hillman Cancer Center",
-    "description": "Free 7-8 week summer research program for high school students, primarily rising juniors and seniors, with hands-on cancer research, mentorship, career preparation, and a final research presentation.",
+    "description": "Free 7-8 week summer research program (June 14-July 30, 2027) for high school students with hands-on cancer research, mentorship, career preparation, and a final research presentation. Applications open December 3, 2026 through February 14, 2027; participation free; stipends available for qualified students from underrepresented in biomedicine backgrounds; age 15+ (16+ for some sites); no housing provided.",
     "categories": [
       "Summer Programs",
       "Research",
@@ -463,12 +463,13 @@
     },
     "official_url": "https://hillmanacademy.upmc.com/apply-now/",
     "source_url": "https://hillmanacademy.upmc.com/apply-now/",
-    "eligibility": "High school students meeting the age requirements. Housing is not provided.",
+    "eligibility": "High school students age 15+ by June 14, 2027 (16+ for some research sites); high school seniors eligible if not enrolled in college courses during the program. Housing is not provided.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
-    }
+      "last_verified": "2026-10-13",
+      "verified_against": "Official Hillman Academy apply page: 2027 application Dec 3, 2026-Feb 14, 2027; program June 14-July 30, 2027; free participation with stipends for underrepresented-background students; age 15+/16+ by site"
+    },
+    "registration_deadline": "February 14, 2027"
   },
   {
     "id": "upenn-pash-2027",
