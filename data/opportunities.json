@@ -366,8 +366,8 @@
     "source_url": "https://community.counseling.org/browse/announcements",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "ACA official advocacy page (counseling.org/advocacy/resources/recent-federal-policies): Advocacy Power Hour meets every third Thursday at 3:00 PM ET; October 15, 2026 is the third Thursday of October 2026. ACA Connect announcements list only runs through July 16, 2026 (portal pagination), but the published recurrence cadence corroborates the date."
+      "last_verified": "2026-10-14",
+      "verified_against": "community.counseling.org announcements page now 404 (dead); session stands per ACA's recurring monthly schedule (third Thursday, 3 PM ET) — Oct 15, 2026 is the third Thursday"
     }
   },
   {
@@ -488,7 +488,7 @@
       "Healthcare Professionals"
     ],
     "date_display": "October 16, 2026, 9:00 AM–4:00 PM ET",
-    "registration_deadline": "October 9, 2026 at 5:00 PM ET",
+    "registration_deadline": "Registration closed October 9, 2026 at 5:00 PM ET",
     "format": "Online",
     "region": "Online",
     "distance_miles": null,
@@ -508,8 +508,8 @@
     "source_url": "https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official Commonwealth University event page (Oct 16, 2026, 9 AM-4 PM ET, Zoom; theme \"Context Matters: Counseling in Changing Times\"; 7 CE; small fee; registration closed Oct 9)"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official Commonwealth University conference page (direct open): Oct 16, 2026, 9 AM-4 PM ET, Zoom, event stands; registration deadline Oct 9 has passed (no late registration shown)"
     }
   },
   {
@@ -1570,7 +1570,7 @@
       "Data Science Students"
     ],
     "date_display": "November 8, 2026, required attendance day; symposium runs November 7–11",
-    "registration_deadline": "October 16, 2026 at 11:59 PM PT",
+    "registration_deadline": "October 16, 2026 at 11:59 PM ET",
     "format": "In-person",
     "region": "Dallas, TX",
     "distance_miles": null,
@@ -1588,8 +1588,8 @@
     "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/first-look",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official AMIA First Look application form (10th annual; Sun Nov 8, 2026, Hilton Anatole, Dallas; deadline Oct 16, 2026 11:59 PM PT; $50 award + complimentary one-day registration + 2027 student/trainee membership)"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official AMIA First Look page (direct open): application deadline October 16, 2026, 11:59 PM ET (corrected from PT); Nov 8 attendance day, $50 award, complimentary student registration + 2027 membership"
     }
   },
   {
@@ -1637,8 +1637,8 @@
     "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "verification": {
       "status": "needs_review",
-      "last_verified": "2026-10-08",
-      "verified_against": "Recorded official URL returns HTTP 404 on 2026-10-11 (NAAHP site restructured); CFP deadline and 2027 conference details not confirmable."
+      "last_verified": "2026-10-14",
+      "verified_against": "Rechecked 2026-10-14: official URL still 404 (NAAHP site restructured); no 2027 CAAHP Regional Conference or CFP locatable on naahp.org or via web search — CFP deadline unconfirmable"
     }
   },
   {
@@ -1782,8 +1782,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official PA DOH HIV education page (direct open): 'HIV and Special Populations: HIV Care in Communities with Specific Needs,' Oct 15, 2026, 9-11 AM; registration via maaetc.org (password PACM)"
     }
   },
   {
@@ -3038,8 +3038,8 @@
     "source_url": "https://tphconference.org/call-for-proposals/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official conference CFP page via delegated verification (Oct 12, 2026): Apr 6-8, 2027; CFP open, deadline Oct 31, 2026"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official tphconference.org CFP page (direct open): proposal submissions opened Sep 21, 2026; deadline Oct 31, 2026; conference Apr 6-8, 2027; acceptance notices by November 2026"
     }
   },
   {
@@ -3210,8 +3210,8 @@
     "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/october-positive-culture-framework-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-13",
-      "verified_against": "Official APHA calendar listing via delegated verification (Oct 13, 2026): Oct 20-22, 2026, online, registration closes Oct 16, 2026; pricing from provider page chsculture.org ($600 regular; +$25 CEU fee); 12 Category 1 CECH, 1.2 CEUs"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official APHA calendar listing + chsculture.org organizer page (direct open): Oct 20-22, 2026 online; registration closes Oct 16, 2026; $600/person regular ($500 early-bird ended Sep 18; +$25 CEU fee); 12 Category 1 CECH / 1.2 CEUs"
     }
   },
   {
@@ -3255,6 +3255,133 @@
       "status": "verified",
       "last_verified": "2026-10-13",
       "verified_against": "Official APHA calendar listing plus UTK organizer page via delegated verification (Oct 13, 2026): Oct 31, 2026, in-person San Antonio TX, one-day pre-conference workshop at APHA 2026 Annual Meeting; price and CE not listed"
+    }
+  },
+  {
+    "id": "geisinger-fccs-resource-limited-2027",
+    "title": "FCCS Resource Limited - February 22–23, 2027",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "SCCM Fundamentals of Critical Care Support course tailored to resource-limited settings, listed on the Geisinger CE calendar: February 22–23, 2027, 7:30 AM–4:00 PM each day.",
+    "categories": [
+      "Healthcare Education",
+      "Nursing Education"
+    ],
+    "subcategories": [
+      "Critical Care",
+      "Skills Training"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Nurses",
+      "Physicians",
+      "PAs"
+    ],
+    "date_display": "February 22–23, 2027, 7:30 AM–4:00 PM",
+    "registration_deadline": null,
+    "format": "not listed",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Interprofessional critical-care training relevant to clinical education and simulation.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar (direct open 2026-10-14): 'FCCS Resource Limited - February 22-23, 2027', 7:30am-4:00pm"
+    }
+  },
+  {
+    "id": "geisinger-ap-skills-refresher-2026",
+    "title": "AP Skills Refresher Course - November 13, 2026",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Advanced-practice skills refresher course listed on the Geisinger CE calendar: November 13, 2026, 8:00 AM–4:00 PM.",
+    "categories": [
+      "Healthcare Education",
+      "Nursing Education",
+      "Professionalism"
+    ],
+    "subcategories": [
+      "Skills Training",
+      "Advanced Practice"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Nurses"
+    ],
+    "date_display": "November 13, 2026, 8:00 AM–4:00 PM",
+    "registration_deadline": null,
+    "format": "not listed",
+    "region": "not listed",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Skills refresher for advanced-practice clinicians — relevant to clinical workforce development.",
+    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar (direct open 2026-10-14): 'AP Skills Refresher Course - November 13, 2026', 8:00am-4:00pm"
+    }
+  },
+  {
+    "id": "phlf-2026",
+    "title": "2026 Public Health Learning Forum",
+    "organization": "Public Health Foundation",
+    "description": "Free fully virtual forum hosted by the Public Health Foundation, November 16–19, 2026, on workforce development, quality improvement, and performance management for the public health workforce. Sessions include academic-practice collaboration, QI culture leadership, navigating workforce and funding shifts, and AI implementation in public health. Registration via the TRAIN Learning Network.",
+    "categories": [
+      "Public Health",
+      "Healthcare Education",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "Workforce Development",
+      "Quality Improvement",
+      "Performance Management",
+      "AI in Healthcare"
+    ],
+    "audiences": [
+      "Public Health Professionals",
+      "Program Staff",
+      "Healthcare Professionals"
+    ],
+    "date_display": "November 16–19, 2026 (fully virtual)",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Free virtual workforce-development event covering QI, performance management, and AI in public health — relevant to Pathways program staff and community-health workforce capacity.",
+    "official_url": "https://phf.org/events/2026-public-health-learning-forum/",
+    "source_url": "https://phf.org/events/2026-public-health-learning-forum/",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-14",
+      "verified_against": "Official PHF event page (direct open 2026-10-14): Nov 16-19, 2026, free and fully virtual; registration open via TRAIN Learning Network; CE not listed"
     }
   }
 ]

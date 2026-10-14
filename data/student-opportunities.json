@@ -28,8 +28,8 @@
     "eligibility": "HOSA student programming; competition participation follows HOSA and state-specific requirements.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
     }
   },
   {
@@ -61,8 +61,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
     }
   },
   {
@@ -94,8 +94,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
     }
   },
   {
@@ -127,8 +127,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
     }
   },
   {
@@ -160,8 +160,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-10-14",
+      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
     }
   },
   {
@@ -601,39 +601,6 @@
       "status": "verified",
       "last_verified": "2026-09-29",
       "verified_against": "Official organization program page"
-    }
-  },
-  {
-    "id": "hosa-premed-college-applicant-2026",
-    "title": "Standing Out as a Pre-Med College Applicant",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual pre-med college-application webinar presented through HOSA programming by CollegeAdvisor.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration",
-      "Medical School Advising"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "October 13, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "not listed"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
     }
   },
   {
