@@ -92,9 +92,9 @@
     "official_url": "https://health-education.outreach.psu.edu/register/",
     "source_url": "https://health-education.outreach.psu.edu/",
     "verification": {
-      "status": "needs_review",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official PSU Strategies pages checked 2026-10-11: registration and home pages still show 2025 conference content; 2026 dates, prices, and registration deadlines are not yet posted. 2026 details unconfirmed."
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official PSU Strategies registration page (2026-10-15): full 2026 content live; Individual $400 earlybird / $450 regular (Sep 1–Oct 21) / $480 late (Oct 22–26 online, Nov 12 on-site); Team (3+) $375 regular / $405 late; Thursday-only $350 / $380 late; on-site registration Nov 12 confirms Nov 12–13 dates; cancellations by Nov 1 (50-admin fee); CE: PSNA nursing CPD + Act 48 hours"
     }
   },
   {
@@ -1637,8 +1637,8 @@
     "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "verification": {
       "status": "needs_review",
-      "last_verified": "2026-10-14",
-      "verified_against": "Rechecked 2026-10-14: official URL still 404 (NAAHP site restructured); no 2027 CAAHP Regional Conference or CFP locatable on naahp.org or via web search — CFP deadline unconfirmable"
+      "last_verified": "2026-10-15",
+      "verified_against": "Official URL https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard still 404 on 2026-10-15; no 2027 CAAHP Regional Conference page or CFP locatable on naahp.org or via web search. Asserted CFP deadline Oct 16, 2026 remains unverified — drop tomorrow if still unverifiable."
     }
   },
   {
@@ -2353,46 +2353,6 @@
     }
   },
   {
-    "id": "geisinger-pulmonary-symposium-2026",
-    "title": "15th Annual Pulmonary Medicine Symposium",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person annual pulmonary medicine symposium, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Biomedical Sciences",
-      "Medical Education"
-    ],
-    "subcategories": [
-      "Pulmonary Medicine",
-      "Clinical Education"
-    ],
-    "audiences": [
-      "Physicians",
-      "Healthcare Professionals",
-      "Clinicians"
-    ],
-    "date_display": "October 14, 2026, 7:30 AM–2:45 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "not listed",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to biomedical and clinical continuing education for health-professions staff.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
     "id": "geisinger-coaching-competency-oct2026",
     "title": "Cultivating Competency Through Coaching Workshop - October 15, 2026",
     "organization": "Geisinger College of Health Sciences",
@@ -3088,7 +3048,7 @@
     "id": "penn-state-perinatal-tips-fall-2026",
     "title": "Perinatal TiPS Fall 2026 Webinar Series: Mental Health Across the Generations",
     "organization": "Penn State Health / Perinatal TiPS",
-    "description": "Six-part weekly one-hour Zoom series on recognition, assessment, and management of common mental health conditions across the reproductive, perinatal, childhood, and adolescent periods. Remaining sessions: Oct 14 (eating disorders, perinatal), Oct 21 (eating disorders, children/adolescents), Oct 28 (anxiety, perinatal), Nov 4 (anxiety, children/adolescents); series began Sept 30, 2026.",
+    "description": "Six-part weekly one-hour Zoom series on recognition, assessment, and management of common mental health conditions across the reproductive, perinatal, childhood, and adolescent periods. Remaining sessions: Oct 21 (eating disorders, children/adolescents), Oct 28 (anxiety, perinatal), Nov 4 (anxiety, children/adolescents); series began Sept 30, 2026.",
     "categories": [
       "Behavioral Health",
       "Counseling",
@@ -3105,7 +3065,7 @@
       "Counselors",
       "Healthcare Professionals"
     ],
-    "date_display": "Remaining sessions October 14, 21, 28 and November 4, 2026, 12:00-1:00 PM ET each session (series began September 30, 2026)",
+    "date_display": "Remaining sessions October 21, 28 and November 4, 2026, 12:00-1:00 PM ET each session (series began September 30, 2026)",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -3120,12 +3080,12 @@
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Free-access clinician-facing mental-health skill-building on perinatal and child/adolescent assessment — directly relevant to behavioral-health professional development.",
-    "official_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/2026-10-14/",
-    "source_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/2026-10-14/",
+    "official_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/",
+    "source_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-13",
-      "verified_against": "Official Penn State Health News event page: six one-hour sessions weekly via Zoom noon-1 PM, topics per session, sessions remaining Oct 14/21/28 and Nov 4, 2026"
+      "last_verified": "2026-10-15",
+      "verified_against": "Official Penn State Health News event page (2026-10-15): Oct 14 session removed from listing; remaining sessions Oct 21, 28 and Nov 4, 2026, noon–1 PM ET each session"
     }
   },
   {
@@ -3382,6 +3342,176 @@
       "status": "verified",
       "last_verified": "2026-10-14",
       "verified_against": "Official PHF event page (direct open 2026-10-14): Nov 16-19, 2026, free and fully virtual; registration open via TRAIN Learning Network; CE not listed"
+    }
+  },
+  {
+    "id": "changemeded-2027",
+    "title": "ChangeMedEd® 2027",
+    "organization": "American Medical Association",
+    "description": "Annual medical-education innovation conference from the AMA ChangeMedEd initiative, September 9–11, 2027 in Chicago, IL, covering medical-education innovation, coaching, competency-based education, and health-workforce learning. Prices and CE not yet listed.",
+    "categories": [
+      "Medical Education",
+      "Faculty Development",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Medical Education Innovation",
+      "Coaching",
+      "Competency-Based Education"
+    ],
+    "audiences": [
+      "Medical Educators",
+      "Faculty",
+      "Healthcare Professionals"
+    ],
+    "date_display": "September 9–11, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Chicago, IL",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Annual medical-education innovation convening covering coaching, competency-based education, and educator development — core Pathways staff and faculty development territory.",
+    "official_url": "https://www.ama-assn.org/membership/events/changemeded-2027",
+    "source_url": "https://www.ama-assn.org/membership/events/changemeded-2027",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official AMA ChangeMedEd 2027 event page: Sep 9-11, 2027, Chicago IL; prices and CE not yet listed"
+    }
+  },
+  {
+    "id": "amia-symposium-2027",
+    "title": "AMIA 2027 Annual Symposium",
+    "organization": "American Medical Informatics Association",
+    "description": "Flagship five-day biomedical and health informatics meeting, November 6–10, 2027 in San Diego, CA (Hilton San Diego Bayfront), covering clinical informatics, AI, research informatics, implementation science, and governance. Prices and CE not yet listed.",
+    "categories": [
+      "Health Informatics",
+      "AI in Healthcare",
+      "Biomedical Sciences",
+      "Research"
+    ],
+    "subcategories": [
+      "Clinical Informatics",
+      "AI",
+      "Implementation Science"
+    ],
+    "audiences": [
+      "Informaticians",
+      "Clinicians",
+      "Researchers",
+      "Educators"
+    ],
+    "date_display": "November 6–10, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "San Diego, CA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Flagship informatics meeting spanning clinical AI, learning health systems, and research informatics — strong fit for the AI-in-healthcare and health-informatics discovery domains.",
+    "official_url": "https://amia.org/education-events/annual-symposium",
+    "source_url": "https://amia.org/education-events/annual-symposium",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official AMIA event page: Nov 6-10, 2027, San Diego CA (Hilton San Diego Bayfront); prices and CE not yet listed"
+    }
+  },
+  {
+    "id": "amia-amplify-informatics-2027",
+    "title": "Amplify Informatics Conference 2027",
+    "organization": "American Medical Informatics Association",
+    "description": "Informatics conference April 12–15, 2027 in Atlanta, GA (Hyatt Regency Atlanta), uniting the former Informatics Summit and Clinical Informatics Conference, with 1,100+ attendees expected. Prices and CE not yet listed.",
+    "categories": [
+      "Health Informatics",
+      "AI in Healthcare"
+    ],
+    "subcategories": [
+      "Clinical Informatics"
+    ],
+    "audiences": [
+      "Informaticians",
+      "Clinicians",
+      "Researchers"
+    ],
+    "date_display": "April 12–15, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Atlanta, GA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Consolidated AMIA informatics conference covering applied clinical informatics and AI implementation — relevant to the informatics and AI-in-healthcare discovery domains.",
+    "official_url": "https://amia.org/education-events/amplify-informatics-conference",
+    "source_url": "https://amia.org/education-events/amplify-informatics-conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official AMIA event page: Apr 12-15, 2027, Atlanta GA (Hyatt Regency Atlanta); unites Informatics Summit and Clinical Informatics Conference; prices and CE not yet listed"
+    }
+  },
+  {
+    "id": "nih-r25-informational-webinar-2026",
+    "title": "NIH Research Educational Program (Parent R25) Informational Webinar",
+    "organization": "National Institutes of Health",
+    "description": "Free technical-assistance webinar for applicants to the NIH Research Educational Program (Parent R25), November 19, 2026, 2:00–3:00 PM ET, online. CE not listed.",
+    "categories": [
+      "Research",
+      "Faculty Development",
+      "Pathway Programs"
+    ],
+    "subcategories": [
+      "Research Education",
+      "Grant-Funded Programs"
+    ],
+    "audiences": [
+      "Researchers",
+      "Faculty",
+      "Program Staff"
+    ],
+    "date_display": "November 19, 2026, 2:00–3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Funding-related learning for research-education programs; useful for program staff building pathway or research-training capacity.",
+    "official_url": "https://grants.nih.gov/news-events/calendar-of-events",
+    "source_url": "https://grants.nih.gov/news-events/calendar-of-events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official NIH grants calendar listing: Nov 19, 2026, 2:00-3:00 PM ET, online, free; tech-assistance webinar for R25 applicants; CE not listed"
     }
   }
 ]

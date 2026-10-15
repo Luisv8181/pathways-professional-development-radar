@@ -604,38 +604,6 @@
     }
   },
   {
-    "id": "hosa-vet-med-2026",
-    "title": "Vet Med Starts Now: Real Stories, Career Paths, and HOSA Veterinary Science",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual veterinary-medicine career webinar with real stories and HOSA Veterinary Science paths, presented by the American Association of Veterinary Medical Colleges.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "October 14, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "not listed"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
-    }
-  },
-  {
     "id": "hosa-premed-profile-2026",
     "title": "Building a Competitive Pre-Med Profile Before Senior Year",
     "organization": "HOSA – Future Health Professionals",
@@ -765,5 +733,72 @@
       "last_verified": "2026-10-12",
       "verified_against": "Official Geisinger news release (Oct 6, 2026): free yearlong program, ~30-40 students, monthly sessions Oct-Jun at Geisinger Medical Center; applications accepted, deadline Oct 15; apply at go.geisinger.edu/PRP"
     }
+  },
+  {
+    "id": "nci-icure-webinar-2026",
+    "title": "2027 iCURE Application Webinar",
+    "organization": "National Cancer Institute (NIH)",
+    "description": "Informational webinar about the iCURE postbaccalaureate research fellowship, October 20, 2026, 2:00–3:30 PM ET, online. Application cycle closes November 30, 2026. Price and CE not listed.",
+    "categories": [
+      "Post-Baccalaureate",
+      "Bridge Programs",
+      "Research",
+      "College/Pre-Health"
+    ],
+    "audiences": [
+      "Postbacc Students",
+      "Recent Graduates",
+      "Students Interested in Biomedical Research"
+    ],
+    "date_display": "October 20, 2026, 2:00–3:30 PM ET",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://trainatnci.cancer.gov/programs/icure/",
+    "source_url": "https://trainatnci.cancer.gov/programs/icure/",
+    "eligibility": "Postbaccalaureate applicants to the NCI iCURE research fellowship; check the official program page for eligibility details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official NCI iCURE program page: application webinar Oct 20, 2026, 2:00-3:30 PM ET, online; application cycle closes Nov 30, 2026"
+    },
+    "registration_deadline": "November 30, 2026"
+  },
+  {
+    "id": "nih-resilient-scientist-fall-2026",
+    "title": "Becoming a Resilient Scientist — Fall 2026 Sessions",
+    "organization": "NIH Office of Intramural Training and Education",
+    "description": "Remaining fall 2026 online sessions on October 22, October 29, and November 12, 2026, 3:00–4:15 PM ET each session. A certificate of completion is offered (not CE credits). Open to students and fellows outside NIH. Price not listed.",
+    "categories": [
+      "Professional Readiness",
+      "Coaching and Mentoring",
+      "Student Success"
+    ],
+    "audiences": [
+      "Students",
+      "Fellows",
+      "Trainees"
+    ],
+    "date_display": "October 22, October 29, and November 12, 2026, 3:00–4:15 PM ET",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://www.training.nih.gov/wellbeing/join-webinars-and-lectures/brs/",
+    "source_url": "https://www.training.nih.gov/wellbeing/join-webinars-and-lectures/brs/",
+    "eligibility": "Students and fellows, including those outside NIH; check the official page for session details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-15",
+      "verified_against": "Official NIH OITE page: remaining fall 2026 sessions Oct 22, Oct 29, Nov 12, 2026, 3:00-4:15 PM ET, online; certificate of completion (not CE credits)"
+    },
+    "registration_deadline": null
   }
 ]
