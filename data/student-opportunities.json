@@ -1,38 +1,5 @@
 [
   {
-    "id": "hosa-phlebotomy-competition-2026",
-    "title": "HOSA Phlebotomy Competition – Get Ready for the Challenge!",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual preparation webinar for students interested in HOSA's phlebotomy competitive event.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration",
-      "Competitions"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "October 15, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "HOSA student programming; competition participation follows HOSA and state-specific requirements.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
-    }
-  },
-  {
     "id": "hosa-selective-college-application-2026",
     "title": "Standing Out: How to Strengthen Your Application to Selective Colleges",
     "organization": "HOSA – Future Health Professionals",

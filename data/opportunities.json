@@ -328,49 +328,6 @@
     }
   },
   {
-    "id": "aca-advocacy-power-hour-oct-2026",
-    "title": "ACA Advocacy Power Hour",
-    "organization": "American Counseling Association",
-    "description": "Virtual professional and policy discussion with federal and state updates and attendee roundtable discussion.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Counseling",
-      "Advocacy",
-      "Policy"
-    ],
-    "audiences": [
-      "Counselors",
-      "Counselor Educators",
-      "Behavioral Health Professionals"
-    ],
-    "date_display": "October 15, 2026 at 3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "No fee listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Provides a low-barrier counseling-sector learning and networking opportunity with state and federal updates.",
-    "official_url": "https://community.counseling.org/browse/announcements",
-    "source_url": "https://community.counseling.org/browse/announcements",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "community.counseling.org announcements page now 404 (dead); session stands per ACA's recurring monthly schedule (third Thursday, 3 PM ET) — Oct 15, 2026 is the third Thursday"
-    }
-  },
-  {
     "id": "ama-changemeded-cpd-2026",
     "title": "Beyond CME: Reimagining Continuing Professional Development",
     "organization": "American Medical Association ChangeMedEd",
@@ -1741,52 +1698,6 @@
     }
   },
   {
-    "id": "pa-hiv-special-populations-oct15-2026",
-    "title": "HIV and Special Populations: HIV Care in Communities with Specific Needs",
-    "organization": "Pennsylvania Department of Health",
-    "description": "Live virtual training for HIV prevention and care providers on HIV care in communities with specific needs; registration requires the code listed by the official state training page.",
-    "categories": [
-      "Public Health",
-      "Community Health",
-      "Health Equity",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "HIV Care",
-      "Special Populations",
-      "Community-Based Care"
-    ],
-    "audiences": [
-      "Ryan White Case Managers",
-      "HIV Care Providers",
-      "SNNLP Navigators",
-      "Pennsylvania Department of Health Employees",
-      "CMHD Employees"
-    ],
-    "date_display": "October 15, 2026, 9:00–11:00 AM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online / Pennsylvania",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong community-health and equity fit for workforce training, public-health practice, and culturally responsive services.",
-    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official PA DOH HIV education page (direct open): 'HIV and Special Populations: HIV Care in Communities with Specific Needs,' Oct 15, 2026, 9-11 AM; registration via maaetc.org (password PACM)"
-    }
-  },
-  {
     "id": "pa-hiv-benefits-oct26-2026",
     "title": "Public Benefits for People with HIV - Part 1",
     "organization": "Pennsylvania Department of Health",
@@ -2344,47 +2255,6 @@
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-coaching-competency-oct2026",
-    "title": "Cultivating Competency Through Coaching Workshop - October 15, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person coaching workshop for cultivating competency, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Coaching and Mentoring",
-      "Faculty Development"
-    ],
-    "subcategories": [
-      "Coaching",
-      "Competency-Based Education",
-      "Professional Development"
-    ],
-    "audiences": [
-      "Educators",
-      "Clinical Leaders",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 15, 2026, 8:30 AM–4:30 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "not listed",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to coaching, competency-based education, and faculty development.",
     "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
@@ -3512,6 +3382,54 @@
       "status": "verified",
       "last_verified": "2026-10-15",
       "verified_against": "Official NIH grants calendar listing: Nov 19, 2026, 2:00-3:00 PM ET, online, free; tech-assistance webinar for R25 applicants; CE not listed"
+    }
+  },
+  {
+    "id": "acca-ipv-college-survivors-webinar-2026",
+    "title": "Supporting Survivors of Intimate Partner Violence Among College Students: Key Considerations for College Mental Health Providers and Supervisors",
+    "organization": "American College Counseling Association",
+    "description": "One-hour ACCA Lunch & Learn webinar on trauma-informed, survivor-centered care for college student survivors of intimate partner violence, covering safety planning, mental health interventions, culturally responsive approaches, and supervision guidance.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Intimate Partner Violence",
+      "Trauma-Informed Care",
+      "College Mental Health",
+      "Clinical Supervision"
+    ],
+    "audiences": [
+      "College Counselors",
+      "Mental Health Providers",
+      "Clinical Supervisors",
+      "Counselor Educators"
+    ],
+    "date_display": "November 20, 2026, 1:00–2:00 PM EST",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed on official event page"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "1.0 APA CE",
+      "1.0 NBCC CE"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Relevant to counseling workforce clinical skills, trauma-informed care, and supervision practice.",
+    "official_url": "https://www.CollegeCounseling.org/event-5923384",
+    "source_url": "https://www.CollegeCounseling.org/event-5923384",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-10-16",
+      "verified_against": "Official ACCA event page (direct open): November 20, 2026, 1-2 PM EST; presenter Adrienne Graham PhD, LPC, NCC; 1 CE for APA & NBCC"
     }
   }
 ]
