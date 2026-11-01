@@ -1,55 +1,5 @@
 [
   {
-    "id": "geisinger-echo-2026",
-    "title": "Ultrasound ECHO Skills Stations 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person hands-on POCUS and bedside echocardiography training using didactic instruction and live-model scanning practice.",
-    "categories": [
-      "Clinical Education",
-      "Biomedical Sciences",
-      "Nursing Education"
-    ],
-    "subcategories": [
-      "POCUS",
-      "Critical Care",
-      "Skills Training"
-    ],
-    "audiences": [
-      "Physicians",
-      "PAs",
-      "NPs",
-      "Nurses",
-      "Respiratory Therapists"
-    ],
-    "date_display": "October 26, 2026, 7:00 AM–5:30 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Scranton, PA",
-    "distance_miles": 0,
-    "cost": {
-      "amount": 350,
-      "currency": "USD",
-      "display": "$350"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "8.00 AAPA Category I CME",
-      "8.00 AMA PRA Category 1 Credit™",
-      "8.00 ANCC",
-      "8.00 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Useful example of local interdisciplinary clinical-skills education and hands-on simulation-style learning.",
-    "official_url": "https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026",
-    "source_url": "https://cce.geisinger.edu/content/ultrasound-echo-skills-stations-2026-october-26-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official Geisinger CE course page"
-    }
-  },
-  {
     "id": "psu-strategies-2026",
     "title": "Strategies: Educational Excellence for Health Care Providers and Educators",
     "organization": "Penn State",
@@ -328,50 +278,6 @@
     }
   },
   {
-    "id": "ama-changemeded-cpd-2026",
-    "title": "Beyond CME: Reimagining Continuing Professional Development",
-    "organization": "American Medical Association ChangeMedEd",
-    "description": "Virtual ChangeMedEd webinar focused on rethinking continuing professional development across medical education.",
-    "categories": [
-      "Professionalism",
-      "Professional Development",
-      "Medical Education"
-    ],
-    "subcategories": [
-      "Continuing Professional Development",
-      "Faculty Development",
-      "Lifelong Learning"
-    ],
-    "audiences": [
-      "Medical Educators",
-      "Faculty",
-      "Healthcare Professionals",
-      "Program Leaders"
-    ],
-    "date_display": "October 20, 2026, 1:00–2:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to professional development systems, lifelong learning, and how health-professions programs develop and sustain professional competencies.",
-    "official_url": "https://event.on24.com/wcc/r/5171402/F596B3EF6DD36BD247FC5A5798DD0C9A",
-    "source_url": "https://www.ama-assn.org/education/changemeded-initiative/medical-education-webinars-and-podcasts",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "AMA ChangeMedEd webinar listing + on24 registration page (Oct 20, 2026, noon-1 PM CT; Master Adaptive Learner / Learning Health Systems / AI themes)"
-    }
-  },
-  {
     "id": "aamc-learn-serve-lead-2026",
     "title": "Learn Serve Lead 2026: The AAMC Annual Meeting",
     "organization": "Association of American Medical Colleges",
@@ -418,55 +324,6 @@
       "status": "verified",
       "last_verified": "2026-09-29",
       "verified_against": "Official AAMC Learn Serve Lead page"
-    }
-  },
-  {
-    "id": "commonwealth-cmhc-virtual-2026",
-    "title": "5th Annual Clinical Mental Health Counseling Virtual Conference",
-    "organization": "Commonwealth University of Pennsylvania",
-    "description": "Virtual counseling conference, “Context Matters: Counseling in Changing Times,” with sessions for counseling and counselor education students, clinicians, supervisors, counselor educators, and other healthcare professionals.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Professional Development",
-      "Healthcare Education"
-    ],
-    "subcategories": [
-      "Clinical Mental Health Counseling",
-      "Counselor Education",
-      "Supervision",
-      "Continuing Education"
-    ],
-    "audiences": [
-      "Counseling Students",
-      "Clinical Professionals",
-      "Supervisors",
-      "Counselor Educators",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 16, 2026, 9:00 AM–4:00 PM ET",
-    "registration_deadline": "Registration closed October 9, 2026 at 5:00 PM ET",
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Small fee; exact amount not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 7 CE credits"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong counseling and counselor-education fit with accessible online participation and CE; relevant to behavioral-health workforce development and professional preparation.",
-    "official_url": "https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference",
-    "source_url": "https://www.commonwealthu.edu/events/annual-cmhc-virtual-conference",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official Commonwealth University conference page (direct open): Oct 16, 2026, 9 AM-4 PM ET, Zoom, event stands; registration deadline Oct 9 has passed (no late registration shown)"
     }
   },
   {
@@ -522,249 +379,6 @@
     }
   },
   {
-    "id": "aamc-virtual-med-school-fair-oct-2026",
-    "title": "AAMC Virtual Medical School Fair",
-    "organization": "Association of American Medical Colleges",
-    "description": "Free virtual fair connecting aspiring medical students with medical school admissions representatives, AAMC experts, advisors, and live information sessions.",
-    "categories": [
-      "Medical School Advising",
-      "Pathway Programs",
-      "Student Success",
-      "Professional Readiness"
-    ],
-    "subcategories": [
-      "Admissions",
-      "Premedical Advising",
-      "Medical School Exploration",
-      "Application Readiness"
-    ],
-    "audiences": [
-      "Aspiring Medical Students",
-      "Prehealth Advisors",
-      "Pathway Program Staff",
-      "Medical School Admissions Professionals",
-      "Students"
-    ],
-    "date_display": "October 27–28, 2026, 11:00 AM–6:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly supports medical-school advising and pathway programming through admissions access, application guidance, school exploration, and direct interaction with admissions representatives.",
-    "official_url": "https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd",
-    "source_url": "https://virtualfairs.aamc.org/Fair/EventDetails?fairId=d7398a70-0197-4c93-8758-b49e011a2cfd",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official AAMC Virtual Fair event page (Oct 27-28, 2026, 11 AM-6 PM ET; 5 live Zoom sessions Oct 27; free attendee access)"
-    }
-  },
-  {
-    "id": "ppa-ethics-educators-2026",
-    "title": "PPA Ethics Educators' Conference",
-    "organization": "Pennsylvania Psychological Association",
-    "description": "Professional-development conference focused on ethics education, professional safety, inclusive practice, and ethical decision-making.",
-    "categories": [
-      "Ethics",
-      "Professional Development",
-      "Counseling",
-      "Behavioral Health"
-    ],
-    "subcategories": [
-      "Ethics Education",
-      "Professional Practice",
-      "Inclusive Practice"
-    ],
-    "audiences": [
-      "Psychologists",
-      "Counselor Educators",
-      "Behavioral Health Educators",
-      "Professional Development Leaders"
-    ],
-    "date_display": "October 23, 2026",
-    "registration_deadline": "October 20, 2026 at 5:00 PM EDT",
-    "format": "In-person",
-    "region": "Mechanicsburg, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 100,
-      "currency": "USD",
-      "display": "$100 PPA member / $200 non-member / $30 student member"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "6 CE credits"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to professional readiness, ethics education, inclusive practice, and preparation of behavioral-health professionals.",
-    "official_url": "https://www.papsy.org/events/ethics-educators-conference-2026",
-    "source_url": "https://www.papsy.org/events/ethics-educators-conference-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official PPA event page (Oct 23, 2026; 4 sessions, 6 CE; $100 PPA member / $200 non-member / $30 student member)"
-    }
-  },
-  {
-    "id": "misericordia-healthcare-symposium-2026",
-    "title": "Healthcare Symposium: Connected Care",
-    "organization": "Misericordia University",
-    "description": "Regional healthcare symposium focused on education, innovation, prevention, community health, and healthcare delivery.",
-    "categories": [
-      "Healthcare Education",
-      "Community Health",
-      "Professional Development",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Connected Care",
-      "Health Innovation",
-      "Prevention",
-      "Regional Workforce"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Educators",
-      "Students",
-      "Community Health Professionals",
-      "Program Staff"
-    ],
-    "date_display": "October 23, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Dallas, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 25,
-      "currency": "USD",
-      "display": "$25"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Physical therapy continuing education",
-      "Occupational therapy contact hours",
-      "Nursing contact hours pending approval"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Low-cost regional opportunity aligned with healthcare education, innovation, prevention, community health, and workforce development in Northeastern Pennsylvania.",
-    "official_url": "https://www.misericordia.edu/academics/academic-colleges/college-of-health-sciences-and-education/health-symposium-2026",
-    "source_url": "https://www.misericordia.edu/academics/academic-colleges/college-of-health-sciences-and-education/health-symposium-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official Misericordia University symposium information"
-    }
-  },
-  {
-    "id": "pspine-philadelphia-neuroscience-2026",
-    "title": "P-SPINE Philadelphia Neuroscience Conference",
-    "organization": "P-SPINE",
-    "description": "Philadelphia neuroscience and biomedical research conference focused on neuroscience science, translational research, and research dissemination.",
-    "categories": [
-      "Biomedical Sciences",
-      "Research",
-      "Clinical Education"
-    ],
-    "subcategories": [
-      "Neuroscience",
-      "Translational Research",
-      "Research Presentation"
-    ],
-    "audiences": [
-      "Researchers",
-      "Trainees",
-      "Educators",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 28, 2026",
-    "registration_deadline": "October 23, 2026",
-    "format": "In-person",
-    "region": "Philadelphia, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": true,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Accessible research-focused biomedical opportunity relevant to neuroscience education, trainee exposure, research dissemination, and biomedical career pathways.",
-    "official_url": "https://postdocs.upenn.edu/event/event-p-spine-2026-philadelphia-neuroscience-conference/",
-    "source_url": "https://postdocs.upenn.edu/event/event-p-spine-2026-philadelphia-neuroscience-conference/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official P-SPINE conference information"
-    }
-  },
-  {
-    "id": "upmc-disability-equity-2026",
-    "title": "Voices Values Visibility: Advancing Disability Equity Together Conference",
-    "organization": "UPMC Center for Continuing Education in the Health Sciences",
-    "description": "Virtual interdisciplinary conference focused on disability equity, barriers to care, social determinants of health, universal design, lived experience, and inclusive treatment planning.",
-    "categories": [
-      "Health Equity",
-      "Disability",
-      "Rehabilitation",
-      "Healthcare Education",
-      "Community Health"
-    ],
-    "subcategories": [
-      "Disability Equity",
-      "Universal Design",
-      "Social Determinants of Health",
-      "Interdisciplinary Training"
-    ],
-    "audiences": [
-      "Researchers",
-      "Healthcare Professionals",
-      "Educators",
-      "Advocates",
-      "Social Workers"
-    ],
-    "date_display": "October 23, 2026, 8:30 AM–4:30 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 1,
-      "currency": "USD",
-      "display": "$1"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "7 AMA PRA Category 1 Credit",
-      "7 ANCC",
-      "7 APA",
-      "7 ASWB",
-      "7 Attendance"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong match for disability inclusion, health equity, interdisciplinary education, universal design, and lived-experience-informed care.",
-    "official_url": "https://cce.upmc.com/content/voices-values-visibility-advancing-disability-equity-together-conference",
-    "source_url": "https://cce.upmc.com/content/voices-values-visibility-advancing-disability-equity-together-conference",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-09-30",
-      "verified_against": "Official UPMC continuing education course page"
-    }
-  },
-  {
     "id": "pediatric-capacity-building-institute-2027",
     "title": "Pediatric Capacity Building Institute Year 4",
     "organization": "Pennsylvania Department of Human Services",
@@ -811,65 +425,6 @@
       "status": "verified",
       "last_verified": "2026-09-30",
       "verified_against": "Official Pennsylvania DHS PCBI page and 2027 invitation"
-    }
-  },
-  {
-    "id": "geisinger-clinical-quality-2026",
-    "title": "Third Annual Clinical Quality Symposium",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "Interprofessional symposium on patient safety, high-reliability care, human factors, clinical pathways, decision support, data analytics, and at-home screening.",
-    "categories": [
-      "Healthcare Education",
-      "Research",
-      "Health Informatics",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Clinical Quality",
-      "Patient Safety",
-      "Human Factors",
-      "Clinical Informatics"
-    ],
-    "audiences": [
-      "Physicians",
-      "PAs",
-      "NPs",
-      "Nurses",
-      "LPNs",
-      "Pharmacists",
-      "Social Workers",
-      "Students",
-      "Administrative Staff"
-    ],
-    "date_display": "October 22, 2026, 8:00 AM–4:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 100,
-      "currency": "USD",
-      "display": "$100"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "5.5 AAPA Category I CME",
-      "5.5 ACPE",
-      "5.5 AMA PRA Category 1 Credit",
-      "5.5 ANCC",
-      "5.5 ASWB",
-      "5.5 Participation Credit",
-      "5 CPHQ CE credits"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Combines quality improvement, patient safety, human factors, informatics, and interprofessional education, directly relevant to health-professions learning.",
-    "official_url": "https://cce.geisinger.edu/content/third-annual-clinical-quality-symposium",
-    "source_url": "https://cce.geisinger.edu/content/third-annual-clinical-quality-symposium",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE course page"
     }
   },
   {
@@ -921,446 +476,6 @@
       "status": "verified",
       "last_verified": "2026-10-08",
       "verified_against": "Official Geisinger CE conference page"
-    }
-  },
-  {
-    "id": "nih-nigms-t32-webinar-2026",
-    "title": "NIGMS Informational Webinar on Basic Biomedical Predoctoral T32 Training Programs",
-    "organization": "National Institute of General Medical Sciences",
-    "description": "Virtual NIH informational webinar explaining NIGMS Basic Biomedical Predoctoral T32 training programs and programmatic priorities for prospective applicants.",
-    "categories": [
-      "Biomedical Sciences",
-      "Research",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Biomedical Research Training",
-      "Predoctoral Training",
-      "Research Funding"
-    ],
-    "audiences": [
-      "Researchers",
-      "Faculty",
-      "Program Leaders",
-      "Trainees",
-      "Biomedical Scientists"
-    ],
-    "date_display": "October 29, 2026, 2:30–4:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Useful biomedical research workforce-development and training opportunity for programs supporting future health-science researchers.",
-    "official_url": "https://grants.nih.gov/news-events/calendar-of-events/6a9754377cc064048e0c1fe5",
-    "source_url": "https://grants.nih.gov/grants/guide/notice-files/NOT-GM-26-015.html",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-03",
-      "verified_against": "Official NIH/NIGMS event and notice pages"
-    }
-  },
-  {
-    "id": "nih-nigms-btod-webinar-2026",
-    "title": "NIGMS Informational Webinar - Biomedical Technology Optimization and Dissemination Centers Program",
-    "organization": "National Institute of General Medical Sciences",
-    "description": "Virtual NIH informational webinar on the Biomedical Technology Optimization and Dissemination Centers Program for prospective applicants.",
-    "categories": [
-      "Biomedical Sciences",
-      "Research",
-      "AI in Healthcare"
-    ],
-    "subcategories": [
-      "Biomedical Technology",
-      "Research Funding",
-      "Technology Translation"
-    ],
-    "audiences": [
-      "Researchers",
-      "Faculty",
-      "Program Leaders",
-      "Biomedical Scientists"
-    ],
-    "date_display": "October 28, 2026, 3:00–4:30 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to biomedical technology development, research training, dissemination, and translation of health-science innovation.",
-    "official_url": "https://www.grants.nih.gov/news-events/calendar-of-events/6aad983fc35d8cfb70017ca4",
-    "source_url": "https://www.grants.nih.gov/news-events/calendar-of-events/6aad983fc35d8cfb70017ca4",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-03",
-      "verified_against": "Official NIH/NIGMS event page"
-    }
-  },
-  {
-    "id": "nih-niddk-data-science-ai-2026",
-    "title": "NIDDK-CR Data Science and Meet the Expert Webinar: Pixels to Phenotypes - Whole Slide Imaging Pathomics",
-    "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
-    "description": "Virtual data-science and AI-driven biomedical research webinar on scalable and explainable whole-slide imaging pathomics tools.",
-    "categories": [
-      "Biomedical Sciences",
-      "Research",
-      "AI in Healthcare",
-      "Health Informatics"
-    ],
-    "subcategories": [
-      "Data Science",
-      "AI",
-      "Imaging",
-      "Pathomics"
-    ],
-    "audiences": [
-      "Biomedical Researchers",
-      "Data Scientists",
-      "Informaticians",
-      "Educators",
-      "Trainees"
-    ],
-    "date_display": "October 28, 2026, 3:00–4:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly aligned with AI-driven biomedical research, data science, and health informatics skill development.",
-    "official_url": "https://repository.niddk.nih.gov/pages/webinars",
-    "source_url": "https://repository.niddk.nih.gov/pages/webinars",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official NIDDK Central Repository webinar schedule"
-    }
-  },
-  {
-    "id": "geisinger-hics-oct22-2026",
-    "title": "Hospital Incident Command System Training - October 22, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Hospital Incident Command System training with a tabletop exercise, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Emergency Preparedness",
-      "Disaster Response",
-      "Tabletop Exercise"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Clinical Leaders",
-      "Geisinger Staff"
-    ],
-    "date_display": "October 22, 2026, 12:00–4:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-breast-conference-2026",
-    "title": "Geisinger Annual Breast Conference",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person breast-care educational conference listed on the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Biomedical Sciences",
-      "Healthcare Education"
-    ],
-    "subcategories": [
-      "Breast Care",
-      "Interprofessional Education"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Clinicians",
-      "Educators"
-    ],
-    "date_display": "October 23, 2026, 7:30 AM–3:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Regional clinical education opportunity within a major healthcare-system educational environment.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-stable-oct26-2026",
-    "title": "The STABLE Program - October 26, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person neonatal stabilization training listed on the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Nursing Education",
-      "Simulation"
-    ],
-    "subcategories": [
-      "Neonatal Care",
-      "Stabilization",
-      "Clinical Skills"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Nurses",
-      "Clinicians"
-    ],
-    "date_display": "October 26, 2026, 8:00 AM–5:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "High-value clinical skills and stabilization training that aligns with simulation and healthcare workforce preparation.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-04",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-icu-liberation-oct29-2026",
-    "title": "SCCM ICU Liberation Course - October 29-30, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person critical-care educational course listed on the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Nursing Education",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Critical Care",
-      "ICU",
-      "Interprofessional Education"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Nurses",
-      "Clinicians"
-    ],
-    "date_display": "October 29–30, 2026, 8:00 AM–5:30 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 250,
-      "currency": "USD",
-      "display": "$250"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "14.5 AAPA Category I CME",
-      "14.5 AMA PRA Category 1 Credit",
-      "14.5 ANCC",
-      "14.5 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Critical-care professional development relevant to interprofessional healthcare education and workforce training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official Geisinger CE course page"
-    }
-  },
-  {
-    "id": "geisinger-mi-oct28-2026",
-    "title": "Motivational Interviewing Workshop - October 28, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "October 28, 2026, 9:00 AM–1:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-mi-oct29-2026",
-    "title": "Motivational Interviewing Workshop - October 29, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "October 29, 2026, 12:00–4:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-mi-oct30-2026",
-    "title": "Motivational Interviewing Workshop - October 30, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "October 30, 2026, 12:00–4:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
     }
   },
   {
@@ -1599,53 +714,6 @@
     }
   },
   {
-    "id": "aca-act-fundamentals-oct22-2026",
-    "title": "ACT Fundamentals: Six Core Processes to Increase Psychological Flexibility",
-    "organization": "American Counseling Association",
-    "description": "Live one-hour counseling webinar introducing psychological flexibility, the six core ACT processes, experiential avoidance, cognitive fusion, and practical ACT-based interventions.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Acceptance and Commitment Therapy",
-      "Psychological Flexibility",
-      "Clinical Skills"
-    ],
-    "audiences": [
-      "Counselors",
-      "Behavioral Health Professionals",
-      "Counselor Educators",
-      "Students"
-    ],
-    "date_display": "October 22, 2026, 1:00–2:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed on retrieved official page"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "1.0 NBCC hours",
-      "1.0 Washington hours"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to counseling practice, evidence-informed clinical skills, and behavioral-health workforce development.",
-    "official_url": "https://learn.counseling.org/products/live-webinar-act-fundamentals-six-core-processes-to-increase-psychological-flexibility",
-    "source_url": "https://learn.counseling.org/products/live-webinar-act-fundamentals-six-core-processes-to-increase-psychological-flexibility",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official ACA Learn webinar and CE page"
-    }
-  },
-  {
     "id": "geisinger-respiratory-care-nov13-2026",
     "title": "21st Annual Fall into Step with Respiratory Care",
     "organization": "Geisinger College of Health Sciences",
@@ -1698,96 +766,6 @@
     }
   },
   {
-    "id": "pa-hiv-benefits-oct26-2026",
-    "title": "Public Benefits for People with HIV - Part 1",
-    "organization": "Pennsylvania Department of Health",
-    "description": "Live virtual training for Ryan White case managers and HIV-service navigators covering public benefits for people with HIV.",
-    "categories": [
-      "Public Health",
-      "Community Health",
-      "Health Equity",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "HIV Care",
-      "Benefits Navigation",
-      "Case Management"
-    ],
-    "audiences": [
-      "Ryan White Case Managers",
-      "SNNLP Navigators",
-      "Pennsylvania Department of Health Employees",
-      "CMHD Employees"
-    ],
-    "date_display": "October 26–28, 2026, 10:00 AM–12:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online / Pennsylvania",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Supports community-based case management and access-to-care navigation for underserved populations.",
-    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
-    }
-  },
-  {
-    "id": "pa-hiv-aging-oct29-2026",
-    "title": "HIV and Special Populations: HIV & Aging",
-    "organization": "Pennsylvania Department of Health",
-    "description": "Live virtual training focused on HIV and aging for HIV prevention and care providers.",
-    "categories": [
-      "Public Health",
-      "Community Health",
-      "Health Equity",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "HIV Care",
-      "Aging",
-      "Special Populations"
-    ],
-    "audiences": [
-      "Ryan White Case Managers",
-      "SNNLP Navigators",
-      "Pennsylvania Department of Health Employees",
-      "CMHD Employees"
-    ],
-    "date_display": "October 29, 2026, 9:00–11:00 AM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online / Pennsylvania",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to lifespan-sensitive community health training and healthcare navigation for people with HIV.",
-    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
-    }
-  },
-  {
     "id": "pa-hiv-behavioral-health-nov9-2026",
     "title": "Co-occurring Behavioral Health Issues in HIV Care",
     "organization": "Pennsylvania Department of Health",
@@ -1831,49 +809,6 @@
       "status": "verified",
       "last_verified": "2026-10-11",
       "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
-    }
-  },
-  {
-    "id": "geisinger-mi-oct23-2026",
-    "title": "Motivational Interviewing Workshop - October 23, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "October 23, 2026, 9:00 AM–1:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
     }
   },
   {
@@ -2178,49 +1113,6 @@
     }
   },
   {
-    "id": "geisinger-hics-oct16-2026",
-    "title": "Hospital Incident Command System Training - October 16, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Hospital Incident Command System training with a tabletop exercise, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Emergency Preparedness",
-      "Disaster Response",
-      "Tabletop Exercise"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Clinical Leaders",
-      "Geisinger Staff"
-    ],
-    "date_display": "October 16, 2026, 8:30 AM–12:30 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
     "id": "geisinger-hics-nov12-2026",
     "title": "Hospital Incident Command System Training - November 12, 2026",
     "organization": "Geisinger College of Health Sciences",
@@ -2255,47 +1147,6 @@
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
-    }
-  },
-  {
-    "id": "geisinger-fccs-pediatric-2026",
-    "title": "Fundamentals of Critical Care Medicine - Pediatric - October 19-20, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person pediatric fundamentals of critical care medicine course, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Critical Care",
-      "Pediatrics",
-      "Clinical Training"
-    ],
-    "audiences": [
-      "Physicians",
-      "Nurses",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 19–20, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "not listed",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to clinical continuing education and workforce development.",
     "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
@@ -2481,51 +1332,6 @@
     }
   },
   {
-    "id": "penn-state-rural-health-ai-2026",
-    "title": "Frontiers of Rural Health & AI: Planning for Rural Pennsylvania",
-    "organization": "Penn State CTSI and Institute for Computational and Data Sciences",
-    "description": "Research matchmaking workshop pairing rural-health investigators with AI/computational researchers, focused on planning for rural Pennsylvania health needs.",
-    "categories": [
-      "AI in Healthcare",
-      "Research",
-      "Biomedical Sciences",
-      "Public Health"
-    ],
-    "subcategories": [
-      "Rural Health",
-      "AI",
-      "Research Collaboration"
-    ],
-    "audiences": [
-      "Researchers",
-      "Faculty",
-      "Healthcare Professionals",
-      "Data Scientists"
-    ],
-    "date_display": "October 30, 2026, 10:00 AM-3:00 PM ET",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Hershey, PA",
-    "distance_miles": 150,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Not listed; registration required"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Imminent in-state AI-in-healthcare research matchmaking with a rural-health lens.",
-    "official_url": "https://harrisburg.psu.edu/story/59911/2026/09/30/penn-state-host-research-matchmaking-workshop-rural-health-and-ai",
-    "source_url": "https://harrisburg.psu.edu/story/59911/2026/09/30/penn-state-host-research-matchmaking-workshop-rural-health-and-ai",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official Penn State news post via delegated verification (Oct 12, 2026): Oct 30, 2026, 10 AM-3 PM, University Conference Center, Hershey; registration required"
-    }
-  },
-  {
     "id": "imsh-2027",
     "title": "IMSH 2027: International Meeting on Simulation in Healthcare",
     "organization": "Society for Simulation in Healthcare",
@@ -2653,51 +1459,6 @@
       "status": "verified",
       "last_verified": "2026-10-12",
       "verified_against": "Official AAMC upcoming-webinars page via delegated verification (Oct 12, 2026): Dec 15, 2026, 2:00 PM EST, virtual, free; final 'Pathways to Medicine' installment"
-    }
-  },
-  {
-    "id": "aamc-pathways-medicine-webinars-2026",
-    "title": "AAMC Pathways to Medicine Webinar Series (October 2026)",
-    "organization": "Association of American Medical Colleges",
-    "description": "Free virtual series on premedical pathway programs: fulfilling institutional missions (Oct 15) and technology as an equity multiplier (Oct 21).",
-    "categories": [
-      "Medical Education",
-      "Pathway Programs",
-      "Health Professions Advising",
-      "AI in Healthcare"
-    ],
-    "subcategories": [
-      "Premedical Pathways",
-      "Equity",
-      "Technology"
-    ],
-    "audiences": [
-      "Health Professions Advisors",
-      "Medical Educators",
-      "Program Leaders",
-      "Faculty"
-    ],
-    "date_display": "October 15 and October 21, 2026",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Two imminent free webinars on pathway-program missions and equity in health-professions advising.",
-    "official_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
-    "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official AAMC upcoming-webinars page via delegated verification (Oct 12, 2026): Oct 15 (premedical pathway programs fulfilling missions) and Oct 21 (technology as equity multiplier), virtual, free"
     }
   },
   {
@@ -2998,93 +1759,6 @@
       "status": "verified",
       "last_verified": "2026-10-13",
       "verified_against": "Official AAMC leadership-development page via delegated verification (Oct 13, 2026): Dec 8-10, 2026, in-person Westminster CO; early-bird $2,375, standard $2,725; attendees must be affiliated with an AAMC member institution; CE not stated"
-    }
-  },
-  {
-    "id": "positive-culture-framework-training-2026",
-    "title": "Positive Culture Framework Training",
-    "organization": "Montana State University Center for Health and Safety Culture (listed on APHA events calendar)",
-    "description": "Three-day online training on the Positive Culture Framework for health and safety culture. Registration closes October 16, 2026 or at capacity.",
-    "categories": [
-      "Public Health",
-      "Workforce Development",
-      "Healthcare Education"
-    ],
-    "subcategories": [
-      "Health and Safety Culture",
-      "Professional Training"
-    ],
-    "audiences": [
-      "Public Health Professionals",
-      "Healthcare Professionals"
-    ],
-    "date_display": "October 20-22, 2026",
-    "registration_deadline": "October 16, 2026 or at capacity",
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 600,
-      "currency": "USD",
-      "display": "$600 regular ($500 early-bird expired September 18, 2026; +$25 CEU fee)"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "12 Category 1 CECH (NCHEC)",
-      "1.2 CEUs"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Health-and-safety-culture workforce training with public-health relevance; virtual format accessible to Pathways staff.",
-    "official_url": "https://www.apha.org/events-and-meetings/apha-calendar/october-positive-culture-framework-training",
-    "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/october-positive-culture-framework-training",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official APHA calendar listing + chsculture.org organizer page (direct open): Oct 20-22, 2026 online; registration closes Oct 16, 2026; $600/person regular ($500 early-bird ended Sep 18; +$25 CEU fee); 12 Category 1 CECH / 1.2 CEUs"
-    }
-  },
-  {
-    "id": "one-health-systems-summit-2026",
-    "title": "2026 One Health Systems Summit",
-    "organization": "University of Tennessee Knoxville College of Social Work - Center for Pet Family Well-Being (with University of Washington Center for One Health Research, WSU College of Veterinary Medicine, Street Dog Coalition, Street Medicine San Antonio)",
-    "description": "One-day in-person pre-conference workshop at the APHA 2026 Annual Meeting on One Health systems bridging human, animal, and community health.",
-    "categories": [
-      "Public Health",
-      "Research",
-      "Community Health"
-    ],
-    "subcategories": [
-      "One Health",
-      "Systems Thinking"
-    ],
-    "audiences": [
-      "Public Health Professionals",
-      "Researchers",
-      "Clinicians",
-      "Veterinarians"
-    ],
-    "date_display": "October 31, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "San Antonio, TX",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "One Health pre-conference at APHA Annual Meeting; relevant to public-health and community-health workforce development.",
-    "official_url": "https://csw.utk.edu/cpfw/one-health-systems-summit/",
-    "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-one-health-systems-summit",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-13",
-      "verified_against": "Official APHA calendar listing plus UTK organizer page via delegated verification (Oct 13, 2026): Oct 31, 2026, in-person San Antonio TX, one-day pre-conference workshop at APHA 2026 Annual Meeting; price and CE not listed"
     }
   },
   {
@@ -3430,6 +2104,217 @@
       "status": "verified",
       "last_verified": "2026-10-16",
       "verified_against": "Official ACCA event page (direct open): November 20, 2026, 1-2 PM EST; presenter Adrienne Graham PhD, LPC, NCC; 1 CE for APA & NBCC"
+    }
+  },
+  {
+    "id": "aamc-mspot-webinar-2026",
+    "title": "Tracking What Matters: A New Tool for Program Objective Mapping to Advance Curriculum Evaluation and CBME",
+    "organization": "Association of American Medical Colleges",
+    "description": "Building Better Curriculum webinar introducing the AAMC Medical School Program Objective Tracker (MSPOT), a national resource for mapping program objectives to the Foundational Competencies for Undergraduate Medical Education.",
+    "categories": [
+      "Medical Education",
+      "Competency-Based Education"
+    ],
+    "subcategories": [
+      "Curriculum",
+      "Program Evaluation",
+      "CBME"
+    ],
+    "audiences": [
+      "Curriculum Deans",
+      "Administrators",
+      "Teaching Faculty",
+      "Program Leaders"
+    ],
+    "date_display": "December 1, 2026, 2:00 PM EST",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Curriculum mapping and competency-based evaluation directly support measurable pathway design and progression.",
+    "official_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
+    "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-01",
+      "verified_against": "Official AAMC Building Better Curriculum webinars page"
+    }
+  },
+  {
+    "id": "aamc-state-of-curriculum-2026",
+    "title": "State of the Curriculum 2026",
+    "organization": "Association of American Medical Colleges",
+    "description": "Building Better Curriculum webinar presenting key data findings from the AAMC AACOM Curriculum SCOPE Survey 2024-2025 to support evidence-informed curriculum decisions.",
+    "categories": [
+      "Medical Education"
+    ],
+    "subcategories": [
+      "Curriculum",
+      "Survey Data"
+    ],
+    "audiences": [
+      "Curriculum Deans",
+      "Administrators",
+      "Teaching Faculty",
+      "Program Leaders"
+    ],
+    "date_display": "December 10, 2026, 2:00 PM EST",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "National curriculum data informs pathway program design and advising, though it is a general medical-education briefing rather than a pathway-specific event.",
+    "official_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
+    "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-01",
+      "verified_against": "Official AAMC Building Better Curriculum webinars page"
+    }
+  },
+  {
+    "id": "aacn-high-impact-teaching-2026",
+    "title": "High-Impact Teaching: Applying Lessons from Simulation Across the Curriculum",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "Transform 2026 pre-conference workshop on applying lessons from simulation across the nursing curriculum.",
+    "categories": [
+      "Nursing Education",
+      "Simulation",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Simulation",
+      "Teaching",
+      "Curriculum"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Educators"
+    ],
+    "date_display": "December 2, 2026",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Indianapolis, IN",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Simulation-based teaching methods are directly transferable to pathway and health-professions skills training.",
+    "official_url": "https://www.aacnnursing.org/conferences-webinars",
+    "source_url": "https://www.aacnnursing.org/conferences-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-01",
+      "verified_against": "Official AACN conferences and webinars listing"
+    }
+  },
+  {
+    "id": "aacn-doctoral-education-conference-2027",
+    "title": "Doctoral Education Conference",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "AACN conference on scholarship in doctoral nursing education, preceding the January 14-15, 2027 post-conference AI workshop already tracked in the feed.",
+    "categories": [
+      "Nursing Education",
+      "Research"
+    ],
+    "subcategories": [
+      "Doctoral Education",
+      "Scholarship"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Doctoral Students",
+      "Program Leaders"
+    ],
+    "date_display": "January 12-14, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Coronado, CA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Doctoral nursing education and scholarship anchor the top of the nursing pathway pipeline.",
+    "official_url": "https://www.aacnnursing.org/conferences-webinars",
+    "source_url": "https://www.aacnnursing.org/conferences-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-01",
+      "verified_against": "Official AACN conferences and webinars listing"
+    }
+  },
+  {
+    "id": "geisinger-cfpa-101",
+    "title": "CFPA 101: Fundamental Concepts for Undergraduate Clinical Faculty and Preceptors",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Asynchronous, self-paced 6-module course preparing nurses for the role of clinical nurse educator and preceptor for undergraduate students, using an evidence-based approach to teaching and learning, with embedded assessments and 3 short capstone assignments.",
+    "categories": [
+      "Nursing Education",
+      "Faculty Development"
+    ],
+    "subcategories": [
+      "Clinical Faculty",
+      "Preceptors",
+      "Teaching"
+    ],
+    "audiences": [
+      "Nurses",
+      "Clinical Faculty",
+      "Preceptors"
+    ],
+    "date_display": "Ongoing; self-paced, complete within 3 months of enrollment",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 250,
+      "currency": "USD",
+      "display": "$250 per user per year (1-9 users; lower per-user rates for larger groups); 10 CEs available for $25 on completion"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "10 CEs available for $25 purchase on completion"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Local preceptor and clinical-faculty development directly strengthens the clinical training capacity pathways depend on.",
+    "official_url": "https://www.geisinger.edu/gchs/education/school-of-nursing/clinical-faculty-preceptor-academy/cfpa-101",
+    "source_url": "https://www.geisinger.edu/gchs/education/school-of-nursing/clinical-faculty-preceptor-academy/cfpa-101",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-01",
+      "verified_against": "Official Geisinger CFPA 101 page"
     }
   }
 ]
