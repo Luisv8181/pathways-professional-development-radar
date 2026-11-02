@@ -95,8 +95,8 @@
     "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official AMIA registration and credit-information pages"
+      "last_verified": "2026-11-02",
+      "verified_against": "Official AMIA symposium pages, checked 2026-11-02: November 7-11, 2026, Dallas, TX"
     }
   },
   {
@@ -139,8 +139,8 @@
     "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official APHA event page"
+      "last_verified": "2026-11-02",
+      "verified_against": "Official APHA event page, checked 2026-11-02: November 1-4, 2026, San Antonio, TX; meeting in progress"
     }
   },
   {
@@ -273,8 +273,8 @@
     "source_url": "https://www.aacnnursing.org/transform/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official AACN Transform registration page"
+      "last_verified": "2026-11-02",
+      "verified_against": "Official AACN Transform agenda/exhibits pages, checked 2026-11-02: December 3-5, 2026, Indianapolis, JW Marriott; early-registration date carried over from prior verification"
     }
   },
   {
@@ -322,8 +322,8 @@
     "source_url": "https://www.aamc.org/learn-network/learn-serve-lead",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official AAMC Learn Serve Lead page"
+      "last_verified": "2026-11-02",
+      "verified_against": "Official AAMC Learn & Network listing and event page, checked 2026-11-02: November 6-10, 2026, Anaheim, CA"
     }
   },
   {
@@ -1671,8 +1671,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official ACA events page via delegated verification (Oct 12, 2026): Nov 4-5, 2026, virtual"
+      "last_verified": "2026-11-02",
+      "verified_against": "Official ACA events page, checked 2026-11-02: November 4-5, 2026, virtual"
     }
   },
   {
@@ -2315,6 +2315,99 @@
       "status": "verified",
       "last_verified": "2026-11-01",
       "verified_against": "Official Geisinger CFPA 101 page"
+    }
+  },
+  {
+    "id": "aamc-ideas-structured-pathways-2026",
+    "title": "AAMC IDEAS Webinar: Structured Pathways - Post-Baccalaureate, Linkage, and Community-Responsive Pathway Models",
+    "organization": "Association of American Medical Colleges",
+    "description": "Second webinar in the 'Pathways to Medicine: Evolving Practices and Innovations' series, developed with Drexel University College of Medicine: how post-baccalaureate programs, linkage agreements, and community-responsive pathway models operate, how agreements are structured, how outcomes are measured and tracked, and lessons for sustainability.",
+    "categories": [
+      "Pathway Programs",
+      "Post-Baccalaureate",
+      "Medical Education",
+      "Health Professions Advising"
+    ],
+    "subcategories": [
+      "Post-Baccalaureate Programs",
+      "Linkage Agreements",
+      "Community-Responsive Pathways",
+      "Program Outcomes"
+    ],
+    "audiences": [
+      "Pathway Program Directors",
+      "Health Professions Advisors",
+      "Medical Educators",
+      "Program Leaders",
+      "Administrators"
+    ],
+    "date_display": "November 17, 2026, 3:00 PM EST",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly on the Pathways thesis: how post-baccalaureate, linkage, and community-responsive pathway models are structured, measured, and sustained, from the national medical-education body.",
+    "official_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
+    "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-02",
+      "verified_against": "Official AAMC webinar product page: November 17, 2026, 3:00 PM EST, 60 minutes; second in 'Pathways to Medicine' series; price and CE not listed on the page"
+    }
+  },
+  {
+    "id": "aca-friend-frustrated-client-2026",
+    "title": "ACA Webinar: The Friend Frustrated Client - An Attachment-Informed Intervention for Adult Friendship Concerns",
+    "organization": "American Counseling Association",
+    "description": "Live webinar introducing a framework for friendship literacy: the Secure Base of Friendship and the Seven-Step Secure Friendship Arc, an attachment-based intervention adapted from Emotionally Focused Therapy for platonic rupture, walked through with a case vignette.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Attachment",
+      "Friendship",
+      "Clinical Intervention",
+      "Relational Skills"
+    ],
+    "audiences": [
+      "Counselors",
+      "Counselor Educators",
+      "Behavioral Health Professionals"
+    ],
+    "date_display": "November 17, 2026, 12:00-1:30 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": 22.5,
+      "currency": "USD",
+      "display": "$22.50 ACA member / $45 nonmember"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "1.5 credit hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Counseling professional development on attachment-informed relational intervention and friendship grief, relevant to counselor formation and client relational skills.",
+    "official_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
+    "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-02",
+      "verified_against": "Official ACA webinar page: November 17, 2026, 12-1:30 PM ET, virtual; $22.50 member / $45 nonmember; 1.5 CE credit hours"
     }
   }
 ]
