@@ -308,17 +308,90 @@ function renderSources(list) {
   </div>`).join("");
 }
 
+
+/* ---------- Shadowing network (public, non-sensitive opportunity data only) ---------- */
+
+let shadowOpportunities = [];
+
+function shadowMatches(item) {
+  const q = $("shadowSearch").value.trim().toLowerCase();
+  const type = $("shadowType").value;
+  const career = $("shadowCareer").value;
+  const region = $("shadowRegion").value;
+  const hay = [item.title,item.partner,item.description,item.region,item.experience_type,...(item.career_areas||[])].join(" ").toLowerCase();
+  return (!q || q.split(/\s+/).every(term => hay.includes(term))) &&
+    (!type || item.experience_type === type) &&
+    (!career || (item.career_areas||[]).includes(career)) &&
+    (!region || item.region === region);
+}
+
+function renderShadowOpportunities() {
+  if (!$("shadowOpportunities")) return;
+  const list = shadowOpportunities.filter(shadowMatches);
+  $("shadowStats").innerHTML = [
+    [shadowOpportunities.length,"Listed experiences"],
+    [shadowOpportunities.filter(x=>x.status==="Accepting interest").length,"Accepting interest"],
+    [[...new Set(shadowOpportunities.flatMap(x=>x.career_areas||[]))].length,"Career areas"]
+  ].map(([n,l])=>`<div><strong>${n}</strong><span>${l}</span></div>`).join("");
+  $("shadowCount").textContent = list.length + (list.length===1 ? " opportunity" : " opportunities");
+  $("shadowOpportunities").innerHTML = list.length ? list.map(item => {
+    const status = item.status || "Status not verified";
+    const type = item.experience_type || "Experience type not listed";
+    const age = item.eligibility || "Ask coordinator";
+    const badges = (item.career_areas||[]).slice(0,3).map(x=>`<span class="badge">${esc(x)}</span>`).join("");
+    const statusBadge = status==="Accepting interest" ? '<span class="badge green">Accepting interest</span>' : '<span class="badge amber">Partner confirmation needed</span>';
+    const i = shadowOpportunities.indexOf(item);
+    return `<article class="card shadow-card">
+      <p class="date">${esc(type)}</p>
+      <h3>${esc(item.title)}</h3>
+      <p class="org">${esc(item.partner || "Partner not listed")}</p>
+      <div class="badges">${statusBadge}${badges}</div>
+      <div class="facts"><span><b>${esc(age)}</b></span><span>${esc(item.region||"Location varies")}</span></div>
+      <p class="shadow-card-note">${esc(item.description||"Details available through the Pathways coordinator.")}</p>
+      <button class="text-link shadow-detail" type="button" data-shadow-i="${i}">View requirements and next steps →</button>
+    </article>`;
+  }).join("") : '<div class="empty"><strong>No matches found.</strong>Try another career area or experience type.</div>';
+}
+
+function openShadowDetails(item) {
+  if (!item) return;
+  const fields = [
+    ["Experience",item.experience_type],["Eligibility",item.eligibility],
+    ["Availability",item.availability],["Location",item.region],
+    ["Requirements",item.requirements_summary],["Supervisor",item.supervision],
+    ["Verification",item.last_verified ? "Last verified "+item.last_verified : "Not yet verified"]
+  ];
+  $("sheetBody").innerHTML = `<button class="close" aria-label="Close">×</button>
+    <p class="eyebrow">Pathways Shadowing Network</p>
+    <h2>${esc(item.title)}</h2><p class="org">${esc(item.partner||"Partner pending")}</p>
+    <p>${esc(item.description||"")}</p>
+    <dl class="dl">${fields.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v||"Confirm with coordinator")}</dd></div>`).join("")}</dl>
+    <div class="why"><b>Next step</b>Contact your Pathways coordinator to express interest. They will verify availability, age eligibility, host paperwork, and clearance requirements before confirming a match.</div>
+    <div class="sheet-actions">${item.official_url ? `<a class="btn" href="${esc(item.official_url)}" target="_blank" rel="noopener noreferrer">Partner information</a>` : ""}<span class="verified">Do not attend until host clearance is confirmed.</span></div>`;
+  $("sheet").showModal();
+}
+
+["shadowSearch","shadowType","shadowCareer","shadowRegion"].forEach(id => {
+  const el = $(id);
+  if (el) { el.addEventListener("input",renderShadowOpportunities); el.addEventListener("change",renderShadowOpportunities); }
+});
+if ($("shadowOpportunities")) $("shadowOpportunities").addEventListener("click",e=>{
+  const btn=e.target.closest("[data-shadow-i]");
+  if (btn) openShadowDetails(shadowOpportunities[+btn.dataset.shadowI]);
+});
+
 /* ---------- Routing ---------- */
 
 function route() {
   const [view, sub] = location.hash.replace("#", "").split("/");
-  const name = ["radar", "students", "guide", "sources"].includes(view) ? view : "radar";
+  const name = ["radar", "students", "shadowing", "guide", "sources"].includes(view) ? view : "radar";
   document.querySelectorAll(".view").forEach(v => { v.hidden = v.dataset.view !== name; });
   document.querySelectorAll("[data-nav]").forEach(a => {
     if (a.dataset.nav === name) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
   });
   if (name === "guide") showDoc(sub);
   if (name === "students") renderStudentCards();
+  if (name === "shadowing") renderShadowOpportunities();
   window.scrollTo(0, 0);
 }
 
@@ -383,6 +456,16 @@ window.addEventListener("hashchange", route);
   } catch (e) {
     console.error(e);
     $("opportunities").innerHTML = '<div class="empty"><strong>Couldn\'t load the opportunities.</strong>Please refresh, or tell the maintainer.</div>';
+  }
+  try {
+    shadowOpportunities = await getJson("data/shadowing-opportunities.json");
+    const addOptionsSafe = (el,values) => [...new Set(values.filter(Boolean))].sort().forEach(v=>el.append(new Option(v,v)));
+    addOptionsSafe($("shadowCareer"),shadowOpportunities.flatMap(x=>x.career_areas||[]));
+    addOptionsSafe($("shadowRegion"),shadowOpportunities.map(x=>x.region||""));
+    renderShadowOpportunities();
+  } catch (e) {
+    console.error(e);
+    $("shadowOpportunities").innerHTML = '<div class="empty"><strong>Shadowing listings are not available yet.</strong>Check back with the Pathways coordinator.</div>';
   }
   try {
     renderSources(await getJson("data/source-registry.json"));
