@@ -20,6 +20,13 @@ You do **not** need to understand the code to use the radar.
 | Folder / file | What it is | Who needs it |
 |---|---|---|
 | **Dashboard** | The searchable opportunity website | Everyone |
+| **Shadowing Network** | Student-facing discovery and coordinated shadowing pathway | Students / coordinators |
+| [docs/SHADOWING-NETWORK-PLAYBOOK.md](docs/SHADOWING-NETWORK-PLAYBOOK.md) | End-to-end operating protocol and safety requirements | Coordinators |
+| [docs/SHADOWING-STUDENT-GUIDE.md](docs/SHADOWING-STUDENT-GUIDE.md) | Student-facing steps and professional expectations | Students |
+| [docs/SHADOWING-PARTNER-OUTREACH.md](docs/SHADOWING-PARTNER-OUTREACH.md) | Partner recruitment email, call questions, and intake fields | Coordinators |
+| [docs/SHADOWING-REQUIREMENTS-MATRIX-TEMPLATE.md](docs/SHADOWING-REQUIREMENTS-MATRIX-TEMPLATE.md) | Host-specific paperwork tracker template | Coordinators |
+| [docs/SHADOWING-BUILD-LOG.md](docs/SHADOWING-BUILD-LOG.md) | Handoff and implementation history | Maintainers |
+
 | [docs/START-HERE.md](docs/START-HERE.md) | Plain-language orientation | Everyone |
 | [docs/USING-THE-RADAR.md](docs/USING-THE-RADAR.md) | How to search, verify, and use opportunities | Everyone |
 | [data/opportunities.json](data/opportunities.json) | Current professional-development opportunities | Maintainers |
