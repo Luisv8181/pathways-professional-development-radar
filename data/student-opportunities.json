@@ -28,8 +28,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official hosa.org webinars page (direct open): listing and 'Register Here' links stand"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
     }
   },
   {
@@ -61,8 +61,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
     }
   },
   {
@@ -94,8 +94,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
     }
   },
   {
@@ -500,8 +500,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
     }
   },
   {
@@ -533,8 +533,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-10",
-      "verified_against": "Official HOSA 2026-2027 webinar listing"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
     }
   },
   {
@@ -635,5 +635,37 @@
       "verified_against": "Official NIH OITE page: remaining fall 2026 sessions Oct 22, Oct 29, Nov 12, 2026, 3:00-4:15 PM ET, online; certificate of completion (not CE credits)"
     },
     "registration_deadline": null
+  },
+  {
+    "id": "hosa-stem-in-action-2026",
+    "title": "STEM in Action: Where Technology Meets Healthcare",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar on where technology meets healthcare, presented by AHA / CBET / AAMI.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students"
+    ],
+    "date_display": "November 17, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://hosa.org/webinars/",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-03",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: November 17, 2026 listing with registration link"
+    }
   }
 ]

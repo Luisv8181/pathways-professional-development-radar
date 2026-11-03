@@ -163,14 +163,14 @@
       "Educators"
     ],
     "date_display": "November 3–4, 2026",
-    "registration_deadline": null,
+    "registration_deadline": "Registration closed",
     "format": "Online",
     "region": "Online",
     "distance_miles": null,
     "cost": {
-      "amount": 99,
+      "amount": 249,
       "currency": "USD",
-      "display": "$99 AACN member / $199 non-member"
+      "display": "$249 AACN member / $349 non-member"
     },
     "ce_available": true,
     "ce_types": [
@@ -183,8 +183,8 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official AACN workshop page"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official AACN workshop page, checked 2026-11-03: November 3-4, 2026, virtual, 12-4 p.m. ET each day; registration closed; standard fees $249 member / $349 non-member; up to 7 CEUs"
     }
   },
   {
@@ -1281,8 +1281,8 @@
     "source_url": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2026/10/09/18/42/geisinger-college-of-health-sciences-to-host-dr-neal-barnard-for-13th-preventive",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official Geisinger news release (Oct 9, 2026): 13th Preventive Medicine Lecture, Nov 5 at 5:30 p.m., Neal Barnard, MD, FACC, 'Power Foods for Weight Loss and Diabetes'; registration encouraged but not required"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official Geisinger news release, checked 2026-11-03: 13th Preventive Medicine Lecture, Nov. 5 at 5:30 p.m., \"Power Foods for Weight Loss and Diabetes\"; registration encouraged but not required"
     }
   },
   {
@@ -1671,8 +1671,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-02",
-      "verified_against": "Official ACA events page, checked 2026-11-02: November 4-5, 2026, virtual"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official ACA events page, checked 2026-11-03: November 4-5, 2026, virtual"
     }
   },
   {
@@ -2406,8 +2406,51 @@
     "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-02",
-      "verified_against": "Official ACA webinar page: November 17, 2026, 12-1:30 PM ET, virtual; $22.50 member / $45 nonmember; 1.5 CE credit hours"
+      "last_verified": "2026-11-03",
+      "verified_against": "Official ACA events page, checked 2026-11-03: November 17, 2026, 12-1:30 p.m. ET, virtual"
+    }
+  },
+  {
+    "id": "aca-pathways-to-healing-2026",
+    "title": "Pathways to Healing: Navigating Grief, Loss and Trauma",
+    "organization": "American Counseling Association",
+    "description": "Webinar series on evidence-based strategies and practical tools for supporting individuals navigating grief, loss and trauma; available on demand through November 29, 2026.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Grief",
+      "Loss",
+      "Trauma"
+    ],
+    "audiences": [
+      "Counselors",
+      "Counselor Educators",
+      "Behavioral Health Professionals"
+    ],
+    "date_display": "September 23 - November 29, 2026, 1-2 p.m. ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Grief, loss and trauma support is core counseling practice; series runs through late November.",
+    "official_url": "https://www.counseling.org/events-education/events",
+    "source_url": "https://www.counseling.org/events-education/events",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-03",
+      "verified_against": "Official ACA events page, checked 2026-11-03: Sep. 23 - Nov. 29, 2026, 1-2 p.m. ET, virtual"
     }
   }
 ]
