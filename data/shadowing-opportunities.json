@@ -1,0 +1,73 @@
+[
+  {
+    "id": "pathways-career-conversation-template",
+    "title": "Pathways-supported career conversation",
+    "partner": "Pathways partner network — partner confirmation required",
+    "experience_type": "Career conversation",
+    "career_areas": [
+      "Medicine",
+      "Nursing",
+      "Rehabilitation",
+      "Behavioral Health",
+      "Public Health",
+      "Research",
+      "Health Informatics"
+    ],
+    "eligibility": "Pathways students; age and partner eligibility must be confirmed",
+    "region": "Northeastern Pennsylvania",
+    "availability": "Partner recruitment / pilot matching",
+    "status": "Partner confirmation needed",
+    "description": "An introductory conversation with a healthcare or health-sciences professional. A practical starting point while clinical shadowing eligibility and site requirements are being confirmed.",
+    "requirements_summary": "Pathways coordinator will confirm age eligibility, partner approval, scheduling, and any school or guardian permissions.",
+    "supervision": "Professional host and Pathways coordinator",
+    "official_url": "",
+    "last_verified": "2026-11-03"
+  },
+  {
+    "id": "pathways-workplace-tour-template",
+    "title": "Healthcare workplace or department tour",
+    "partner": "Pathways partner network — partner confirmation required",
+    "experience_type": "Workplace tour",
+    "career_areas": [
+      "Hospital Operations",
+      "Nursing",
+      "Laboratory",
+      "Imaging",
+      "Pharmacy",
+      "Rehabilitation",
+      "Public Health"
+    ],
+    "eligibility": "Pathways students; age and partner eligibility must be confirmed",
+    "region": "Northeastern Pennsylvania",
+    "availability": "Partner recruitment / pilot matching",
+    "status": "Partner confirmation needed",
+    "description": "A guided introduction to a healthcare workplace or approved non-clinical department. The host determines permitted spaces and visitor rules.",
+    "requirements_summary": "Coordinator verifies host permission, age rules, guardian/school requirements, visitor registration, supervision, and safety instructions.",
+    "supervision": "Named host supervisor",
+    "official_url": "",
+    "last_verified": "2026-11-03"
+  },
+  {
+    "id": "pathways-simulation-lab-template",
+    "title": "Simulation, skills lab, or research environment observation",
+    "partner": "Pathways partner network — partner confirmation required",
+    "experience_type": "Simulation / lab",
+    "career_areas": [
+      "Simulation",
+      "Medical Education",
+      "Biomedical Research",
+      "Nursing",
+      "Allied Health",
+      "Health Technology"
+    ],
+    "eligibility": "Pathways students; age and host eligibility must be confirmed",
+    "region": "Northeastern Pennsylvania",
+    "availability": "Partner recruitment / pilot matching",
+    "status": "Partner confirmation needed",
+    "description": "Observe a skills demonstration, simulation session, or approved research environment without participating in clinical care or restricted activities.",
+    "requirements_summary": "Host must approve student age, lab/simulation access, supervision, PPE or safety training, and visitor registration.",
+    "supervision": "Named host supervisor",
+    "official_url": "",
+    "last_verified": "2026-11-03"
+  }
+]
