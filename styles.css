@@ -159,3 +159,24 @@ dialog[open]{animation:pop .3s cubic-bezier(.2,.8,.2,1)}
   .select span{display:none}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+/* Shadowing network */
+.shadow-intro{display:grid;grid-template-columns:1.7fr 1fr;gap:18px;margin:0 0 28px}
+.shadow-panel,.shadow-callout,.shadow-next{background:var(--surface);border-radius:var(--r);padding:24px;box-shadow:var(--shadow)}
+.shadow-steps{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:16px}
+.shadow-steps div{padding:12px 0;border-top:1px solid var(--line)}
+.shadow-steps span{display:block;color:var(--blue);font-size:12px;font-weight:700;margin-bottom:7px}
+.shadow-steps strong{font-size:17px}
+.shadow-steps p,.shadow-callout p,.shadow-next p{margin:6px 0 0;color:var(--muted);font-size:15px;line-height:1.45}
+.shadow-callout{background:var(--amber-bg);box-shadow:none;align-self:start}
+.shadow-callout strong{font-size:17px;color:var(--amber)}
+.shadow-toolbar{position:static;margin:0 -22px 0}
+.shadow-card{gap:8px;cursor:default}
+.shadow-card-note{font-size:14px;color:var(--muted);margin:8px 0 0}
+.text-link{display:inline-block;border:0;padding:0;background:none;color:var(--blue);font:inherit;font-size:15px;font-weight:600;cursor:pointer;text-align:left}
+.shadow-detail{margin-top:10px}
+.shadow-next{margin:36px 0 18px;display:grid;grid-template-columns:1fr;gap:12px}
+.shadow-next h2{font-size:30px;letter-spacing:-.03em;margin:0}
+.shadow-next .sheet-actions{margin-top:18px}
+.shadow-disclaimer{max-width:850px;margin:0 auto;color:var(--muted);font-size:13px;line-height:1.5;padding:0 4px 24px}
+@media(max-width:760px){.shadow-intro{grid-template-columns:1fr}.shadow-steps{grid-template-columns:1fr}.shadow-toolbar{margin:20px -22px 0}}
