@@ -26,6 +26,8 @@ You do **not** need to understand the code to use the radar.
 | [docs/SHADOWING-PARTNER-OUTREACH.md](docs/SHADOWING-PARTNER-OUTREACH.md) | Partner recruitment email, call questions, and intake fields | Coordinators |
 | [docs/SHADOWING-REQUIREMENTS-MATRIX-TEMPLATE.md](docs/SHADOWING-REQUIREMENTS-MATRIX-TEMPLATE.md) | Host-specific paperwork tracker template | Coordinators |
 | [docs/SHADOWING-BUILD-LOG.md](docs/SHADOWING-BUILD-LOG.md) | Handoff and implementation history | Maintainers |
+| [docs/SHADOWING-PILOT-IMPLEMENTATION.md](docs/SHADOWING-PILOT-IMPLEMENTATION.md) | 90-day pilot launch plan and evaluation gates | Coordinators |
+| [docs/SHADOWING-PARTNER-PIPELINE-TEMPLATE.md](docs/SHADOWING-PARTNER-PIPELINE-TEMPLATE.md) | Non-sensitive partner prospect tracking template | Coordinators |
 
 | [docs/START-HERE.md](docs/START-HERE.md) | Plain-language orientation | Everyone |
 | [docs/USING-THE-RADAR.md](docs/USING-THE-RADAR.md) | How to search, verify, and use opportunities | Everyone |
