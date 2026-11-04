@@ -139,8 +139,8 @@
     "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-02",
-      "verified_against": "Official APHA event page, checked 2026-11-02: November 1-4, 2026, San Antonio, TX; meeting in progress"
+      "last_verified": "2026-11-04",
+      "verified_against": "Official APHA event page, checked 2026-11-04: November 1-4, 2026, San Antonio, TX; final day today, still active"
     }
   },
   {
@@ -273,8 +273,8 @@
     "source_url": "https://www.aacnnursing.org/transform/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-02",
-      "verified_against": "Official AACN Transform agenda/exhibits pages, checked 2026-11-02: December 3-5, 2026, Indianapolis, JW Marriott; early-registration date carried over from prior verification"
+      "last_verified": "2026-11-04",
+      "verified_against": "Official AACN Transform registration page, checked 2026-11-04: Transform 2026 upcoming, cancellation deadline November 19, 2026; fee table did not render in the page fetch, so early-rate amounts were not re-confirmed"
     }
   },
   {
@@ -708,9 +708,9 @@
     "official_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "verification": {
-      "status": "needs_review",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official URL https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard still 404 on 2026-10-15; no 2027 CAAHP Regional Conference page or CFP locatable on naahp.org or via web search. Asserted CFP deadline Oct 16, 2026 remains unverified — drop tomorrow if still unverifiable."
+      "status": "verified",
+      "last_verified": "2026-11-04",
+      "verified_against": "Official CAAHP meetings page, checked 2026-11-04: 2027 Regional Meeting April 7-10, 2027, Minneapolis Marriott City Center, room rate $199/night; the October 16, 2026 CFP deadline is not shown on that page and is now past"
     }
   },
   {
@@ -1629,8 +1629,8 @@
     "source_url": "https://tphconference.org/call-for-proposals/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official tphconference.org CFP page (direct open): proposal submissions opened Sep 21, 2026; deadline Oct 31, 2026; conference Apr 6-8, 2027; acceptance notices by November 2026"
+      "last_verified": "2026-11-04",
+      "verified_against": "Official tphconference.org CFP page, checked 2026-11-04: proposal deadline October 31, 2026 (now past); conference April 6-8, 2027; acceptance notices TBA"
     }
   },
   {
@@ -2451,6 +2451,55 @@
       "status": "verified",
       "last_verified": "2026-11-03",
       "verified_against": "Official ACA events page, checked 2026-11-03: Sep. 23 - Nov. 29, 2026, 1-2 p.m. ET, virtual"
+    }
+  },
+  {
+    "id": "naahp-waahp-2027-regional",
+    "title": "2027 WAAHP Regional Conference",
+    "organization": "Western Association of Advisors for the Health Professions",
+    "description": "Regional pre-health advising conference in San Diego for new and seasoned advisors and partners in health professions education, with sessions on foundational advising practices, challenging student situations, equity and access, advisor development, innovative programs and tools, and emerging trends. Call for proposals is open; travel grant applications close November 30, 2026.",
+    "categories": [
+      "Health Professions Advising",
+      "Medical School Advising",
+      "Pathway Programs",
+      "Student Success",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Pre-Health Advising",
+      "Conference Presentations",
+      "Student Transitions",
+      "Advising Practice"
+    ],
+    "audiences": [
+      "Pre-Health Advisors",
+      "Health Professions Advisors",
+      "Faculty",
+      "Program Leaders",
+      "Student Success Professionals",
+      "Researchers"
+    ],
+    "date_display": "May 27–29, 2027",
+    "registration_deadline": "Call for proposals deadline: November 8, 2026; early bird registration opens January 28, 2027 and ends March 31, 2027; registration closes May 20, 2027",
+    "format": "In-person",
+    "region": "San Diego, CA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Registration prices not listed; registration opens January 28, 2027"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": true,
+    "pathways_relevance": "high",
+    "pathways_reason": "Direct fit for Pathways staff through advising practice, program improvement, presentation, networking, and student-transition learning.",
+    "official_url": "https://www.waahp.org/regional-meeting",
+    "source_url": "https://www.waahp.org/regional-meeting",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-04",
+      "verified_against": "Official WAAHP regional meeting page, checked 2026-11-04: May 27-29, 2027, The Westin San Diego Gaslamp Quarter; proposal deadline November 8, 2026; travel grant applications close November 30, 2026; early bird registration January 28-March 31, 2027; registration closes May 20, 2027"
     }
   }
 ]
