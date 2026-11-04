@@ -149,6 +149,54 @@
     </div>
     <div class="results-head"><h2>Verified opportunities</h2><span id="shadowCount">Loading opportunities…</span></div>
     <div id="shadowOpportunities" class="grid"></div>
+    <div class="shadow-tools-grid">
+      <section class="shadow-tool">
+        <p class="eyebrow">Paperwork navigator</p>
+        <h2>Know what to prepare.</h2>
+        <p class="tool-intro">Use this general checklist to discuss requirements with your coordinator. Each host decides which items apply. Checking a box here does not submit a document or confirm clearance.</p>
+        <div class="checklist" id="shadowChecklist">
+          <label><input type="checkbox"> Student application / visitor registration</label>
+          <label><input type="checkbox"> Parent or guardian permission, if required</label>
+          <label><input type="checkbox"> School / program approval</label>
+          <label><input type="checkbox"> Affiliation agreement, if required</label>
+          <label><input type="checkbox"> Confidentiality acknowledgement</label>
+          <label><input type="checkbox"> Background check / child-protection clearances, if required</label>
+          <label><input type="checkbox"> Health screening / immunization requirements, if required</label>
+          <label><input type="checkbox"> Safety / infection-prevention training</label>
+          <label><input type="checkbox"> ID, badge, attire, and arrival instructions</label>
+          <label><input type="checkbox"> Host confirms all requirements and student clearance</label>
+        </div>
+        <p class="checklist-warning">Do not upload forms, clearance reports, health records, or IDs here. Submit sensitive paperwork directly through the host's approved secure channel.</p>
+      </section>
+      <section class="shadow-tool">
+        <p class="eyebrow">Student shadowing passport</p>
+        <h2>Capture what you learn.</h2>
+        <p class="tool-intro">Create a print-ready reflection page after an experience. Entries stay in this browser session and are not sent to Pathways or saved by the site.</p>
+        <div class="passport-form">
+          <label>Career area<input id="passportCareer" type="text" placeholder="e.g., physical therapy"></label>
+          <label>Professional role observed<input id="passportRole" type="text" placeholder="e.g., physical therapist"></label>
+          <label>Experience type<select id="passportType"><option>Career conversation</option><option>Workplace tour</option><option>Simulation / lab</option><option>Job shadow</option><option>Research observation</option></select></label>
+          <label>Date<input id="passportDate" type="date"></label>
+          <label>One thing that surprised me<textarea id="passportSurprise" rows="2"></textarea></label>
+          <label>One skill I noticed<textarea id="passportSkill" rows="2"></textarea></label>
+          <label>One question I still have<textarea id="passportQuestion" rows="2"></textarea></label>
+          <label>My next step<textarea id="passportNext" rows="2"></textarea></label>
+          <button class="btn" id="printPassport" type="button">Print my passport page</button>
+        </div>
+        <div id="passportPrint" class="passport-print" aria-live="polite">
+          <p class="eyebrow">Pathways Career Exploration Passport</p>
+          <h2>My learning reflection</h2>
+          <p><strong>Career area:</strong> <span data-passport="Career">—</span></p>
+          <p><strong>Professional role:</strong> <span data-passport="Role">—</span></p>
+          <p><strong>Experience:</strong> <span data-passport="Type">—</span> <strong>Date:</strong> <span data-passport="Date">—</span></p>
+          <p><strong>One thing that surprised me</strong><br><span data-passport="Surprise">—</span></p>
+          <p><strong>One skill I noticed</strong><br><span data-passport="Skill">—</span></p>
+          <p><strong>One question I still have</strong><br><span data-passport="Question">—</span></p>
+          <p><strong>My next step</strong><br><span data-passport="Next">—</span></p>
+          <p class="passport-footnote">Do not include patient/client names, identifying details, or confidential information in this reflection.</p>
+        </div>
+      </section>
+    </div>
     <section class="shadow-next">
       <div>
         <p class="eyebrow">Need help?</p>
