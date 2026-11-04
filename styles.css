@@ -180,3 +180,30 @@ dialog[open]{animation:pop .3s cubic-bezier(.2,.8,.2,1)}
 .shadow-next .sheet-actions{margin-top:18px}
 .shadow-disclaimer{max-width:850px;margin:0 auto;color:var(--muted);font-size:13px;line-height:1.5;padding:0 4px 24px}
 @media(max-width:760px){.shadow-intro{grid-template-columns:1fr}.shadow-steps{grid-template-columns:1fr}.shadow-toolbar{margin:20px -22px 0}}
+
+/* Student tools: non-persistent, public-facing helpers */
+.shadow-tools-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:36px 0}
+.shadow-tool{background:var(--surface);border-radius:var(--r);padding:24px;box-shadow:var(--shadow);min-width:0}
+.shadow-tool h2{font-size:27px;letter-spacing:-.03em;margin:0 0 8px}
+.tool-intro{color:var(--muted);font-size:14px;line-height:1.45;margin:0 0 18px}
+.checklist{display:grid;gap:10px}
+.checklist label{display:flex;align-items:flex-start;gap:10px;font-size:14px;line-height:1.4}
+.checklist input{margin-top:3px;accent-color:var(--blue)}
+.checklist-warning{background:var(--amber-bg);color:var(--amber);padding:12px;border-radius:12px;font-size:13px;line-height:1.4;margin:18px 0 0}
+.passport-form{display:grid;gap:12px}
+.passport-form label{display:grid;gap:5px;font-size:13px;font-weight:600}
+.passport-form input,.passport-form select,.passport-form textarea{width:100%;border:1px solid var(--line);border-radius:10px;padding:10px;background:var(--fill);font:inherit;font-size:15px;color:var(--text)}
+.passport-form textarea{resize:vertical}
+.passport-print{border:1px solid var(--line);border-radius:12px;padding:18px;margin-top:18px}
+.passport-print h2{font-size:22px;margin:0 0 14px}
+.passport-print p{font-size:14px;line-height:1.45;margin:8px 0;white-space:pre-wrap;overflow-wrap:anywhere}
+.passport-footnote{color:var(--muted);font-size:11px!important;border-top:1px solid var(--line);padding-top:10px}
+@media(max-width:760px){.shadow-tools-grid{grid-template-columns:1fr}}
+@media print{
+  body *{visibility:hidden!important}
+  #passportPrint,#passportPrint *{visibility:visible!important}
+  #passportPrint{display:block!important;position:absolute;left:0;top:0;width:100%;border:0;padding:0;color:#111;background:#fff}
+  #passportPrint p{color:#111}
+  #passportPrint .passport-footnote{color:#444}
+  @page{margin:18mm}
+}
