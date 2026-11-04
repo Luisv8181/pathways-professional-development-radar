@@ -380,6 +380,29 @@ if ($("shadowOpportunities")) $("shadowOpportunities").addEventListener("click",
   if (btn) openShadowDetails(shadowOpportunities[+btn.dataset.shadowI]);
 });
 
+
+/* ---------- Paperwork navigator and privacy-conscious passport ---------- */
+
+const passportFields = {
+  Career:"passportCareer", Role:"passportRole", Type:"passportType", Date:"passportDate",
+  Surprise:"passportSurprise", Skill:"passportSkill", Question:"passportQuestion", Next:"passportNext"
+};
+function syncPassport() {
+  Object.entries(passportFields).forEach(([key,id])=>{
+    const target=document.querySelector('[data-passport="'+key+'"]');
+    const input=$(id);
+    if(target && input) target.textContent=input.value.trim() || "—";
+  });
+}
+Object.values(passportFields).forEach(id=>{
+  const el=$(id);
+  if(el){el.addEventListener("input",syncPassport);el.addEventListener("change",syncPassport);}
+});
+if($("printPassport")) $("printPassport").addEventListener("click",()=>{
+  syncPassport();
+  window.print();
+});
+
 /* ---------- Routing ---------- */
 
 function route() {
