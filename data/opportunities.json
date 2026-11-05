@@ -100,94 +100,6 @@
     }
   },
   {
-    "id": "apha-annual-2026",
-    "title": "2026 APHA Annual Meeting & Expo",
-    "organization": "American Public Health Association",
-    "description": "Large public health meeting bringing together public health professionals and partners for education, networking, research, and presentations.",
-    "categories": [
-      "Public Health",
-      "Research",
-      "Population Health"
-    ],
-    "subcategories": [
-      "Community Health",
-      "Population Health",
-      "Research"
-    ],
-    "audiences": [
-      "Public Health Professionals",
-      "Researchers",
-      "Educators",
-      "Healthcare Professionals"
-    ],
-    "date_display": "November 1–4, 2026",
-    "registration_deadline": null,
-    "format": "Hybrid",
-    "region": "San Antonio, TX",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": true,
-    "pathways_relevance": "high",
-    "pathways_reason": "Relevant to population health, community health, health equity, research dissemination, and public-health workforce development.",
-    "official_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
-    "source_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-04",
-      "verified_against": "Official APHA event page, checked 2026-11-04: November 1-4, 2026, San Antonio, TX; final day today, still active"
-    }
-  },
-  {
-    "id": "aacn-rn-bsn-2026",
-    "title": "Reimagining RN-Baccalaureate Programs Through Competency-Based Education",
-    "organization": "American Association of Colleges of Nursing",
-    "description": "Interactive virtual workshop on implementing the AACN Essentials through competency-based education, experiential learning, progression indicators, and assessment.",
-    "categories": [
-      "Nursing Education",
-      "Health Professions Education"
-    ],
-    "subcategories": [
-      "Competency-Based Education",
-      "Curriculum",
-      "Assessment"
-    ],
-    "audiences": [
-      "Nursing Faculty",
-      "Program Leaders",
-      "Educators"
-    ],
-    "date_display": "November 3–4, 2026",
-    "registration_deadline": "Registration closed",
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 249,
-      "currency": "USD",
-      "display": "$249 AACN member / $349 non-member"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Nursing continuing professional development"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Useful for curriculum design, competency-based education, experiential learning, and health-professions pathway program development.",
-    "official_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26",
-    "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-03-04-26/registration",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official AACN workshop page, checked 2026-11-03: November 3-4, 2026, virtual, 12-4 p.m. ET each day; registration closed; standard fees $249 member / $349 non-member; up to 7 CEUs"
-    }
-  },
-  {
     "id": "aacn-cbe-2026",
     "title": "CBE Workshop Series: Foundations and Practice",
     "organization": "American Association of Colleges of Nursing",
@@ -474,52 +386,8 @@
     "source_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official Geisinger CE conference page"
-    }
-  },
-  {
-    "id": "geisinger-fccs-nov3-2026",
-    "title": "Fundamentals of Critical Care Support Provider Course - November 3–4, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person critical-care provider course listed on the Geisinger CE calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Nursing Education"
-    ],
-    "subcategories": [
-      "Critical Care",
-      "Skills Training",
-      "Interprofessional Education"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Nurses",
-      "Physicians",
-      "PAs"
-    ],
-    "date_display": "November 3–4, 2026, 7:00 AM–5:00 PM EDT",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Interprofessional critical-care training relevant to clinical education and simulation.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-06",
-      "verified_against": "Official Geisinger CE upcoming-events calendar"
+      "last_verified": "2026-11-05",
+      "verified_against": "Official Geisinger CE page, checked 2026-11-05: Nov 11, 2026, 7:00 AM-3:30 PM, Henry Hood Center for Research and virtual via Teams; speaker list live"
     }
   },
   {
@@ -1673,50 +1541,6 @@
       "status": "verified",
       "last_verified": "2026-11-03",
       "verified_against": "Official ACA events page, checked 2026-11-03: November 4-5, 2026, virtual"
-    }
-  },
-  {
-    "id": "penn-state-perinatal-tips-fall-2026",
-    "title": "Perinatal TiPS Fall 2026 Webinar Series: Mental Health Across the Generations",
-    "organization": "Penn State Health / Perinatal TiPS",
-    "description": "Six-part weekly one-hour Zoom series on recognition, assessment, and management of common mental health conditions across the reproductive, perinatal, childhood, and adolescent periods. Remaining sessions: Oct 21 (eating disorders, children/adolescents), Oct 28 (anxiety, perinatal), Nov 4 (anxiety, children/adolescents); series began Sept 30, 2026.",
-    "categories": [
-      "Behavioral Health",
-      "Counseling",
-      "Healthcare Education",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Perinatal Mental Health",
-      "Child and Adolescent Mental Health",
-      "Assessment and Screening"
-    ],
-    "audiences": [
-      "Clinicians",
-      "Counselors",
-      "Healthcare Professionals"
-    ],
-    "date_display": "Remaining sessions October 21, 28 and November 4, 2026, 12:00-1:00 PM ET each session (series began September 30, 2026)",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Free-access clinician-facing mental-health skill-building on perinatal and child/adolescent assessment — directly relevant to behavioral-health professional development.",
-    "official_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/",
-    "source_url": "https://pennstatehealthnews.org/event/perinatal-tips-fall-2026-webinar-series/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official Penn State Health News event page (2026-10-15): Oct 14 session removed from listing; remaining sessions Oct 21, 28 and Nov 4, 2026, noon–1 PM ET each session"
     }
   },
   {

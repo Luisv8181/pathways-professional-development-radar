@@ -1,38 +1,5 @@
 [
   {
-    "id": "hosa-ot-career-2026",
-    "title": "The Healthcare Career Your Students May Be Missing",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual healthcare-career exploration webinar focused on occupational therapy.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration",
-      "Rehabilitation"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "November 4, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
-    }
-  },
-  {
     "id": "hosa-physical-therapy-career-2026",
     "title": "PT & Me: Preparing for Your Future Career in Physical Therapy",
     "organization": "HOSA – Future Health Professionals",
@@ -61,8 +28,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
     }
   },
   {
@@ -94,8 +61,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
     }
   },
   {
@@ -500,8 +467,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
     }
   },
   {
@@ -533,8 +500,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: listing and registration link stand"
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
     }
   },
   {
@@ -664,8 +631,136 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-03",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-03: November 17, 2026 listing with registration link"
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+    }
+  },
+  {
+    "id": "hosa-shadow-doctors-2026",
+    "title": "Who Said High Schoolers Can't Shadow Doctors?",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar on how high school students can shadow doctors, presented through HOSA programming by Projects Abroad.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students"
+    ],
+    "date_display": "December 1, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://hosa.org/webinars/",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+    }
+  },
+  {
+    "id": "hosa-medical-terminology-2026",
+    "title": "Medical Terminology Competition: How to Be Successful",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar on succeeding in the Medical Terminology competitive event, presented through HOSA programming by G-W Publisher.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students"
+    ],
+    "date_display": "December 8, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://hosa.org/webinars/",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+    }
+  },
+  {
+    "id": "hosa-genetics-event-2026",
+    "title": "It's in Your Genes: Meet HOSA's Newest Competitive Event: Genetics",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar introducing HOSA's newest competitive event, Genetics, presented through HOSA programming by Carolina Science.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students"
+    ],
+    "date_display": "December 10, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://hosa.org/webinars/",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+    }
+  },
+  {
+    "id": "hosa-red-cross-blood-101-2026",
+    "title": "Beyond the Competition: HOSA's Guide to the Red Cross & Blood 101",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar on the American Red Cross and blood donation basics, presented through HOSA programming by the American Red Cross.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students"
+    ],
+    "date_display": "December 17, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://hosa.org/webinars/",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-05",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
     }
   }
 ]
