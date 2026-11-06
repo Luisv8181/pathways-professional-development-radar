@@ -28,8 +28,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -61,8 +61,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -439,39 +439,6 @@
     }
   },
   {
-    "id": "hosa-maintain-my-brain-2026",
-    "title": "Make a PSA That Matters: Inside the Maintain My Brain Challenge",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual webinar introducing the Maintain My Brain Challenge PSA competition, presented through HOSA programming by Hilarity for Charity.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration",
-      "Competitions"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "November 5, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "not listed"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
-    }
-  },
-  {
     "id": "hosa-premed-bsmd-2026",
     "title": "Applying to Pre-Med and BS/MD Programs",
     "organization": "HOSA – Future Health Professionals",
@@ -500,8 +467,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -631,8 +598,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -663,8 +630,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -695,8 +662,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -727,8 +694,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   },
   {
@@ -759,8 +726,40 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-05",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-05: listing and registration link stand"
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
+    }
+  },
+  {
+    "id": "hosa-medical-mysteries-2026",
+    "title": "So You Want to Solve Medical Mysteries? MD, DO, PA or NP: Which Path is Right for You?",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar on choosing among MD, DO, PA, and NP career paths, presented through HOSA programming by UWorld.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students"
+    ],
+    "date_display": "December 16, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://us02web.zoom.us/meeting/register/9jQmAHHmTOKKUvgEn1G4AQ",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-06",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-06: listing and registration link stand"
     }
   }
 ]
