@@ -22,14 +22,14 @@
       "Healthcare Professionals"
     ],
     "date_display": "November 12–13, 2026",
-    "registration_deadline": "October 21, 2026 regular registration",
+    "registration_deadline": "Late registration: $480 individual (online through October 26; on-site November 12)",
     "format": "In-person",
     "region": "State College, PA",
     "distance_miles": 150,
     "cost": {
-      "amount": 450,
+      "amount": 480,
       "currency": "USD",
-      "display": "$375 team / $450 regular"
+      "display": "$480 late individual / $405 late team / $380 late Thursday-only"
     },
     "ce_available": true,
     "ce_types": [
@@ -43,8 +43,8 @@
     "source_url": "https://health-education.outreach.psu.edu/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official PSU Strategies registration page (2026-10-15): full 2026 content live; Individual $400 earlybird / $450 regular (Sep 1–Oct 21) / $480 late (Oct 22–26 online, Nov 12 on-site); Team (3+) $375 regular / $405 late; Thursday-only $350 / $380 late; on-site registration Nov 12 confirms Nov 12–13 dates; cancellations by Nov 1 (50-admin fee); CE: PSNA nursing CPD + Act 48 hours"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PSU Strategies registration page, checked 2026-11-09: regular registration ended October 21; late rates now apply ($480 individual, $405 team, $380 Thursday-only; on-site November 12); conference November 12–13, 2026"
     }
   },
   {
@@ -95,8 +95,8 @@
     "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-02",
-      "verified_against": "Official AMIA symposium pages, checked 2026-11-02: November 7-11, 2026, Dallas, TX"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AMIA 2026 Annual Symposium page, checked 2026-11-09: event live in Dallas with the recorded theme; November 7–11, 2026 dates confirmed 2026-11-02"
     }
   },
   {
@@ -139,8 +139,8 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-08",
-      "verified_against": "Official AACN workshop page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN CBE workshop page + conferences listing, checked 2026-11-09: November 18–19, 2026, virtual, 12:00–4:00 PM ET each day (Day 1 Foundations, Day 2 Practice)"
     }
   },
   {
@@ -165,7 +165,7 @@
       "Program Leaders"
     ],
     "date_display": "December 3–5, 2026",
-    "registration_deadline": "November 4, 2026 early registration ends",
+    "registration_deadline": "Early registration ended November 4, 2026; cancellation deadline November 19, 2026",
     "format": "In-person",
     "region": "Indianapolis, IN",
     "distance_miles": null,
@@ -185,8 +185,8 @@
     "source_url": "https://www.aacnnursing.org/transform/registration",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-04",
-      "verified_against": "Official AACN Transform registration page, checked 2026-11-04: Transform 2026 upcoming, cancellation deadline November 19, 2026; fee table did not render in the page fetch, so early-rate amounts were not re-confirmed"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN conferences listing + Transform registration page, checked 2026-11-09: December 3–5, 2026, Indianapolis confirmed; cancellation deadline November 19, 2026"
     }
   },
   {
@@ -334,8 +334,8 @@
     "source_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -383,8 +383,8 @@
     "source_url": "https://cce.geisinger.edu/content/hospital-incident-command-system-training-november-10-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -426,65 +426,15 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
-    }
-  },
-  {
-    "id": "amia-first-look-students-2026",
-    "title": "AMIA 2026 First Look for Students Program",
-    "organization": "American Medical Informatics Association",
-    "description": "Student pathway program introducing undergraduate and graduate students to health informatics through mentored attendance, educational sessions, research presentations, scientific sessions, and networking at the AMIA Annual Symposium.",
-    "categories": [
-      "Health Informatics",
-      "Biomedical Sciences",
-      "Research",
-      "Pathway Programs",
-      "Student Success"
-    ],
-    "subcategories": [
-      "Student Pathways",
-      "Health Informatics Careers",
-      "Mentorship",
-      "Research Exposure"
-    ],
-    "audiences": [
-      "Undergraduate Students",
-      "Graduate Students",
-      "STEM Students",
-      "Nursing Students",
-      "Pharmacy Students",
-      "Public Health Students",
-      "Data Science Students"
-    ],
-    "date_display": "November 8, 2026, required attendance day; symposium runs November 7–11",
-    "registration_deadline": "October 16, 2026 at 11:59 PM ET",
-    "format": "In-person",
-    "region": "Dallas, TX",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Selected participants receive complimentary one-day registration, a $50 award incentive, and complimentary 2027 student/trainee membership"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong fit for biomedical career pathways, student advising, mentorship, health informatics exposure, and widening access to research-oriented career networks.",
-    "official_url": "https://amia.org/education-events/amia-2026-annual-symposium/first-look",
-    "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/first-look",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official AMIA First Look page (direct open): application deadline October 16, 2026, 11:59 PM ET (corrected from PT); Nov 8 attendance day, $50 award, complimentary student registration + 2027 membership"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
     "id": "naahp-caahp-2027-regional-cfp",
     "title": "2027 CAAHP Regional Conference: At the Heart of Pre-Health Advising",
     "organization": "National Association of Advisors for the Health Professions / CAAHP",
-    "description": "Regional pre-health advising conference in Minneapolis with proposals invited for workshops, concurrent sessions, and posters. Attendee registration is scheduled to open in January 2027.",
+    "description": "Regional pre-health advising conference in Minneapolis. Call for proposals closed October 16, 2026; attendee registration is scheduled to open in January 2027.",
     "categories": [
       "Health Professions Advising",
       "Medical School Advising",
@@ -507,7 +457,7 @@
       "Researchers"
     ],
     "date_display": "April 7–10, 2027",
-    "registration_deadline": "Call for proposals deadline: October 16, 2026 at 5:00 PM ET",
+    "registration_deadline": "Attendee registration opens January 2027",
     "format": "In-person",
     "region": "Minneapolis, MN",
     "distance_miles": null,
@@ -518,15 +468,15 @@
     },
     "ce_available": false,
     "ce_types": [],
-    "abstract_or_cfp": true,
+    "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Direct fit for Pathways staff through advising practice, program improvement, presentation, networking, and student-transition learning.",
     "official_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-08: dates confirmed (CAAHP April 7-10, 2027, Minneapolis; WAAHP May 27-29, 2027, San Diego); no registration or CFP deadlines shown on that page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09: CAAHP April 7–10, 2027, Minneapolis confirmed; CFP deadline October 16, 2026 has passed; attendee registration opens January 2027"
     }
   },
   {
@@ -577,8 +527,8 @@
     "source_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -623,8 +573,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official PA DOH HIV Education and Training page (session dates/times confirmed against live listing)"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training page, checked 2026-11-09: November 9–10, 2026, 10:00 AM–12:00 PM ET session listed"
     }
   },
   {
@@ -666,8 +616,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -709,8 +659,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -752,8 +702,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -795,8 +745,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -838,8 +788,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -881,8 +831,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -924,8 +874,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -967,8 +917,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -1008,8 +958,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -1053,8 +1003,8 @@
     "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-11",
-      "verified_against": "Official PA DOH HIV Education and Training page (Part 2 of Medical Case Management training series; registration via Mid-Atlantic AETC, password PACM)"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training page, checked 2026-11-09: November 16–17, 2026, 10:00 AM–12:00 PM ET session listed"
     }
   },
   {
@@ -1081,7 +1031,7 @@
       "Faculty"
     ],
     "date_display": "December 7-8, 2026",
-    "registration_deadline": null,
+    "registration_deadline": "In-person registration closes November 24, 2026; virtual registration open throughout the event",
     "format": "Hybrid",
     "region": "Hershey, PA",
     "distance_miles": 150,
@@ -1099,8 +1049,8 @@
     "source_url": "http://med.psu.edu/departments-faculty/addiction-center-for-translation/conference",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official Penn State conference page via delegated verification (Oct 12, 2026): 12th annual, Dec 7-8, 2026, hybrid Hershey, free, call for abstracts open"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Penn State Addiction Conference page, checked 2026-11-09: December 7–8, 2026, hybrid, Hershey, free; CE available for marked sessions; in-person registration closes November 24, 2026"
     }
   },
   {
@@ -1142,8 +1092,8 @@
     "source_url": "https://imsh2027.org",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official IMSH 2027 site via delegated verification (Oct 12, 2026): Jan 23-27, 2027, New Orleans, LA; SSH flagship event"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official imsh2027.org, checked 2026-11-09: January 23–27, 2027, New Orleans confirmed"
     }
   },
   {
@@ -1167,7 +1117,7 @@
       "Healthcare Educators"
     ],
     "date_display": "June 9-12, 2027",
-    "registration_deadline": null,
+    "registration_deadline": "Abstract submissions closed October 26, 2026",
     "format": "In-person",
     "region": "Phoenix, AZ",
     "distance_miles": null,
@@ -1178,15 +1128,15 @@
     },
     "ce_available": false,
     "ce_types": [],
-    "abstract_or_cfp": true,
+    "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Nursing simulation conference with open call for abstracts.",
     "official_url": "https://www.inacsl.org/inacsl27-call-for-abstracts",
     "source_url": "https://www.inacsl.org/inacsl27-call-for-abstracts",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official INACSL call-for-abstracts page via delegated verification (Oct 12, 2026): Jun 9-12, 2027, Phoenix; abstracts open"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official INACSL27 Call for Abstracts page, checked 2026-11-09: submissions closed (deadline October 26, 2026); conference June 9–12, 2027"
     }
   },
   {
@@ -1225,12 +1175,12 @@
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
     "pathways_reason": "Directly on the Pathways thesis: accelerated MD pathways and access, from the national medical-education body.",
-    "official_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
-    "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
+    "official_url": "https://aamc.elevate.commpartners.com/products/pathways-to-medicine-evolving-practices-and-innovations-ideas",
+    "source_url": "https://aamc.elevate.commpartners.com/products/pathways-to-medicine-evolving-practices-and-innovations-ideas",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official AAMC upcoming-webinars page via delegated verification (Oct 12, 2026): Dec 15, 2026, 2:00 PM EST, virtual, free; final 'Pathways to Medicine' installment"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC IDEAS series page, checked 2026-11-09: December 15, 2026, 2:00 PM EST, free; third and final installment of Pathways to Medicine series"
     }
   },
   {
@@ -1273,8 +1223,8 @@
     "source_url": "https://www.aacnnursing.org/conferences-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official AACN conferences page via delegated verification (Oct 12, 2026): Jan 14-15, 2027, Coronado, CA post-conference workshop"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN conferences and webinars listing, checked 2026-11-09: January 14–15, 2027, Doctoral Education Conference Post-Conference Workshop"
     }
   },
   {
@@ -1316,8 +1266,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official ACA events page, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACA events page, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -1359,15 +1309,15 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official ACA events page, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACA events page, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
     "id": "tribal-public-health-conference-2027",
     "title": "2027 Tribal Public Health Conference",
     "organization": "Tribal public health organizations",
-    "description": "Conference advancing tribal public-health practice; call for proposals open with a late-October deadline.",
+    "description": "Conference advancing tribal public-health practice. Call for proposals closed October 31, 2026; acceptance notices due November 2026.",
     "categories": [
       "Public Health",
       "Community Health",
@@ -1383,7 +1333,7 @@
       "Community Health Professionals"
     ],
     "date_display": "April 6-8, 2027",
-    "registration_deadline": "Call for proposals deadline: October 31, 2026",
+    "registration_deadline": "Call for proposals closed October 31, 2026; acceptance notices November 2026",
     "format": "In-person",
     "region": null,
     "distance_miles": null,
@@ -1394,15 +1344,15 @@
     },
     "ce_available": false,
     "ce_types": [],
-    "abstract_or_cfp": true,
+    "abstract_or_cfp": false,
     "pathways_relevance": "medium",
-    "pathways_reason": "Public-health conference with an actionable CFP deadline within the month.",
+    "pathways_reason": "Tribal public-health conference advancing practice and health equity; April 2027 event with the call for proposals now closed.",
     "official_url": "https://tphconference.org/call-for-proposals/",
     "source_url": "https://tphconference.org/call-for-proposals/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-04",
-      "verified_against": "Official tphconference.org CFP page, checked 2026-11-04: proposal deadline October 31, 2026 (now past); conference April 6-8, 2027; acceptance notices TBA"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official tphconference.org CFP page, checked 2026-11-09: proposal deadline October 31, 2026 (closed); acceptance notices November 2026; conference April 6-8, 2027"
     }
   },
   {
@@ -1485,8 +1435,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -1527,8 +1477,8 @@
     "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-february-8-9-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: still listed with the recorded date and time"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -1568,8 +1518,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "needs_review",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-08: course still not listed on the calendar and no event page found via web search (same as 2026-11-07); Nov 13 date has not passed, so the record is kept pending confirmation"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: course still not listed on the calendar and no event page found (third consecutive day); Nov 13 date has not passed, so the record is kept pending confirmation"
     }
   },
   {
@@ -1612,8 +1562,8 @@
     "source_url": "https://phf.org/events/2026-public-health-learning-forum/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-14",
-      "verified_against": "Official PHF event page (direct open 2026-10-14): Nov 16-19, 2026, free and fully virtual; registration open via TRAIN Learning Network; CE not listed"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PHF 2026 Public Health Learning Forum page, checked 2026-11-09: November 16–19, 2026, free, fully virtual; sessions include AI implementation in public health (Nov 18)"
     }
   },
   {
@@ -1782,8 +1732,8 @@
     "source_url": "https://grants.nih.gov/news-events/calendar-of-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official NIH grants calendar listing: Nov 19, 2026, 2:00-3:00 PM ET, online, free; tech-assistance webinar for R25 applicants; CE not listed"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NIH Grants Calendar of Events, checked 2026-11-09: NIH Research Educational Program (Parent R25) Informational Webinar, Thursday, November 19, 2026, 2:00–3:00 PM, virtual, free"
     }
   },
   {
@@ -1830,8 +1780,8 @@
     "source_url": "https://www.CollegeCounseling.org/event-5923384",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-16",
-      "verified_against": "Official ACCA event page (direct open): November 20, 2026, 1-2 PM EST; presenter Adrienne Graham PhD, LPC, NCC; 1 CE for APA & NBCC"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACCA event page, checked 2026-11-09: November 20, 2026, 1:00–2:00 PM EST; 1 CE for APA & NBCC"
     }
   },
   {
@@ -1860,9 +1810,9 @@
     "region": "Online",
     "distance_miles": null,
     "cost": {
-      "amount": null,
+      "amount": 0,
       "currency": "USD",
-      "display": "not listed"
+      "display": "Free"
     },
     "ce_available": false,
     "ce_types": [],
@@ -1873,8 +1823,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-07",
-      "verified_against": "Official AAMC upcoming-webinars page (direct open 2026-11-07): 'Tracking What Matters: A New Tool for Program Objective Mapping to Advance Curriculum Evaluation and CBME', December 1, 2026, 2:00 PM EST"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC Building Better Curriculum webinars page + AAMC upcoming-webinars listing, checked 2026-11-09: December 1, 2026, 2:00 PM EST, free"
     }
   },
   {
@@ -1914,8 +1864,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-01",
-      "verified_against": "Official AAMC Building Better Curriculum webinars page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC Building Better Curriculum webinars page, checked 2026-11-09: December 10, 2026, 2:00 PM EST"
     }
   },
   {
@@ -1956,8 +1906,8 @@
     "source_url": "https://www.aacnnursing.org/conferences-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-01",
-      "verified_against": "Official AACN conferences and webinars listing"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN conferences and webinars listing, checked 2026-11-09: December 2, 2026, Transform 2026 Pre-Conference Workshop"
     }
   },
   {
@@ -1997,8 +1947,8 @@
     "source_url": "https://www.aacnnursing.org/conferences-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-01",
-      "verified_against": "Official AACN conferences and webinars listing"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN conferences and webinars listing, checked 2026-11-09: January 12–14, 2027, Coronado, CA"
     }
   },
   {
@@ -2075,9 +2025,9 @@
     "region": "Online",
     "distance_miles": null,
     "cost": {
-      "amount": null,
+      "amount": 0,
       "currency": "USD",
-      "display": "not listed"
+      "display": "Free"
     },
     "ce_available": false,
     "ce_types": [],
@@ -2088,8 +2038,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official AAMC Learn & Network events listing, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC upcoming-webinars listing + IDEAS series page, checked 2026-11-09: November 17, 2026, 3:00 PM EST, free; second installment of Pathways to Medicine series"
     }
   },
   {
@@ -2134,8 +2084,8 @@
     "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official ACA events page, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACA events page, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -2177,15 +2127,15 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official ACA events page, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACA events page, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
     "id": "naahp-waahp-2027-regional",
     "title": "2027 WAAHP Regional Conference",
     "organization": "Western Association of Advisors for the Health Professions",
-    "description": "Regional pre-health advising conference in San Diego for new and seasoned advisors and partners in health professions education, with sessions on foundational advising practices, challenging student situations, equity and access, advisor development, innovative programs and tools, and emerging trends. Call for proposals is open; travel grant applications close November 30, 2026.",
+    "description": "Regional pre-health advising conference in San Diego for new and seasoned advisors and partners in health professions education, with sessions on foundational advising practices, challenging student situations, equity and access, advisor development, innovative programs and tools, and emerging trends. Call for proposals closed November 8, 2026; travel grant applications close November 30, 2026.",
     "categories": [
       "Health Professions Advising",
       "Medical School Advising",
@@ -2208,9 +2158,9 @@
       "Researchers"
     ],
     "date_display": "May 27–29, 2027",
-    "registration_deadline": "Call for proposals deadline: November 8, 2026; travel grant applications close November 30, 2026; early bird registration opens January 28, 2027 and ends March 31, 2027; registration closes May 20, 2027",
+    "registration_deadline": "Call for proposals closed November 8, 2026; travel grant applications close November 30, 2026; travel grant recipients notified December 15, 2026; sponsor commitment deadline January 21, 2027; early bird registration opens January 28, 2027 and ends March 31, 2027; conference hotel block closes May 5, 2027; registration closes May 20, 2027",
     "format": "In-person",
-    "region": "San Diego, CA",
+    "region": "San Diego, CA (Westin San Diego Gaslamp Quarter)",
     "distance_miles": null,
     "cost": {
       "amount": null,
@@ -2226,8 +2176,8 @@
     "source_url": "https://www.waahp.org/regional-meeting",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-08: dates confirmed (CAAHP April 7-10, 2027, Minneapolis; WAAHP May 27-29, 2027, San Diego); no registration or CFP deadlines shown on that page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official WAAHP 2027 Regional Meeting page, checked 2026-11-09: May 27–29, 2027, Westin San Diego Gaslamp Quarter; CFP closed November 8, 2026; travel grants close November 30, 2026; recipients notified December 15, 2026; early bird registration January 28–March 31, 2027; hotel block closes May 5, 2027; registration closes May 20, 2027"
     }
   },
   {
@@ -2270,8 +2220,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official ACA events page, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACA events page, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -2313,8 +2263,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official ACA events page, checked 2026-11-08: still listed with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official ACA events page, checked 2026-11-09: event listed with the recorded date"
     }
   },
   {
@@ -2356,8 +2306,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-07",
-      "verified_against": "Official AAMC upcoming-webinars page (direct open 2026-11-07): 'Foundations: Designing for All—Beyond UDL in Medical Education', live web event December 2, 2026, 3:30 PM EST; listed as Free"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-09: December 2, 2026, 3:30 PM EST, free; opening session of the seven-part Designing for All series"
     }
   },
   {
@@ -2400,8 +2350,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official AAMC Learn & Network listing and AAMC webinar portal, checked 2026-11-08: Nov 10, 2026, 3:00 PM ET, virtual, free"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-09: November 10, 2026, 3:00 PM EST, free"
     }
   },
   {
@@ -2444,8 +2394,8 @@
     "source_url": "https://www.aamc.org/about-us/medical-education/merc-workshop",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official AAMC MERC registration page and Series 4 product page, checked 2026-11-08: Series 4 begins Nov 16, 2026, 3:00 PM ET; $125 per workshop; certificate after six workshops"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-09: MERC Series 4 $125 workshops listed (November 23 and November 30, 3:00 PM EST)"
     }
   },
   {
@@ -2491,8 +2441,8 @@
     "source_url": "https://www.naahp.org/meetings/meetings-regional",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-08: June 1-4, 2027, Hyatt, San Antonio, TX; no registration or CFP deadlines listed"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09 (page copy crawled 2026-06-08): SAAHP June 1–4, 2027, San Antonio confirmed"
     }
   },
   {
@@ -2538,8 +2488,335 @@
     "source_url": "https://www.naahp.org/meetings/meetings-regional",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-08: June 8-11, 2027, Hilton, Harrisburg, PA; no registration or CFP deadlines listed"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09 (page copy crawled 2026-06-08): NEAAHP June 8–11, 2027, Harrisburg confirmed"
+    }
+  },
+  {
+    "id": "pa-hiv-hcv-nov12-2026",
+    "title": "HCV Care & Prevention Across the HIV Continuum",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual capacity-building session on hepatitis treatment and prevention within the HIV continuum, covering HCV/HIV coinfection, screening, treatment, and prevention strategies. Presented by the MidAtlantic AIDS Education and Training Center.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Hepatitis",
+      "Infectious Disease"
+    ],
+    "audiences": [
+      "HIV Care Providers",
+      "Nurses",
+      "Social Workers",
+      "Public Health Professionals"
+    ],
+    "date_display": "November 12, 2026, 9:00 AM–1:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "3.5 social work CE hours",
+      "3.5 nursing CNE hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Pennsylvania workforce training in HIV and hepatitis care, with nursing and social work CE, directly relevant to community-health practice.",
+    "official_url": "https://www.maaetc.org/events/view/31469",
+    "source_url": "https://www.maaetc.org/events/view/31469",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training listing (Nov 12, 2026, 9:00 AM–1:00 PM) + MAAETC event page: virtual session, Katie Huynh CRNP, 3.5 social work and 3.5 nursing CNE hours"
+    }
+  },
+  {
+    "id": "pa-hiv-mi-nov24-2026",
+    "title": "Motivational Interviewing in HIV Care and Prevention",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual capacity-building session on motivational interviewing as an evidence-based practice for working with individuals with HIV, covering core MI skills, stages of change, and readiness for change. Presented by the MidAtlantic AIDS Education and Training Center.",
+    "categories": [
+      "Counseling",
+      "Behavioral Health",
+      "Public Health",
+      "Community Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "Motivational Interviewing",
+      "Case Management"
+    ],
+    "audiences": [
+      "HIV Care Providers",
+      "Social Workers",
+      "Nurses",
+      "Case Managers"
+    ],
+    "date_display": "November 24, 2026, 12:00–4:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "3.5 social work CE hours",
+      "3.5 nursing CNE hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Motivational interviewing training applied to HIV care and prevention, with nursing and social work CE, directly relevant to counseling and community-health practice.",
+    "official_url": "https://www.maaetc.org/events/view/31470",
+    "source_url": "https://www.maaetc.org/events/view/31470",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training listing (Nov 24, 2026, 12:00–4:00 PM) + MAAETC event page: virtual session, Marcy Witherspoon LSW, 3.5 social work and 3.5 nursing CNE hours"
+    }
+  },
+  {
+    "id": "pa-hiv-screening-dec2026",
+    "title": "Integrated Routine HIV Screening in Clinical Practice",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Two-day live virtual capacity-building session (December 1 and 3, 2026) on HIV testing in clinical settings, covering epidemiology, treatment and prevention, testing technologies, and CDC testing guidelines. Presented by Shubhra Shetty, MD, Medical Director, Xceed America/WYAC Infectious Disease Clinic, Scranton, PA.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "HIV Testing",
+      "Clinical Practice"
+    ],
+    "audiences": [
+      "HIV Care Providers",
+      "Nurses",
+      "Social Workers",
+      "Clinical Staff"
+    ],
+    "date_display": "December 1 & 3, 2026, 9:00 AM–1:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "7.0 social work CE hours",
+      "7.0 nursing CNE hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Pennsylvania workforce training in routine HIV screening in clinical practice, with nursing and social work CE, directly relevant to community-health practice.",
+    "official_url": "https://www.maaetc.org/events/view/31564",
+    "source_url": "https://www.maaetc.org/events/view/31564",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training listing (Dec 1 & 3, 2026, 9:00 AM–1:00 PM) + MAAETC event page: two-day virtual session, Shubhra Shetty MD, 7.0 social work and 7.0 nursing CNE hours"
+    }
+  },
+  {
+    "id": "pa-hiv-prep-clinical-dec8-2026",
+    "title": "Pre-Exposure Prophylaxis (PrEP) and Post-Exposure Prophylaxis (PEP) for Clinical Staff",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training on pre-exposure and post-exposure prophylaxis for clinical staff, presented by the MidAtlantic AIDS Education and Training Center.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "HIV Prevention",
+      "Clinical Practice"
+    ],
+    "audiences": [
+      "Clinical Staff",
+      "HIV Care Providers",
+      "Nurses",
+      "Pharmacists"
+    ],
+    "date_display": "December 8, 2026, 9:00–10:00 AM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "1.0 AMA PRA Category 1 Credit",
+      "1.0 ANCC contact hour",
+      "1.0 social work CE hour",
+      "1.0 ACPE contact hour"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Pennsylvania workforce training in HIV prevention for clinical staff, with interprofessional CE, directly relevant to community-health practice.",
+    "official_url": "https://www.maaetc.org/events/view/31472",
+    "source_url": "https://www.maaetc.org/events/view/31472",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training listing (Dec 8, 2026, 9:00–10:00 AM) + MAAETC event page: 1.0 AMA PRA Category 1, 1.0 ANCC, 1.0 social work, 1.0 ACPE credit"
+    }
+  },
+  {
+    "id": "pa-hiv-prep-clerical-dec9-2026",
+    "title": "Pre-Exposure Prophylaxis (PrEP) and Post-Exposure Prophylaxis (PEP) for Clerical Staff",
+    "organization": "Pennsylvania Department of Health",
+    "description": "Live virtual training on pre-exposure and post-exposure prophylaxis for clerical staff, presented by the MidAtlantic AIDS Education and Training Center.",
+    "categories": [
+      "Public Health",
+      "Community Health",
+      "Workforce Development"
+    ],
+    "subcategories": [
+      "HIV Care",
+      "HIV Prevention"
+    ],
+    "audiences": [
+      "Clerical Staff",
+      "HIV Care Providers",
+      "Support Staff"
+    ],
+    "date_display": "December 9, 2026, 9:00–10:00 AM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online / Pennsylvania",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "1.0 social work CE hour",
+      "1.0 nursing CNE hour"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Pennsylvania workforce training in HIV prevention for clerical staff, with social work and nursing CE, relevant to community-health practice.",
+    "official_url": "https://www.maaetc.org/events/view/31473",
+    "source_url": "https://www.maaetc.org/events/view/31473",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official PA DOH HIV Education and Training listing (Dec 9, 2026, 9:00–10:00 AM) + MAAETC event page: 1.0 social work and 1.0 nursing CNE hour"
+    }
+  },
+  {
+    "id": "aacn-dnp-phd-dual-degree-2026",
+    "title": "Dual-Degree DNP-PhD Programs: Bridging Practice and Research",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "AACN webinar on dual-degree DNP-PhD programs in nursing, bridging clinical practice and research.",
+    "categories": [
+      "Nursing Education",
+      "Faculty Development",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Doctoral Education",
+      "DNP",
+      "PhD"
+    ],
+    "audiences": [
+      "Nursing Faculty",
+      "Graduate Nursing Students",
+      "Doctoral Students",
+      "Nurse Educators"
+    ],
+    "date_display": "November 30, 2026, 3:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Free for faculty, staff, and students from AACN member institutions"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Doctoral nursing education pathways and faculty development; relevant to nursing pipeline and educator audiences.",
+    "official_url": "https://www.aacnnursing.org/conferences-webinars",
+    "source_url": "https://www.aacnnursing.org/conferences-webinars",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN conferences and webinars listing, checked 2026-11-09: Dual-Degree DNP-PhD Programs webinar listed November 30, 3:00 PM ET; AACN webinars free to faculty, staff, and students from member institutions"
+    }
+  },
+  {
+    "id": "aacn-gnap-conference-2027",
+    "title": "2027 Graduate Nursing Admissions Professionals (GNAP) Conference",
+    "organization": "American Association of Colleges of Nursing",
+    "description": "AACN conference for graduate nursing admissions professionals to share successes, develop strategies, and build a peer resource network in graduate nursing recruitment, admissions, marketing, and programming.",
+    "categories": [
+      "Nursing Education",
+      "Student Success",
+      "Professional Development"
+    ],
+    "subcategories": [
+      "Graduate Admissions",
+      "Recruitment",
+      "Student Transitions"
+    ],
+    "audiences": [
+      "Graduate Nursing Admissions Professionals",
+      "Nursing Education Administrators",
+      "Faculty",
+      "Program Leaders"
+    ],
+    "date_display": "March 29–31, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Lake Buena Vista, FL (Disney's Coronado Springs Resort)",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "Nursing continuing professional development"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Graduate nursing admissions and recruitment practice sits directly on the health-professions pathway pipeline.",
+    "official_url": "https://www.aacnnursing.org/gnap-conference",
+    "source_url": "https://www.aacnnursing.org/gnap-conference",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-09",
+      "verified_against": "Official AACN GNAP Conference page, checked 2026-11-09: March 29–31, 2027, Lake Buena Vista, FL, Disney's Coronado Springs Resort; CE per GNAP agenda page (AACN accredited provider of nursing continuing professional development); registration prices not listed"
     }
   }
 ]

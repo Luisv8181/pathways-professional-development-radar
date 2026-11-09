@@ -28,8 +28,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -61,8 +61,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "needs_review",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: Nov 18 NASM webinar no longer appears in the upcoming list (second day; it is listed among 2026-2027 webinars); date has not passed, so the record is kept pending confirmation"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still absent from the upcoming-webinars list (third consecutive day); appears in the 2026-2027 webinars archive section; November 18 date has not passed, so the record is kept pending confirmation"
     }
   },
   {
@@ -95,8 +95,8 @@
     "eligibility": "Grades 10-12. Participation is coordinated through local school districts; students register through a school or career counselor.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger Youth Volunteer Programs page, checked 2026-11-09: AiM HI annual program confirmed; Northeast Region event in March at Wilkes University; exact 2027 date not posted"
     }
   },
   {
@@ -128,8 +128,8 @@
     "eligibility": "High school students ages 15-18. The 2026 cycle required an application, references, essay, interview, orientation, 40 service hours, and 15 educational hours. 2027 dates and requirements should be confirmed when posted.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Geisinger Youth Volunteer Programs page, checked 2026-11-09: Junior Volunteer Program confirmed (6-week summer program, ages 15–18, four locations); 2027 application dates not posted"
     }
   },
   {
@@ -195,8 +195,8 @@
     "eligibility": "High school seniors from Bradford, Lackawanna, Luzerne, Monroe, Pike, Sullivan, Susquehanna, Wayne, or Wyoming counties planning to attend a two-year allied-health program in the region.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NE PA AHEC Rural Health Scholarship page, checked 2026-11-09: $2,000 scholarship for high school seniors entering two-year allied health programs; application deadline not listed"
     }
   },
   {
@@ -231,8 +231,8 @@
     "eligibility": "Open to Wilkes-Barre Area and Hazleton Area high school students in grades 9-12. No prior robotics or AI experience is required.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Wilkes EXPLOR-NEPA page, checked 2026-11-09: free program for grades 9–12 at Wilkes-Barre Area and Hazleton Area high schools; $3,000 scholarship toward first semester at Wilkes"
     }
   },
   {
@@ -266,8 +266,8 @@
     "eligibility": "High school, CTC, and CTE school teams of three or four students.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Penn College Anatomage Tournament page, checked 2026-11-09: March 4, 2027, 8:00 AM–4:30 PM, Penn College"
     }
   },
   {
@@ -301,10 +301,10 @@
     "eligibility": "High school students age 15+ by June 14, 2027 (16+ for some research sites); high school seniors eligible if not enrolled in college courses during the program. Housing is not provided.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-13",
-      "verified_against": "Official Hillman Academy apply page: 2027 application Dec 3, 2026-Feb 14, 2027; program June 14-July 30, 2027; free participation with stipends for underrepresented-background students; age 15+/16+ by site"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official UPMC Hillman Academy apply page, checked 2026-11-09: applications December 3, 2026–February 14, 2027; program June 14–July 30, 2027; free with stipends for qualified underrepresented students"
     },
-    "registration_deadline": "February 14, 2027"
+    "registration_deadline": "Applications open December 3, 2026; deadline February 14, 2027"
   },
   {
     "id": "upenn-pash-2027",
@@ -368,9 +368,10 @@
     "eligibility": "High school juniors and seniors. Students must commute to Drexel's Dornsife School of Public Health; 2027 registration information is expected in spring 2027.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
-    }
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Drexel Dornsife pre-college programs page, checked 2026-11-09: PHILA one-week July program confirmed; rolling admissions, check back spring 2027; 2026 cost $450 (2027 cost not posted)"
+    },
+    "registration_deadline": "Rolling admissions; check back spring 2027"
   },
   {
     "id": "pennsylvania-hospital-junior-volunteer-2027",
@@ -401,8 +402,8 @@
     "eligibility": "Students ages 14-17. Penn Medicine states applications for Summer 2027 may begin February 1, 2027.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Penn Medicine Pennsylvania Hospital volunteering page, checked 2026-11-09: Summer 2027 applications open February 1, 2027"
     }
   },
   {
@@ -434,8 +435,8 @@
     "eligibility": "Students currently in 9th or 10th grade who attend a Philadelphia high school and have at least a 3.0 GPA. The 2027 application cycle begins in January 2027.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official Penn VPSE SMP page, checked 2026-11-09: 2027 applications open January 2027; four-week program in Penn professional schools"
     }
   },
   {
@@ -467,8 +468,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -532,10 +533,10 @@
     "eligibility": "Postbaccalaureate applicants to the NCI iCURE research fellowship; check the official program page for eligibility details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official NCI iCURE program page: application webinar Oct 20, 2026, 2:00-3:30 PM ET, online; application cycle closes Nov 30, 2026"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NCI iCURE page, checked 2026-11-09: application cycle open (due November 30, 2026; reference letters December 7, 2026; program starts early September 2027); October 20 application webinar recording and slides available"
     },
-    "registration_deadline": "November 30, 2026"
+    "registration_deadline": "Application due November 30, 2026; reference letters due December 7, 2026"
   },
   {
     "id": "nih-resilient-scientist-fall-2026",
@@ -565,8 +566,8 @@
     "eligibility": "Students and fellows, including those outside NIH; check the official page for session details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official NIH OITE page: remaining fall 2026 sessions Oct 22, Oct 29, Nov 12, 2026, 3:00-4:15 PM ET, online; certificate of completion (not CE credits)"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official NIH OITE Becoming a Resilient Scientist page, checked 2026-11-09: Unit 5 lecture November 12, 2026, 3:00–4:15 PM ET (final fall session); earlier fall lectures now past with recordings available"
     },
     "registration_deadline": null
   },
@@ -598,8 +599,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -630,8 +631,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -662,8 +663,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -694,8 +695,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -726,8 +727,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   },
   {
@@ -758,8 +759,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-08: still listed in upcoming webinars with the recorded date"
+      "last_verified": "2026-11-09",
+      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still listed in upcoming webinars with the recorded date"
     }
   }
 ]
