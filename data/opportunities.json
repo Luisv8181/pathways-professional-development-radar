@@ -190,55 +190,6 @@
     }
   },
   {
-    "id": "aamc-learn-serve-lead-2026",
-    "title": "Learn Serve Lead 2026: The AAMC Annual Meeting",
-    "organization": "Association of American Medical Colleges",
-    "description": "AAMC annual meeting spanning academic medicine, medical education, research, workforce development, advocacy, and health care.",
-    "categories": [
-      "Medical Education",
-      "Professional Development",
-      "Medical School Advising",
-      "Pathway Programs",
-      "Research"
-    ],
-    "subcategories": [
-      "Academic Medicine",
-      "Faculty Development",
-      "Student Affairs",
-      "Medical Education"
-    ],
-    "audiences": [
-      "Medical Educators",
-      "Faculty",
-      "Academic Leaders",
-      "Student Affairs Professionals",
-      "Advisors",
-      "Researchers"
-    ],
-    "date_display": "November 6–10, 2026",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Anaheim, CA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Registration price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Broad academic-medicine professional development with medical education, advising, student affairs, workforce, and research content.",
-    "official_url": "https://www.aamc.org/learn-network/learn-serve-lead",
-    "source_url": "https://www.aamc.org/learn-network/learn-serve-lead",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-08",
-      "verified_against": "Official AAMC Learn & Network events listing, checked 2026-11-08: still listed with the recorded date"
-    }
-  },
-  {
     "id": "pediatric-capacity-building-institute-2027",
     "title": "Pediatric Capacity Building Institute Year 4",
     "organization": "Pennsylvania Department of Human Services",
@@ -334,100 +285,8 @@
     "source_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
-    }
-  },
-  {
-    "id": "geisinger-hics-nov10-2026",
-    "title": "Hospital Incident Command System Training - November 10, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Hospital Incident Command System training with emergency-management and tabletop-exercise content.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Emergency Preparedness",
-      "Disaster Response",
-      "Tabletop Exercise"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Clinical Leaders",
-      "Geisinger Staff"
-    ],
-    "date_display": "November 10, 2026, 9:00 AM–1:00 PM EST",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "4 AAPA Category I CME",
-      "4 ACPE",
-      "4 AMA PRA Category 1 Credit",
-      "4 ANCC",
-      "4 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development.",
-    "official_url": "https://cce.geisinger.edu/content/hospital-incident-command-system-training-november-10-2026",
-    "source_url": "https://cce.geisinger.edu/content/hospital-incident-command-system-training-november-10-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
-    }
-  },
-  {
-    "id": "geisinger-mi-nov10-2026",
-    "title": "Motivational Interviewing Workshop - November 10, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "November 10, 2026, 12:00–4:00 PM EST",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -527,54 +386,8 @@
     "source_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
-    }
-  },
-  {
-    "id": "pa-hiv-behavioral-health-nov9-2026",
-    "title": "Co-occurring Behavioral Health Issues in HIV Care",
-    "organization": "Pennsylvania Department of Health",
-    "description": "Live virtual training for HIV care case managers and navigators on co-occurring behavioral-health issues in HIV care.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Public Health",
-      "Community Health",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "HIV Care",
-      "Co-occurring Conditions",
-      "Case Management"
-    ],
-    "audiences": [
-      "Ryan White Case Managers",
-      "SNNLP Navigators",
-      "Pennsylvania Department of Health Employees",
-      "CMHD Employees"
-    ],
-    "date_display": "November 9–10, 2026, 10:00 AM–12:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online / Pennsylvania",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Direct connection between behavioral health, counseling, community-based HIV care, and interprofessional workforce training.",
-    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official PA DOH HIV Education and Training page, checked 2026-11-10: November 9–10, 2026, 10:00 AM–12:00 PM ET session listed"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -616,8 +429,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -659,8 +472,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -702,8 +515,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -745,8 +558,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -788,8 +601,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -831,8 +644,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -874,8 +687,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -917,8 +730,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -958,8 +771,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -1266,8 +1079,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -1309,8 +1122,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -1435,8 +1248,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -1477,8 +1290,8 @@
     "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-february-8-9-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -1823,8 +1636,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AAMC Building Better Curriculum webinars page + AAMC upcoming-webinars listing, checked 2026-11-10: December 1, 2026, 2:00 PM EST, free"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -2038,8 +1851,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AAMC upcoming-webinars listing + IDEAS series page, checked 2026-11-10: November 17, 2026, 3:00 PM EST, free; second installment of Pathways to Medicine series"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -2084,15 +1897,15 @@
     "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
     "id": "aca-pathways-to-healing-2026",
     "title": "Pathways to Healing: Navigating Grief, Loss and Trauma",
     "organization": "American Counseling Association",
-    "description": "Webinar series on evidence-based strategies and practical tools for supporting individuals navigating grief, loss and trauma; available on demand through November 29, 2026.",
+    "description": "Webinar series on evidence-based strategies and practical tools for supporting individuals navigating grief, loss and trauma; live series September 23 - November 29, 2026, available on demand through December 31, 2026.",
     "categories": [
       "Counseling",
       "Behavioral Health",
@@ -2108,7 +1921,7 @@
       "Counselor Educators",
       "Behavioral Health Professionals"
     ],
-    "date_display": "September 23 - November 29, 2026, 1-2 p.m. ET",
+    "date_display": "September 23 - November 29, 2026 live series; available on demand through December 31, 2026",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -2122,13 +1935,13 @@
     "ce_types": [],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
-    "pathways_reason": "Grief, loss and trauma support is core counseling practice; series runs through late November.",
+    "pathways_reason": "Grief, loss and trauma support is core counseling practice; series available on demand through December 31, 2026.",
     "official_url": "https://www.counseling.org/events-education/events",
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official ACA events page, checked 2026-11-11: listed as available on demand through December 31, 2026"
     }
   },
   {
@@ -2220,8 +2033,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -2263,8 +2076,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page, checked 2026-11-10: event listed with the recorded date"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -2306,52 +2119,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-10: December 2, 2026, 3:30 PM EST, free; opening session of the seven-part Designing for All series"
-    }
-  },
-  {
-    "id": "aamc-econsult-webinar-2026",
-    "title": "Unlocking Specialty Access: How Academic Health Systems Are Scaling & Sustaining eConsult Programs",
-    "organization": "Association of American Medical Colleges",
-    "description": "Webinar on implementing, scaling, and sustaining eConsult programs: leaders from three academic health systems share strategies for specialty access, primary care engagement, demonstrating impact, and overcoming implementation challenges.",
-    "categories": [
-      "Medical Education",
-      "Healthcare Education",
-      "Health Informatics"
-    ],
-    "subcategories": [
-      "Specialty Access",
-      "Telehealth",
-      "Health Systems"
-    ],
-    "audiences": [
-      "Clinicians",
-      "Healthcare Leaders",
-      "Educators",
-      "Administrators"
-    ],
-    "date_display": "November 10, 2026, 3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Specialty access and health-system coordination are relevant to healthcare education and workforce planning, though less central than advising and pathway programming.",
-    "official_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
-    "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-10: November 10, 2026, 3:00 PM EST, free"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -2394,8 +2163,8 @@
     "source_url": "https://www.aamc.org/about-us/medical-education/merc-workshop",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-10: MERC Series 4 $125 workshops listed (November 23 and November 30, 3:00 PM EST)"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
@@ -2860,8 +2629,8 @@
     "source_url": "https://www.aamc.org/services/eras-institutions/eras-insights/eras-insights-application-trends-and-new-data-tools",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AAMC ERAS Insights page + AAMC upcoming-webinars listing, checked 2026-11-10: November 18, 2026, 1:00 PM ET, free; for advisors"
+      "last_verified": "2026-11-11",
+      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
     }
   },
   {
