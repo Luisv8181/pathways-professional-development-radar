@@ -43,60 +43,8 @@
     "source_url": "https://health-education.outreach.psu.edu/",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official PSU Strategies registration page, checked 2026-11-09: regular registration ended October 21; late rates now apply ($480 individual, $405 team, $380 Thursday-only; on-site November 12); conference November 12–13, 2026"
-    }
-  },
-  {
-    "id": "amia-symposium-2026",
-    "title": "AMIA 2026 Annual Symposium",
-    "organization": "American Medical Informatics Association",
-    "description": "Five-day biomedical and health informatics meeting covering clinical informatics, translational and clinical research informatics, AI, LLMs, clinical decision support, implementation science, and governance.",
-    "categories": [
-      "Health Informatics",
-      "AI in Healthcare",
-      "Biomedical Sciences",
-      "Research"
-    ],
-    "subcategories": [
-      "Clinical Informatics",
-      "AI",
-      "Data",
-      "Implementation Science"
-    ],
-    "audiences": [
-      "Informaticians",
-      "Clinicians",
-      "Researchers",
-      "Educators",
-      "Healthcare Leaders",
-      "Trainees"
-    ],
-    "date_display": "November 7–11, 2026",
-    "registration_deadline": "October 5, 2026 advanced registration ended; standard rates now apply",
-    "format": "In-person",
-    "region": "Dallas, TX",
-    "distance_miles": null,
-    "cost": {
-      "amount": 1265,
-      "currency": "USD",
-      "display": "$1,265 professional member standard; $1,010 early-career member; $760 student/trainee member; $1,770 non-member standard"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 24.75 AMA PRA Category 1 CME",
-      "Up to 24.75 nursing contact hours",
-      "Up to 24.75 ACHIP professional development units"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong fit for health informatics, biomedical AI, learning health systems, research, and cross-disciplinary healthcare education.",
-    "official_url": "https://amia.org/education-events/amia-2026-annual-symposium",
-    "source_url": "https://amia.org/education-events/amia-2026-annual-symposium/registration",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official AMIA 2026 Annual Symposium page, checked 2026-11-10: event live in Dallas with the recorded theme; November 7–11, 2026 dates confirmed 2026-11-02"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official PSU Strategies registration page, checked 2026-11-12: late rates $480 individual / $405 team / $380 Thursday-only, on-site November 12; conference November 12-13, 2026"
     }
   },
   {
@@ -234,59 +182,8 @@
     "source_url": "https://www.paproviders.org/reminder-invitation-to-apply-to-the-2027-pediatric-capacity-building-institute-year-4",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-30",
-      "verified_against": "Official Pennsylvania DHS PCBI page and 2027 invitation"
-    }
-  },
-  {
-    "id": "geisinger-nursing-research-2026",
-    "title": "Translating Knowledge: Nursing Research and Evidence-Based Practice Conference 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "Hybrid nursing research and evidence-based practice conference featuring project presentations, social determinants of health in pediatric care, workplace violence, and research-to-practice content.",
-    "categories": [
-      "Nursing Education",
-      "Research",
-      "Community Health",
-      "Healthcare Education"
-    ],
-    "subcategories": [
-      "Evidence-Based Practice",
-      "Nursing Research",
-      "Social Determinants of Health"
-    ],
-    "audiences": [
-      "Advanced Practice Nurses",
-      "RNs",
-      "LPNs",
-      "Nursing Students",
-      "Faculty",
-      "Healthcare Professionals"
-    ],
-    "date_display": "November 11, 2026, 7:00 AM–3:30 PM EST",
-    "registration_deadline": null,
-    "format": "Hybrid",
-    "region": "Danville, PA / Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 100,
-      "currency": "USD",
-      "display": "$100"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "5 ANCC",
-      "5 Participation Credit",
-      "5 nursing contact hours"
-    ],
-    "abstract_or_cfp": true,
-    "pathways_relevance": "high",
-    "pathways_reason": "Strong fit for nursing education, research dissemination, evidence-based practice, and community-health applications.",
-    "official_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
-    "source_url": "https://cce.geisinger.edu/content/translating-knowledge-nursing-research-and-evidence-based-practice-conference-2026",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Pennsylvania DHS PCBI page, checked 2026-11-12: annual 9-month institute, 2 days per month in person; 2027 invitation with October 6, 2026 interest-survey deadline; sessions March-November 2027"
     }
   },
   {
@@ -386,8 +283,8 @@
     "source_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: 21st Annual Fall into Step with Respiratory Care listed November 13, 2026, 7:30 AM-5:15 PM"
     }
   },
   {
@@ -429,8 +326,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed November 16, 2026, 12:00-4:00 PM"
     }
   },
   {
@@ -472,8 +369,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed November 20, 2026, 9:00 AM-1:00 PM"
     }
   },
   {
@@ -515,8 +412,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed November 23, 2026, 12:00-4:00 PM"
     }
   },
   {
@@ -558,8 +455,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 2, 2026, 9:00 AM-1:00 PM"
     }
   },
   {
@@ -601,8 +498,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 4, 2026, 12:00-4:00 PM"
     }
   },
   {
@@ -644,8 +541,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 11, 2026, 12:00-4:00 PM"
     }
   },
   {
@@ -687,8 +584,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 14, 2026, 12:00-4:00 PM"
     }
   },
   {
@@ -730,8 +627,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: HICS Training listed November 12, 2026, 9:00 AM-1:00 PM"
     }
   },
   {
@@ -771,8 +668,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Cultivating Competency Through Coaching Workshop listed January 20, 2027, 8:30 AM-4:30 PM"
     }
   },
   {
@@ -992,8 +889,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/pathways-to-medicine-evolving-practices-and-innovations-ideas",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official AAMC IDEAS series page, checked 2026-11-09: December 15, 2026, 2:00 PM EST, free; third and final installment of Pathways to Medicine series"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: Accelerated Pathways (IDEAS) live event December 15, 2026, 2:00 PM EST, free; final installment of Pathways to Medicine series"
     }
   },
   {
@@ -1206,8 +1103,8 @@
     "source_url": "https://www.aamc.org/learn-network/leadership-development/mflds",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-13",
-      "verified_against": "Official AAMC leadership-development page via delegated verification (Oct 13, 2026): Dec 8-10, 2026, in-person Westminster CO; early-bird $2,375, standard $2,725; attendees must be affiliated with an AAMC member institution; CE not stated"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Midcareer Faculty Leadership Development Seminar page, checked 2026-11-12: December 8-10, 2026, Westin Westminster, Westminster, CO; early bird $2,375, standard $2,725"
     }
   },
   {
@@ -1248,8 +1145,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: FCCS Resource Limited listed February 22-23, 2027"
     }
   },
   {
@@ -1290,8 +1187,8 @@
     "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-february-8-9-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: FCCS Provider Course listed February 8-9, 2027"
     }
   },
   {
@@ -1418,8 +1315,8 @@
     "source_url": "https://www.ama-assn.org/membership/events/changemeded-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official AMA ChangeMedEd 2027 event page: Sep 9-11, 2027, Chicago IL; prices and CE not yet listed"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AMA ChangeMedEd 2027 event page (rendered), checked 2026-11-12: Sep 9-11, 2027, Hyatt Regency Chicago, Chicago, IL, in person; early bird registration opens May 2027; prices and CE not yet listed"
     }
   },
   {
@@ -1463,8 +1360,8 @@
     "source_url": "https://amia.org/education-events/annual-symposium",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official AMIA event page: Nov 6-10, 2027, San Diego CA (Hilton San Diego Bayfront); prices and CE not yet listed"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AMIA Annual Symposium page (rendered), checked 2026-11-12: Future Annual Symposium Sites lists 2027 Annual Symposium Nov. 6-10, San Diego, CA; venue name not shown on this page (Hilton San Diego Bayfront per 2026-10-15 check); prices and CE not yet listed"
     }
   },
   {
@@ -1503,8 +1400,8 @@
     "source_url": "https://amia.org/education-events/amplify-informatics-conference",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-15",
-      "verified_against": "Official AMIA event page: Apr 12-15, 2027, Atlanta GA (Hyatt Regency Atlanta); unites Informatics Summit and Clinical Informatics Conference; prices and CE not yet listed"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AMIA Amplify Informatics Conference pages (rendered), checked 2026-11-12: upcoming conference Apr. 12-15, 2027, Atlanta, GA; venue page names Hyatt Regency Atlanta, 265 Peachtree St NE; hotel cutoff March 19, 2027; prices and CE not yet listed"
     }
   },
   {
@@ -1636,8 +1533,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: MSPOT live event December 1, 2026, 2:00 PM EST, free"
     }
   },
   {
@@ -1677,8 +1574,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official AAMC Building Better Curriculum webinars page, checked 2026-11-09: December 10, 2026, 2:00 PM EST"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: State of the Curriculum 2026 live event December 10, 2026, 2:00 PM EST"
     }
   },
   {
@@ -1804,8 +1701,8 @@
     "source_url": "https://www.geisinger.edu/gchs/education/school-of-nursing/clinical-faculty-preceptor-academy/cfpa-101",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-01",
-      "verified_against": "Official Geisinger CFPA 101 page"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger CFPA 101 page, checked 2026-11-12: asynchronous self-paced 6-module course, complete within 3 months; $250 per user (1-9 users); 10 CEs for $25 on completion"
     }
   },
   {
@@ -1851,8 +1748,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: Structured Pathways (IDEAS) live event November 17, 2026, 3:00 PM EST, free"
     }
   },
   {
@@ -2119,8 +2016,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: Designing for All opening session December 2, 2026, 3:30 PM EST, free"
     }
   },
   {
@@ -2163,8 +2060,8 @@
     "source_url": "https://www.aamc.org/about-us/medical-education/merc-workshop",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: MERC Series 4 workshops November 23 and November 30, 2026, 3:00 PM EST, $125 each; December sessions also listed (December 7, 14, and 21, 2026)"
     }
   },
   {
@@ -2304,8 +2201,8 @@
     "source_url": "https://www.maaetc.org/events/view/31469",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official PA DOH HIV Education and Training listing (Nov 12, 2026, 9:00 AM–1:00 PM) + MAAETC event page: virtual session, Katie Huynh CRNP, 3.5 social work and 3.5 nursing CNE hours, checked 2026-11-10"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official MAAETC event page, checked 2026-11-12: virtual HCV/HIV session, Katie Huynh CRNP, 3.5 social work and 3.5 nursing CNE hours"
     }
   },
   {
@@ -2629,8 +2526,8 @@
     "source_url": "https://www.aamc.org/services/eras-institutions/eras-insights/eras-insights-application-trends-and-new-data-tools",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official AAMC upcoming-webinars listing, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: ERAS DWS analytics live event November 18, 2026, 1:00 PM EST, free"
     }
   },
   {
@@ -2674,6 +2571,95 @@
       "status": "verified",
       "last_verified": "2026-11-10",
       "verified_against": "Official ACA events page + summit page, checked 2026-11-10: available on demand through Dec. 31, 2026"
+    }
+  },
+  {
+    "id": "aamc-vslo-residency-planning-2026",
+    "title": "From Away Rotations to Residency Planning: Using the VSLO® program and Residency Explorer™ tool Together",
+    "organization": "Association of American Medical Colleges",
+    "description": "Interactive webinar for third-year medical students preparing for away rotations and beginning their residency application journey, covering the VSLO program and Residency Explorer tool together.",
+    "categories": [
+      "Medical School Advising",
+      "Health Professions Advising",
+      "Medical Education"
+    ],
+    "subcategories": [
+      "Away Rotations",
+      "Residency Applications",
+      "VSLO",
+      "Residency Explorer"
+    ],
+    "audiences": [
+      "Medical Students",
+      "Third-Year Medical Students",
+      "Health Professions Advisors",
+      "Medical School Advisors"
+    ],
+    "date_display": "December 2, 2026, 7:00 PM EST",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Directly serves medical students and the advisors guiding them through away rotations and residency applications, core medical-school advising territory.",
+    "official_url": "https://aamc.elevate.commpartners.com/products/from-away-rotations-to-residency-planning-using-the-vslo-program-and-residency-explorer-tool-together",
+    "source_url": "https://aamc.elevate.commpartners.com/products/from-away-rotations-to-residency-planning-using-the-vslo-program-and-residency-explorer-tool-together",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate product page (rendered), checked 2026-11-12: live web event December 2, 2026, 7:00 PM EST; interactive webinar for third-year medical students preparing for away rotations and beginning their residency application journey"
+    }
+  },
+  {
+    "id": "aamc-eras-pdws-qa-2026",
+    "title": "ERAS PDWS Q&A Session",
+    "organization": "Association of American Medical Colleges",
+    "description": "45-minute ERAS Q&A session on the Program Director's WorkStation (PDWS), open to all program contacts; ERAS staff answer frequently asked questions and questions submitted during the live event.",
+    "categories": [
+      "Medical School Advising",
+      "Health Professions Advising",
+      "Medical Education"
+    ],
+    "subcategories": [
+      "ERAS",
+      "Residency Applications",
+      "PDWS"
+    ],
+    "audiences": [
+      "Program Contacts",
+      "Residency Program Staff",
+      "Student Affairs Staff",
+      "ERAS Users"
+    ],
+    "date_display": "December 3, 2026, 1:00 PM EST",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Online",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "ERAS system training for program contacts and student-affairs staff supporting students through the residency application season.",
+    "official_url": "https://aamc.elevate.commpartners.com/products/eras-pdws-qa-session-2",
+    "source_url": "https://aamc.elevate.commpartners.com/products/eras-pdws-qa-session-2",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate product page, checked 2026-11-12: live web event December 3, 2026, 1:00 PM EST, 45 minutes; Q&A on the Program Director's WorkStation, open to all program contacts"
     }
   }
 ]

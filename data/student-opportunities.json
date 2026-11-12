@@ -28,8 +28,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: PT & Me listed November 12, 2026, presented by the American Physical Therapy Association"
     }
   },
   {
@@ -161,8 +161,8 @@
     "eligibility": "Available for students pursuing RN, LPN, Certified Medical Assistant, Respiratory Therapist, or Surgical Technologist pathways. A work commitment with Geisinger is required after education.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger high-school opportunities page, checked 2026-11-12: Nursing and Health Sciences Scholars Program, up to $40,000 in financial support"
     }
   },
   {
@@ -322,7 +322,7 @@
       "Grades 10-12",
       "Philadelphia Public and Charter School Students"
     ],
-    "date_display": "Late February – March 2027 (four Saturdays)",
+    "date_display": "Saturdays, February 20, 27, March 6, and 13, 2027, 9:00 AM-1:00 PM",
     "format": "In-person",
     "region": "Philadelphia, PA",
     "cost": {
@@ -332,11 +332,12 @@
     },
     "official_url": "https://dermatology.upenn.edu/training/t32-training/pash/pash-application-information/",
     "source_url": "https://dermatology.upenn.edu/training/t32-training/pash/pash-application-information/",
-    "eligibility": "Sophomores, juniors, and seniors attending Philadelphia public or charter high schools. No prior research experience is required. Application opens October 2026 and closes January 2027.",
+    "eligibility": "Sophomores, juniors, and seniors attending Philadelphia public or charter high schools. No prior research experience is required. Application open; closes January 8, 2027.",
+    "registration_deadline": "January 8, 2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-09-29",
-      "verified_against": "Official organization program page"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Penn PASH application page, checked 2026-11-12: Spring 2027 application open; program Saturdays February 20, 27, March 6, and 13, 2027, 9:00 AM-1:00 PM; application deadline January 8, 2027"
     }
   },
   {
@@ -467,8 +468,8 @@
     "eligibility": "High school students in the greater Danville area with career goals of becoming a physician or physician assistant; application, essay, and interview required.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-10-12",
-      "verified_against": "Official Geisinger news release (Oct 6, 2026): free yearlong program, ~30-40 students, monthly sessions Oct-Jun at Geisinger Medical Center; applications accepted, deadline Oct 15; apply at go.geisinger.edu/PRP"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official Geisinger news release (October 6, 2026), checked 2026-11-12: free yearlong program, monthly in-person sessions October 2026-June 2027; application deadline October 15, 2026"
     }
   },
   {
@@ -533,8 +534,8 @@
     "eligibility": "Students and fellows, including those outside NIH; check the official page for session details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official NIH OITE Becoming a Resilient Scientist page, checked 2026-11-09: Unit 5 lecture November 12, 2026, 3:00–4:15 PM ET (final fall session); earlier fall lectures now past with recordings available"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official NIH OITE Becoming a Resilient Scientist page, checked 2026-11-12: Unit 5 lecture November 12, 2026, 3:00-4:15 PM ET (final fall session)"
     },
     "registration_deadline": null
   },
@@ -566,8 +567,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: STEM in Action listed November 17, 2026, presented by AHA / CBET / AAMI"
     }
   },
   {
@@ -598,8 +599,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: Who Said High Schoolers Can't Shadow Doctors? listed December 1, 2026, presented by Projects Abroad"
     }
   },
   {
@@ -630,8 +631,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: Medical Terminology Competition listed December 8, 2026, presented by G-W Publisher"
     }
   },
   {
@@ -662,8 +663,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: It's in Your Genes listed December 10, 2026, presented by Carolina Science"
     }
   },
   {
@@ -694,8 +695,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: Beyond the Competition: HOSA's Guide to the Red Cross & Blood 101 listed December 17, 2026, presented by the American Red Cross"
     }
   },
   {
@@ -726,8 +727,39 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-12",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-12: So You Want to Solve Medical Mysteries? listed December 16, 2026, presented by UWorld"
+    }
+  },
+  {
+    "id": "aamc-mcat-prep-dec2026",
+    "title": "Preparing for the MCAT® Exam",
+    "organization": "Association of American Medical Colleges",
+    "description": "Webinar overview of the AAMC MCAT Official Prep resources, with tips on using them to create an effective study plan.",
+    "categories": [
+      "College/Pre-Health",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "Pre-Medical Students",
+      "Undergraduate Students",
+      "Health Science Students"
+    ],
+    "date_display": "December 1, 2026, 2:00 PM EST",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://aamc.elevate.commpartners.com/products/preparing-for-the-mcat-exam-december-1",
+    "source_url": "https://aamc.elevate.commpartners.com/products/preparing-for-the-mcat-exam-december-1",
+    "eligibility": "Open to students preparing for the MCAT exam; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-12",
+      "verified_against": "Official AAMC Elevate product page, checked 2026-11-12: live web event December 1, 2026, 2:00 PM EST, free, 60 minutes; overview of AAMC MCAT Official Prep resources and study-plan tips"
     }
   }
 ]
