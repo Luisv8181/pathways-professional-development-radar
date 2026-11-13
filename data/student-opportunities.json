@@ -1,38 +1,5 @@
 [
   {
-    "id": "hosa-physical-therapy-career-2026",
-    "title": "PT & Me: Preparing for Your Future Career in Physical Therapy",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual career-exploration webinar focused on physical therapy education and career preparation.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration",
-      "Rehabilitation"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "November 12, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: PT & Me listed November 12, 2026, presented by the American Physical Therapy Association"
-    }
-  },
-  {
     "id": "hosa-health-wellness-career-2026",
     "title": "NASM Health & Wellness Career Pathways",
     "organization": "HOSA – Future Health Professionals",
@@ -507,39 +474,6 @@
     "registration_deadline": "Application due November 30, 2026; reference letters due December 7, 2026"
   },
   {
-    "id": "nih-resilient-scientist-fall-2026",
-    "title": "Becoming a Resilient Scientist — Fall 2026 Sessions",
-    "organization": "NIH Office of Intramural Training and Education",
-    "description": "Remaining fall 2026 online sessions on October 22, October 29, and November 12, 2026, 3:00–4:15 PM ET each session. A certificate of completion is offered (not CE credits). Open to students and fellows outside NIH. Price not listed.",
-    "categories": [
-      "Professional Readiness",
-      "Coaching and Mentoring",
-      "Student Success"
-    ],
-    "audiences": [
-      "Students",
-      "Fellows",
-      "Trainees"
-    ],
-    "date_display": "October 22, October 29, and November 12, 2026, 3:00–4:15 PM ET",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "not listed"
-    },
-    "official_url": "https://www.training.nih.gov/wellbeing/join-webinars-and-lectures/brs/",
-    "source_url": "https://www.training.nih.gov/wellbeing/join-webinars-and-lectures/brs/",
-    "eligibility": "Students and fellows, including those outside NIH; check the official page for session details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official NIH OITE Becoming a Resilient Scientist page, checked 2026-11-12: Unit 5 lecture November 12, 2026, 3:00-4:15 PM ET (final fall session)"
-    },
-    "registration_deadline": null
-  },
-  {
     "id": "hosa-stem-in-action-2026",
     "title": "STEM in Action: Where Technology Meets Healthcare",
     "organization": "HOSA – Future Health Professionals",
@@ -567,8 +501,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: STEM in Action listed November 17, 2026, presented by AHA / CBET / AAMI"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-13: webinar listed with matching date; November 12 PT & Me webinar no longer upcoming (event passed)"
     }
   },
   {
@@ -599,8 +533,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: Who Said High Schoolers Can't Shadow Doctors? listed December 1, 2026, presented by Projects Abroad"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-13: webinar listed with matching date; November 12 PT & Me webinar no longer upcoming (event passed)"
     }
   },
   {
@@ -631,8 +565,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: Medical Terminology Competition listed December 8, 2026, presented by G-W Publisher"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-13: webinar listed with matching date; November 12 PT & Me webinar no longer upcoming (event passed)"
     }
   },
   {
@@ -663,8 +597,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: It's in Your Genes listed December 10, 2026, presented by Carolina Science"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-13: webinar listed with matching date; November 12 PT & Me webinar no longer upcoming (event passed)"
     }
   },
   {
@@ -695,8 +629,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: Beyond the Competition: HOSA's Guide to the Red Cross & Blood 101 listed December 17, 2026, presented by the American Red Cross"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-13: webinar listed with matching date; November 12 PT & Me webinar no longer upcoming (event passed)"
     }
   },
   {
@@ -727,8 +661,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official HOSA webinars page, checked 2026-11-12: So You Want to Solve Medical Mysteries? listed December 16, 2026, presented by UWorld"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-13: webinar listed with matching date; November 12 PT & Me webinar no longer upcoming (event passed)"
     }
   },
   {
@@ -758,8 +692,39 @@
     "eligibility": "Open to students preparing for the MCAT exam; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate product page, checked 2026-11-12: live web event December 1, 2026, 2:00 PM EST, free, 60 minutes; overview of AAMC MCAT Official Prep resources and study-plan tips"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official AAMC Upcoming Premed Webinars page, checked 2026-11-13: Preparing for the MCAT Exam listed December 1, 2:00 PM ET"
+    }
+  },
+  {
+    "id": "aamc-mcat-test-day-qa-jan2027",
+    "title": "2027 MCAT Test Day Q&A",
+    "organization": "Association of American Medical Colleges",
+    "description": "Q&A webinar for students registered for a 2027 MCAT exam, covering test day policies and procedures.",
+    "categories": [
+      "College/Pre-Health",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "Pre-Medical Students",
+      "Undergraduate Students",
+      "Health Science Students"
+    ],
+    "date_display": "January 7, 2027, 2:00 PM ET",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://students-residents.aamc.org/premed-resources/upcoming-premed-webinars",
+    "source_url": "https://students-residents.aamc.org/premed-resources/upcoming-premed-webinars",
+    "eligibility": "For students registered for a 2027 MCAT exam; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-13",
+      "verified_against": "Official AAMC Upcoming Premed Webinars page, checked 2026-11-13: 2027 MCAT Test Day Q&A listed January 7, 2:00 PM ET, for students registered for a 2027 MCAT exam"
     }
   }
 ]

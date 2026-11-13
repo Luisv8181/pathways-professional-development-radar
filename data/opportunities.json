@@ -283,8 +283,8 @@
     "source_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: 21st Annual Fall into Step with Respiratory Care listed November 13, 2026, 7:30 AM-5:15 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -326,8 +326,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed November 16, 2026, 12:00-4:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -369,8 +369,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed November 20, 2026, 9:00 AM-1:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -412,8 +412,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed November 23, 2026, 12:00-4:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -455,8 +455,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 2, 2026, 9:00 AM-1:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -498,8 +498,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 4, 2026, 12:00-4:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -541,8 +541,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 11, 2026, 12:00-4:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -584,51 +584,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Motivational Interviewing Workshop listed December 14, 2026, 12:00-4:00 PM"
-    }
-  },
-  {
-    "id": "geisinger-hics-nov12-2026",
-    "title": "Hospital Incident Command System Training - November 12, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Hospital Incident Command System training with a tabletop exercise, listed in the Geisinger CE upcoming-events calendar.",
-    "categories": [
-      "Healthcare Education",
-      "Simulation",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Emergency Preparedness",
-      "Disaster Response",
-      "Tabletop Exercise"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Clinical Leaders",
-      "Geisinger Staff"
-    ],
-    "date_display": "November 12, 2026, 9:00 AM–1:00 PM EST",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly relevant to simulation, emergency preparedness, and workforce development through tabletop-based training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: HICS Training listed November 12, 2026, 9:00 AM-1:00 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -668,8 +625,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: Cultivating Competency Through Coaching Workshop listed January 20, 2027, 8:30 AM-4:30 PM"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -889,8 +846,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/pathways-to-medicine-evolving-practices-and-innovations-ideas",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: Accelerated Pathways (IDEAS) live event December 15, 2026, 2:00 PM EST, free; final installment of Pathways to Medicine series"
+      "last_verified": "2026-11-13",
+      "verified_against": "AAMC IDEAS Learning Series page, checked 2026-11-13: Accelerated Pathways webinar listed December 15, 2026, 2:00 PM ET"
     }
   },
   {
@@ -976,8 +933,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
@@ -1019,8 +976,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
@@ -1145,8 +1102,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: FCCS Resource Limited listed February 22-23, 2027"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -1187,8 +1144,8 @@
     "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-february-8-9-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-12: FCCS Provider Course listed February 8-9, 2027"
+      "last_verified": "2026-11-13",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
     }
   },
   {
@@ -1748,8 +1705,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: Structured Pathways (IDEAS) live event November 17, 2026, 3:00 PM EST, free"
+      "last_verified": "2026-11-13",
+      "verified_against": "AAMC IDEAS Learning Series page, checked 2026-11-13: Structured Pathways webinar listed November 17, 2026, 3:00 PM ET"
     }
   },
   {
@@ -1794,8 +1751,8 @@
     "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
@@ -1837,8 +1794,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official ACA events page, checked 2026-11-11: listed as available on demand through December 31, 2026"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
@@ -1930,8 +1887,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
@@ -1973,8 +1930,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-11",
-      "verified_against": "Official ACA events page, checked 2026-11-11: event listed with the recorded date"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
@@ -2156,53 +2113,6 @@
       "status": "verified",
       "last_verified": "2026-11-09",
       "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09 (page copy crawled 2026-06-08): NEAAHP June 8–11, 2027, Harrisburg confirmed"
-    }
-  },
-  {
-    "id": "pa-hiv-hcv-nov12-2026",
-    "title": "HCV Care & Prevention Across the HIV Continuum",
-    "organization": "Pennsylvania Department of Health",
-    "description": "Live virtual capacity-building session on hepatitis treatment and prevention within the HIV continuum, covering HCV/HIV coinfection, screening, treatment, and prevention strategies. Presented by the MidAtlantic AIDS Education and Training Center.",
-    "categories": [
-      "Public Health",
-      "Community Health",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "HIV Care",
-      "Hepatitis",
-      "Infectious Disease"
-    ],
-    "audiences": [
-      "HIV Care Providers",
-      "Nurses",
-      "Social Workers",
-      "Public Health Professionals"
-    ],
-    "date_display": "November 12, 2026, 9:00 AM–1:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online / Pennsylvania",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "3.5 social work CE hours",
-      "3.5 nursing CNE hours"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Pennsylvania workforce training in HIV and hepatitis care, with nursing and social work CE, directly relevant to community-health practice.",
-    "official_url": "https://www.maaetc.org/events/view/31469",
-    "source_url": "https://www.maaetc.org/events/view/31469",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official MAAETC event page, checked 2026-11-12: virtual HCV/HIV session, Katie Huynh CRNP, 3.5 social work and 3.5 nursing CNE hours"
     }
   },
   {
@@ -2569,8 +2479,8 @@
     "source_url": "https://www.counseling.org/events-education/events/suicide-prevention-intervention-summit",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-10",
-      "verified_against": "Official ACA events page + summit page, checked 2026-11-10: available on demand through Dec. 31, 2026"
+      "last_verified": "2026-11-13",
+      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
     }
   },
   {
