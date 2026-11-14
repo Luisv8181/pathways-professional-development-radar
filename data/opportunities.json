@@ -1,53 +1,5 @@
 [
   {
-    "id": "psu-strategies-2026",
-    "title": "Strategies: Educational Excellence for Health Care Providers and Educators",
-    "organization": "Penn State",
-    "description": "Two-day conference for healthcare professionals and educators across Pennsylvania, with interactive sessions, networking, nursing professional development, and Act 48 credit.",
-    "categories": [
-      "Health Professions Education",
-      "Nursing Education",
-      "Faculty Development"
-    ],
-    "subcategories": [
-      "Teaching",
-      "Curriculum",
-      "Professional Development"
-    ],
-    "audiences": [
-      "Healthcare Educators",
-      "Faculty",
-      "Nurses",
-      "Program Coordinators",
-      "Healthcare Professionals"
-    ],
-    "date_display": "November 12–13, 2026",
-    "registration_deadline": "Late registration: $480 individual (online through October 26; on-site November 12)",
-    "format": "In-person",
-    "region": "State College, PA",
-    "distance_miles": 150,
-    "cost": {
-      "amount": 480,
-      "currency": "USD",
-      "display": "$480 late individual / $405 late team / $380 late Thursday-only"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "8.5 PSNA hours",
-      "8.5 Act 48 hours"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly focused on healthcare education and educator development, with a team-registration option relevant to a professional-development budget.",
-    "official_url": "https://health-education.outreach.psu.edu/register/",
-    "source_url": "https://health-education.outreach.psu.edu/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official PSU Strategies registration page, checked 2026-11-12: late rates $480 individual / $405 team / $380 Thursday-only, on-site November 12; conference November 12-13, 2026"
-    }
-  },
-  {
     "id": "aacn-cbe-2026",
     "title": "CBE Workshop Series: Foundations and Practice",
     "organization": "American Association of Colleges of Nursing",
@@ -236,58 +188,6 @@
     }
   },
   {
-    "id": "geisinger-respiratory-care-nov13-2026",
-    "title": "21st Annual Fall into Step with Respiratory Care",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person respiratory care conference covering adult and pediatric critical care, respiratory disease, mass-casualty respiratory conditions, ICU Liberation, ventilation strategies, and cystic fibrosis updates.",
-    "categories": [
-      "Healthcare Education",
-      "Nursing Education",
-      "Biomedical Sciences",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Respiratory Care",
-      "Critical Care",
-      "Pulmonary Medicine",
-      "Pediatric Care"
-    ],
-    "audiences": [
-      "Respiratory Therapists",
-      "Nurses",
-      "Providers",
-      "Pulmonary Healthcare Team",
-      "Respiratory Therapy Students",
-      "Nursing Students"
-    ],
-    "date_display": "November 13, 2026, 7:30 AM–5:15 PM EST",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Danville, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": 100,
-      "currency": "USD",
-      "display": "$100"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "6 AMA PRA Category 1 Credit",
-      "6 ANCC",
-      "6 Participation Credit"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Regional interprofessional clinical education and workforce training with pediatric and adult critical-care content.",
-    "official_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
-    "source_url": "https://cce.geisinger.edu/content/21st-annual-fall-step-respiratory-care",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
-    }
-  },
-  {
     "id": "geisinger-mi-nov16-2026",
     "title": "Motivational Interviewing Workshop - November 16, 2026",
     "organization": "Geisinger College of Health Sciences",
@@ -326,8 +226,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -369,8 +269,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -412,8 +312,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -455,8 +355,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -498,8 +398,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -541,8 +441,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -584,8 +484,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -625,8 +525,48 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
+    }
+  },
+  {
+    "id": "geisinger-stimulants-sleep-medicine-2026",
+    "title": "Stimulants in Sleep Medicine",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "Geisinger CE session on stimulants in sleep medicine: history of stimulants and their side effects, presented by Evelyn Mai, MD.",
+    "categories": [
+      "Healthcare Education",
+      "Biomedical Sciences"
+    ],
+    "subcategories": [
+      "Sleep Medicine",
+      "Pharmacology"
+    ],
+    "audiences": [
+      "Healthcare Professionals",
+      "Physicians"
+    ],
+    "date_display": "November 17, 2026, 12:30–2:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Wilkes-Barre, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "Price not listed"
+    },
+    "ce_available": false,
+    "ce_types": [],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Local clinical education on stimulant pharmacology for sleep medicine; relevant to clinical workforce development.",
+    "official_url": "https://cce.geisinger.edu/content/stimulants-sleep-medicine-0",
+    "source_url": "https://cce.geisinger.edu/content/stimulants-sleep-medicine-0",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE event page, checked 2026-11-14: session listed November 17, 2026, 12:30-2:00 PM EST, in-person at Geisinger South Wilkes-Barre; CE credits and price not stated on the page"
     }
   },
   {
@@ -933,8 +873,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -976,8 +916,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -1102,8 +1042,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -1144,49 +1084,8 @@
     "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-february-8-9-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-13: event listed with matching date/time; November 12 HICS training no longer listed (event passed)"
-    }
-  },
-  {
-    "id": "geisinger-ap-skills-refresher-2026",
-    "title": "AP Skills Refresher Course - November 13, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "Advanced-practice skills refresher course listed on the Geisinger CE calendar: November 13, 2026, 8:00 AM–4:00 PM.",
-    "categories": [
-      "Healthcare Education",
-      "Nursing Education",
-      "Professionalism"
-    ],
-    "subcategories": [
-      "Skills Training",
-      "Advanced Practice"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Nurses"
-    ],
-    "date_display": "November 13, 2026, 8:00 AM–4:00 PM",
-    "registration_deadline": null,
-    "format": "not listed",
-    "region": "not listed",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Skills refresher for advanced-practice clinicians — relevant to clinical workforce development.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "needs_review",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-09: course still not listed on the calendar and no event page found (third consecutive day); Nov 13 date has not passed, so the record is kept pending confirmation"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-14: event listed with matching date/time; November 13 respiratory care and AP skills refresher no longer listed (events passed)"
     }
   },
   {
@@ -1490,8 +1389,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: MSPOT live event December 1, 2026, 2:00 PM EST, free"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-14: event listed with matching date/time"
     }
   },
   {
@@ -1705,8 +1604,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "AAMC IDEAS Learning Series page, checked 2026-11-13: Structured Pathways webinar listed November 17, 2026, 3:00 PM ET"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-14: event listed with matching date/time"
     }
   },
   {
@@ -1751,8 +1650,8 @@
     "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -1794,8 +1693,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -1887,8 +1786,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -1930,8 +1829,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -1973,8 +1872,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/upcoming-webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: Designing for All opening session December 2, 2026, 3:30 PM EST, free"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-14: event listed with matching date/time"
     }
   },
   {
@@ -2017,8 +1916,8 @@
     "source_url": "https://www.aamc.org/about-us/medical-education/merc-workshop",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: MERC Series 4 workshops November 23 and November 30, 2026, 3:00 PM EST, $125 each; December sessions also listed (December 7, 14, and 21, 2026)"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-14: MERC Series 4 workshops November 23 and November 30, 2026, 3:00 PM EST, $125 each"
     }
   },
   {
@@ -2436,8 +2335,8 @@
     "source_url": "https://www.aamc.org/services/eras-institutions/eras-insights/eras-insights-application-trends-and-new-data-tools",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-12: ERAS DWS analytics live event November 18, 2026, 1:00 PM EST, free"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-14: event listed with matching date/time"
     }
   },
   {
@@ -2479,8 +2378,8 @@
     "source_url": "https://www.counseling.org/events-education/events/suicide-prevention-intervention-summit",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-13",
-      "verified_against": "ACA events listing (counseling.org/events-education/events), checked 2026-11-13: event listed with matching date/time; no new ACA webinars found"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-14: event listed with matching date"
     }
   },
   {
@@ -2524,8 +2423,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/from-away-rotations-to-residency-planning-using-the-vslo-program-and-residency-explorer-tool-together",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-12",
-      "verified_against": "Official AAMC Elevate product page (rendered), checked 2026-11-12: live web event December 2, 2026, 7:00 PM EST; interactive webinar for third-year medical students preparing for away rotations and beginning their residency application journey"
+      "last_verified": "2026-11-14",
+      "verified_against": "Official AAMC Elevate upcoming-webinars listing, checked 2026-11-14: event listed with matching date/time"
     }
   },
   {
