@@ -1,38 +1,5 @@
 [
   {
-    "id": "hosa-health-wellness-career-2026",
-    "title": "NASM Health & Wellness Career Pathways",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual exploration of health and wellness career pathways.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration",
-      "Health & Wellness"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "November 18, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "needs_review",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-09: still absent from the upcoming-webinars list (third consecutive day); appears in the 2026-2027 webinars archive section; November 18 date has not passed, so the record is kept pending confirmation"
-    }
-  },
-  {
     "id": "geisinger-aim-hi-2027",
     "title": "Aspirations in Medicine and Healthcare Initiatives (AiM HI)",
     "organization": "Geisinger",
@@ -501,8 +468,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-15: listed in upcoming webinars, November 17, 2026"
+      "last_verified": "2026-11-16",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
     }
   },
   {
@@ -533,8 +500,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-15: listed in upcoming webinars, December 1, 2026"
+      "last_verified": "2026-11-16",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
     }
   },
   {
@@ -565,8 +532,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-15: listed in upcoming webinars, December 8, 2026"
+      "last_verified": "2026-11-16",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
     }
   },
   {
@@ -597,8 +564,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-15: listed in upcoming webinars, December 10, 2026"
+      "last_verified": "2026-11-16",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
     }
   },
   {
@@ -629,8 +596,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-15: listed in upcoming webinars, December 17, 2026"
+      "last_verified": "2026-11-16",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
     }
   },
   {
@@ -661,8 +628,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official hosa.org webinars page, checked 2026-11-15: listed in upcoming webinars, December 16, 2026"
+      "last_verified": "2026-11-16",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
     }
   },
   {
