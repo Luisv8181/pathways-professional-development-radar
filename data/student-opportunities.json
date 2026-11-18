@@ -441,38 +441,6 @@
     "registration_deadline": "Application due November 30, 2026; reference letters due December 7, 2026"
   },
   {
-    "id": "hosa-stem-in-action-2026",
-    "title": "STEM in Action: Where Technology Meets Healthcare",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual webinar on where technology meets healthcare, presented by AHA / CBET / AAMI.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students"
-    ],
-    "date_display": "November 17, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
-    }
-  },
-  {
     "id": "hosa-shadow-doctors-2026",
     "title": "Who Said High Schoolers Can't Shadow Doctors?",
     "organization": "HOSA – Future Health Professionals",
@@ -500,8 +468,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
     }
   },
   {
@@ -532,8 +500,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
     }
   },
   {
@@ -564,8 +532,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
     }
   },
   {
@@ -596,8 +564,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
     }
   },
   {
@@ -628,8 +596,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-16: title and date match the feed; no new HOSA webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
     }
   },
   {
@@ -659,8 +627,8 @@
     "eligibility": "Open to students preparing for the MCAT exam; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official AAMC Elevate product page, checked 2026-11-15: December 1, 2026, 2:00 PM EST, free, 60 minutes"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP upcoming-events calendar, checked 2026-11-18: Preparing for the MCAT Exam, December 1, 2026, 2:00-3:00 PM ET matches the feed"
     }
   },
   {
@@ -692,6 +660,104 @@
       "status": "verified",
       "last_verified": "2026-11-13",
       "verified_against": "Official AAMC Upcoming Premed Webinars page, checked 2026-11-13: 2027 MCAT Test Day Q&A listed January 7, 2:00 PM ET, for students registered for a 2027 MCAT exam"
+    }
+  },
+  {
+    "id": "hosa-choosing-major-premed-2026",
+    "title": "Choosing the Right Major for Pre-Med",
+    "organization": "HOSA – Future Health Professionals",
+    "description": "Virtual webinar for high school students in grades 9-11 and their parents on choosing a college major for the pre-med track: how selective colleges evaluate intended majors, pros and cons of science and non-science majors, and building a clear academic direction, presented by CollegeAdvisor.",
+    "categories": [
+      "HOSA",
+      "Healthcare Careers",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "HOSA Members",
+      "Health Science Students",
+      "Parents"
+    ],
+    "date_display": "November 18, 2026",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": 0,
+      "currency": "USD",
+      "display": "Free"
+    },
+    "official_url": "https://hosa.org/webinars/",
+    "source_url": "https://hosa.org/webinars/",
+    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-18",
+      "verified_against": "Official HOSA webinars page (hosa.org/webinars) and CollegeAdvisor registration page, checked 2026-11-18: November 18, 2026, presented by CollegeAdvisor, for grades 9-11 and parents; time not listed"
+    }
+  },
+  {
+    "id": "naahp-columbia-nutrition-webinar-2026-27",
+    "title": "Columbia University One-Year MS in Human Nutrition | Webinar & Alumni Panel Discussion",
+    "organization": "Columbia University",
+    "description": "Recurring webinar and alumni panel discussion on Columbia University's One-Year MS in Human Nutrition program, listed on the NAAHP calendar. Sessions: December 2, 2026; January 13, February 24, March 10, April 28, May 26, and June 16, 2027; 5:00-6:00 PM ET each session.",
+    "categories": [
+      "Health Professions Advising",
+      "Graduate Programs",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "College Students",
+      "Pre-Health Students",
+      "Health Professions Advisors"
+    ],
+    "date_display": "December 2, 2026; January 13, February 24, March 10, April 28, May 26, June 16, 2027; 5:00-6:00 PM ET each session",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://www.naahp.org/calendar/event-description?CalendarEventKey=7188ffec-0be2-47a0-863d-019fb4944a09&Home=%2fcalendar",
+    "source_url": "https://www.naahp.org/calendar",
+    "eligibility": "Student-focused NAAHP calendar programming; check the official event page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP upcoming-events calendar, checked 2026-11-18: seven sessions listed December 2, 2026 through June 16, 2027, 5:00-6:00 PM ET; price not listed"
+    }
+  },
+  {
+    "id": "naahp-kpsom-premed-workshop-2026",
+    "title": "KPSOM Pre-Med Workshop: KPSOM Student Experience",
+    "organization": "Kaiser Permanente Bernard J. Tyson School of Medicine",
+    "description": "Virtual pre-med workshop on the Kaiser Permanente School of Medicine student experience, listed on the NAAHP calendar.",
+    "categories": [
+      "Health Professions Advising",
+      "Medical School Advising",
+      "Career Exploration"
+    ],
+    "audiences": [
+      "High School Students",
+      "College Students",
+      "Pre-Med Students"
+    ],
+    "date_display": "December 9, 2026, 5:30-6:30 PM PT (8:30-9:30 PM EST)",
+    "format": "Online",
+    "region": "Online",
+    "cost": {
+      "amount": null,
+      "currency": "USD",
+      "display": "not listed"
+    },
+    "official_url": "https://www.naahp.org/calendar/event-description?CalendarEventKey=8d1890b3-3713-4b5c-a751-019d0c39e50f&Home=%2fcalendar",
+    "source_url": "https://www.naahp.org/calendar",
+    "eligibility": "Student-focused NAAHP calendar programming; check the official event page for registration details.",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP upcoming-events calendar, checked 2026-11-18: December 9, 2026, 5:30-6:30 PM PT, virtual via Zoom; price not listed"
     }
   }
 ]

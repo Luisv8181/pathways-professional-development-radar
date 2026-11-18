@@ -39,8 +39,8 @@
     "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official AACN Essentials regional workshops page, checked 2026-11-15: November 18-19, 2026, 12:00-4:00 PM ET each day; up to 3.75 CEUs per day"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official AACN Essentials regional workshops page, checked 2026-11-18: November 18-19, 2026, 12:00-4:00 PM ET each day matches the feed"
     }
   },
   {
@@ -183,51 +183,8 @@
     "source_url": "https://www.naahp.org/caahp/meetings/recentcommunityeventsdashboard",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09: CAAHP April 7–10, 2027, Minneapolis confirmed; CFP deadline October 16, 2026 has passed; attendee registration opens January 2027"
-    }
-  },
-  {
-    "id": "geisinger-mi-nov16-2026",
-    "title": "Motivational Interviewing Workshop - November 16, 2026",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "In-person Motivational Interviewing workshop focused on shared decision making and behavior change.",
-    "categories": [
-      "Counseling",
-      "Healthcare Education",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Motivational Interviewing",
-      "Behavior Change",
-      "Shared Decision Making"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Counselors",
-      "Clinicians"
-    ],
-    "date_display": "November 16, 2026, 12:00–4:00 PM EST",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Port Matilda, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": true,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to counseling, communication, behavior change, and clinical training.",
-    "official_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-18: CAAHP Regional Meeting April 7-10, 2027, Minneapolis, MN matches the feed (site calls it a Regional Meeting)"
     }
   },
   {
@@ -269,8 +226,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -312,8 +269,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -355,8 +312,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -398,8 +355,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -441,8 +398,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -484,8 +441,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -525,93 +482,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
-    }
-  },
-  {
-    "id": "geisinger-stimulants-sleep-medicine-2026",
-    "title": "Stimulants in Sleep Medicine",
-    "organization": "Geisinger College of Health Sciences",
-    "description": "Geisinger CE session on stimulants in sleep medicine: history of stimulants and their side effects, presented by Evelyn Mai, MD.",
-    "categories": [
-      "Healthcare Education",
-      "Biomedical Sciences"
-    ],
-    "subcategories": [
-      "Sleep Medicine",
-      "Pharmacology"
-    ],
-    "audiences": [
-      "Healthcare Professionals",
-      "Physicians"
-    ],
-    "date_display": "November 17, 2026, 12:30–2:00 PM EST",
-    "registration_deadline": null,
-    "format": "In-person",
-    "region": "Wilkes-Barre, PA",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Local clinical education on stimulant pharmacology for sleep medicine; relevant to clinical workforce development.",
-    "official_url": "https://cce.geisinger.edu/content/stimulants-sleep-medicine-0",
-    "source_url": "https://cce.geisinger.edu/content/stimulants-sleep-medicine-0",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
-    }
-  },
-  {
-    "id": "pa-hiv-benefits-part2-nov16-2026",
-    "title": "Public Benefits for People with HIV - Part 2",
-    "organization": "Pennsylvania Department of Health",
-    "description": "Live virtual training for Ryan White case managers and HIV-service navigators, continuing the Public Benefits series for people with HIV.",
-    "categories": [
-      "Public Health",
-      "Community Health",
-      "Health Equity",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "HIV Care",
-      "Benefits Navigation",
-      "Case Management"
-    ],
-    "audiences": [
-      "Ryan White Case Managers",
-      "SNNLP Navigators",
-      "Pennsylvania Department of Health Employees",
-      "CMHD Employees"
-    ],
-    "date_display": "November 16–17, 2026, 10:00 AM–12:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online / Pennsylvania",
-    "distance_miles": null,
-    "cost": {
-      "amount": null,
-      "currency": "USD",
-      "display": "Price not listed"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Supports community-based case management and access-to-care navigation for underserved populations.",
-    "official_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "source_url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/hiv/education-and-training",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official PA DOH HIV education and training page, checked 2026-11-15: listed under Medical Case Management Training Series, November 16-17, 2026, 10:00 AM-12:00 PM"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -786,8 +658,8 @@
     "source_url": "https://aamc.elevate.commpartners.com/products/pathways-to-medicine-evolving-practices-and-innovations-ideas",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official AAMC Elevate IDEAS series page, checked 2026-11-15: December 15, 2026, 2:00 PM EST, free"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official AAMC IDEAS series page, checked 2026-11-18: December 15, 2026, 2:00 PM EST matches the feed"
     }
   },
   {
@@ -873,8 +745,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-18: listed events match the feed; no new ACA events"
     }
   },
   {
@@ -916,8 +788,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-18: listed events match the feed; no new ACA events"
     }
   },
   {
@@ -1042,8 +914,8 @@
     "source_url": "https://cce.geisinger.edu/calendar/upcoming-events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -1084,8 +956,8 @@
     "source_url": "https://cce.geisinger.edu/content/fundamentals-critical-care-support-provider-course-february-8-9-2027",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-16: dates/times match the feed; no new Geisinger events listed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE upcoming-events calendar, checked 2026-11-18: dates/times match the feed; SCCM ICU Liberation Course added"
     }
   },
   {
@@ -1389,8 +1261,8 @@
     "source_url": "https://www.aamc.org/about-us/mission-areas/medical-education/curriculum-resources/establish-your-ci/webinars",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official AAMC Building Better Curriculum webinars page, checked 2026-11-15: December 1, 2026, 2:00 PM EST"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official AAMC Elevate upcoming webinars listing, checked 2026-11-18: December 1, 2026, 2:00 PM EST matches the feed"
     }
   },
   {
@@ -1562,99 +1434,6 @@
     }
   },
   {
-    "id": "aamc-ideas-structured-pathways-2026",
-    "title": "AAMC IDEAS Webinar: Structured Pathways - Post-Baccalaureate, Linkage, and Community-Responsive Pathway Models",
-    "organization": "Association of American Medical Colleges",
-    "description": "Second webinar in the 'Pathways to Medicine: Evolving Practices and Innovations' series, developed with Drexel University College of Medicine: how post-baccalaureate programs, linkage agreements, and community-responsive pathway models operate, how agreements are structured, how outcomes are measured and tracked, and lessons for sustainability.",
-    "categories": [
-      "Pathway Programs",
-      "Post-Baccalaureate",
-      "Medical Education",
-      "Health Professions Advising"
-    ],
-    "subcategories": [
-      "Post-Baccalaureate Programs",
-      "Linkage Agreements",
-      "Community-Responsive Pathways",
-      "Program Outcomes"
-    ],
-    "audiences": [
-      "Pathway Program Directors",
-      "Health Professions Advisors",
-      "Medical Educators",
-      "Program Leaders",
-      "Administrators"
-    ],
-    "date_display": "November 17, 2026, 3:00 PM EST",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly on the Pathways thesis: how post-baccalaureate, linkage, and community-responsive pathway models are structured, measured, and sustained, from the national medical-education body.",
-    "official_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
-    "source_url": "https://aamc.elevate.commpartners.com/products/structured-pathways-post-baccalaureate-linkage-and-community-responsive-pathway-models-ideas?packages[]=262720&in_package=262720&sort_by=package_order&ref=package&ref_id=262720",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official AAMC Elevate upcoming webinars listing, checked 2026-11-16: live event dates match the feed; no new AAMC webinars"
-    }
-  },
-  {
-    "id": "aca-friend-frustrated-client-2026",
-    "title": "ACA Webinar: The Friend Frustrated Client - An Attachment-Informed Intervention for Adult Friendship Concerns",
-    "organization": "American Counseling Association",
-    "description": "Live webinar introducing a framework for friendship literacy: the Secure Base of Friendship and the Seven-Step Secure Friendship Arc, an attachment-based intervention adapted from Emotionally Focused Therapy for platonic rupture, walked through with a case vignette.",
-    "categories": [
-      "Counseling",
-      "Behavioral Health",
-      "Professional Development"
-    ],
-    "subcategories": [
-      "Attachment",
-      "Friendship",
-      "Clinical Intervention",
-      "Relational Skills"
-    ],
-    "audiences": [
-      "Counselors",
-      "Counselor Educators",
-      "Behavioral Health Professionals"
-    ],
-    "date_display": "November 17, 2026, 12:00-1:30 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 22.5,
-      "currency": "USD",
-      "display": "$22.50 ACA member / $45 nonmember"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "1.5 credit hours"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Counseling professional development on attachment-informed relational intervention and friendship grief, relevant to counselor formation and client relational skills.",
-    "official_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
-    "source_url": "https://www.counseling.org/events-education/webinars/friend-frustrated-client-attachment-informed-intervention-for-adult-friendship-concerns",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
-    }
-  },
-  {
     "id": "aca-pathways-to-healing-2026",
     "title": "Pathways to Healing: Navigating Grief, Loss and Trauma",
     "organization": "American Counseling Association",
@@ -1693,8 +1472,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-18: listed events match the feed; no new ACA events"
     }
   },
   {
@@ -1742,8 +1521,8 @@
     "source_url": "https://www.waahp.org/regional-meeting",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official WAAHP 2027 Regional Meeting page, checked 2026-11-09: May 27–29, 2027, Westin San Diego Gaslamp Quarter; CFP closed November 8, 2026; travel grants close November 30, 2026; recipients notified December 15, 2026; early bird registration January 28–March 31, 2027; hotel block closes May 5, 2027; registration closes May 20, 2027"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-18: WAAHP Regional Meeting May 27-29, 2027, San Diego, CA matches the feed (site calls it a Regional Meeting)"
     }
   },
   {
@@ -1786,8 +1565,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-18: listed events match the feed; no new ACA events"
     }
   },
   {
@@ -1829,8 +1608,8 @@
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-18: listed events match the feed; no new ACA events"
     }
   },
   {
@@ -1916,8 +1695,8 @@
     "source_url": "https://www.aamc.org/about-us/medical-education/merc-workshop",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official AAMC Elevate upcoming webinars listing, checked 2026-11-16: live event dates match the feed; no new AAMC webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official AAMC Elevate upcoming webinars listing, checked 2026-11-18: November 23 and 30, 2026 workshops are MERC Series 4 sessions, covered by this series record"
     }
   },
   {
@@ -1963,8 +1742,8 @@
     "source_url": "https://www.naahp.org/meetings/meetings-regional",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09 (page copy crawled 2026-06-08): SAAHP June 1–4, 2027, San Antonio confirmed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-18: SAAHP Regional Meeting June 1-4, 2027, San Antonio, TX matches the feed (site calls it a Regional Meeting)"
     }
   },
   {
@@ -2010,8 +1789,8 @@
     "source_url": "https://www.naahp.org/meetings/meetings-regional",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-09 (page copy crawled 2026-06-08): NEAAHP June 8–11, 2027, Harrisburg confirmed"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official NAAHP 2027 Regional Meetings page, checked 2026-11-18: NEAAHP Regional Meeting June 8-11, 2027, Harrisburg, PA matches the feed (site calls it a Regional Meeting)"
     }
   },
   {
@@ -2335,8 +2114,8 @@
     "source_url": "https://www.aamc.org/services/eras-institutions/eras-insights/eras-insights-application-trends-and-new-data-tools",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official AAMC Elevate upcoming webinars listing, checked 2026-11-16: live event dates match the feed; no new AAMC webinars"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official AAMC Elevate upcoming webinars listing, checked 2026-11-18: November 18, 2026, 1:00 PM EST matches the feed"
     }
   },
   {
@@ -2378,8 +2157,8 @@
     "source_url": "https://www.counseling.org/events-education/events/suicide-prevention-intervention-summit",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-16: all listed events match the feed; no new ACA events"
+      "last_verified": "2026-11-18",
+      "verified_against": "Official ACA events listing (counseling.org/events-education/events), checked 2026-11-18: listed events match the feed; no new ACA events"
     }
   },
   {
@@ -2510,6 +2289,58 @@
       "status": "verified",
       "last_verified": "2026-11-16",
       "verified_against": "Official AACN ELNEC fall update article, checked 2026-11-16: December 9, 2026, 12:00 PM ET panel webinar; registration via City of Hope Zoom; no price or CE listed"
+    }
+  },
+  {
+    "id": "geisinger-sccm-icu-liberation-2027",
+    "title": "SCCM ICU Liberation Course - February 15-16, 2027",
+    "organization": "Geisinger College of Health Sciences",
+    "description": "In-person SCCM ICU Liberation course on implementing the ABCDEF bundle: pain assessment and management, spontaneous awakening and breathing trials, choice of analgesia and sedation, delirium assessment and management, early mobility, and family engagement, with hands-on simulation sessions.",
+    "categories": [
+      "Healthcare Education",
+      "Simulation"
+    ],
+    "subcategories": [
+      "Critical Care",
+      "ICU Liberation",
+      "ABCDEF Bundle",
+      "Delirium",
+      "Early Mobility"
+    ],
+    "audiences": [
+      "Physicians",
+      "Advanced Practitioners",
+      "Nurses",
+      "Respiratory Therapists",
+      "Pharmacists",
+      "Physical Therapists",
+      "Occupational Therapists"
+    ],
+    "date_display": "February 15–16, 2027, 8:00 AM–4:00 PM EST",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Scranton, PA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 250,
+      "currency": "USD",
+      "display": "$250"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "12.5 AMA PRA Category 1 Credits",
+      "12.5 AAPA Category 1 CME",
+      "12.5 ANCC contact hours"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "medium",
+    "pathways_reason": "Interprofessional critical-care training with simulation, relevant to clinical education and workforce development.",
+    "official_url": "https://cce.geisinger.edu/content/sccm-icu-liberation-course-february-15-16-2027",
+    "source_url": "https://cce.geisinger.edu/content/sccm-icu-liberation-course-february-15-16-2027",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-18",
+      "verified_against": "Official Geisinger CE course page, checked 2026-11-18: February 15-16, 2027, 8:00 AM-4:00 PM EST, in-person at Geisinger Community Medical Center Auditorium, Scranton, PA; $250; 12.5 AMA/AAPA/ANCC credits"
     }
   }
 ]
