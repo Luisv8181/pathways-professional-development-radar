@@ -235,8 +235,8 @@
     "eligibility": "High school students age 15+ by June 14, 2027 (16+ for some research sites); high school seniors eligible if not enrolled in college courses during the program. Housing is not provided.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-09",
-      "verified_against": "Official UPMC Hillman Academy apply page, checked 2026-11-09: applications December 3, 2026–February 14, 2027; program June 14–July 30, 2027; free with stipends for qualified underrepresented students"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official UPMC Hillman Academy apply page, checked 2026-11-19: applications December 3, 2026-February 14, 2027; program June 14-July 30, 2027; free, stipends for qualified students"
     },
     "registration_deadline": "Applications open December 3, 2026; deadline February 14, 2027"
   },
@@ -435,8 +435,8 @@
     "eligibility": "Postbaccalaureate applicants to the NCI iCURE research fellowship; check the official program page for eligibility details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-15",
-      "verified_against": "Official NCI Train at NCI iCURE page, checked 2026-11-15: application due November 30, 2026; reference letters due December 7, 2026"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official NCI iCURE program page, checked 2026-11-19: application due November 30, 2026; reference letters due December 7, 2026; October 20, 2026 application webinar recording and slides available"
     },
     "registration_deadline": "Application due November 30, 2026; reference letters due December 7, 2026"
   },
@@ -468,8 +468,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-18",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-19: December 1, 2026, presented by Projects Abroad"
     }
   },
   {
@@ -500,8 +500,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-18",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-19: December 8, 2026, presented by G-W Publisher"
     }
   },
   {
@@ -532,8 +532,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-18",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-19: December 10, 2026, presented by Carolina Science"
     }
   },
   {
@@ -564,8 +564,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-18",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-19: December 17, 2026, presented by the American Red Cross"
     }
   },
   {
@@ -596,8 +596,8 @@
     "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
     "verification": {
       "status": "verified",
-      "last_verified": "2026-11-18",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars), checked 2026-11-18: title and date match the feed; new webinar Choosing the Right Major for Pre-Med added"
+      "last_verified": "2026-11-19",
+      "verified_against": "Official HOSA webinars page, checked 2026-11-19: December 16, 2026, presented by UWorld"
     }
   },
   {
@@ -660,39 +660,6 @@
       "status": "verified",
       "last_verified": "2026-11-13",
       "verified_against": "Official AAMC Upcoming Premed Webinars page, checked 2026-11-13: 2027 MCAT Test Day Q&A listed January 7, 2:00 PM ET, for students registered for a 2027 MCAT exam"
-    }
-  },
-  {
-    "id": "hosa-choosing-major-premed-2026",
-    "title": "Choosing the Right Major for Pre-Med",
-    "organization": "HOSA – Future Health Professionals",
-    "description": "Virtual webinar for high school students in grades 9-11 and their parents on choosing a college major for the pre-med track: how selective colleges evaluate intended majors, pros and cons of science and non-science majors, and building a clear academic direction, presented by CollegeAdvisor.",
-    "categories": [
-      "HOSA",
-      "Healthcare Careers",
-      "Career Exploration"
-    ],
-    "audiences": [
-      "High School Students",
-      "HOSA Members",
-      "Health Science Students",
-      "Parents"
-    ],
-    "date_display": "November 18, 2026",
-    "format": "Online",
-    "region": "Online",
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "official_url": "https://hosa.org/webinars/",
-    "source_url": "https://hosa.org/webinars/",
-    "eligibility": "Student-focused HOSA programming; check the official webinar page for registration details.",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-18",
-      "verified_against": "Official HOSA webinars page (hosa.org/webinars) and CollegeAdvisor registration page, checked 2026-11-18: November 18, 2026, presented by CollegeAdvisor, for grades 9-11 and parents; time not listed"
     }
   },
   {
