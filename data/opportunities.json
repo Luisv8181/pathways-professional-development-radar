@@ -1,49 +1,5 @@
 [
   {
-    "id": "aacn-cbe-2026",
-    "title": "CBE Workshop Series: Foundations and Practice",
-    "organization": "American Association of Colleges of Nursing",
-    "description": "Two-day virtual workshop series covering competency-based education foundations, curriculum design, assessment, and implementation strategies.",
-    "categories": [
-      "Nursing Education",
-      "Health Professions Education"
-    ],
-    "subcategories": [
-      "Competency-Based Education",
-      "Curriculum",
-      "Assessment"
-    ],
-    "audiences": [
-      "Nursing Faculty",
-      "Educators",
-      "Program Leaders"
-    ],
-    "date_display": "November 18–19, 2026, 12:00–4:00 PM ET each day",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 249,
-      "currency": "USD",
-      "display": "$149 AACN member / $249 non-member per day; both days $249 member / $349 non-member"
-    },
-    "ce_available": true,
-    "ce_types": [
-      "Up to 3.75 Nursing Continuing Professional Development CEUs per day; 7.5 for both days"
-    ],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Directly applicable to building measurable educational pathways, competency frameworks, assessment systems, and curriculum progression.",
-    "official_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
-    "source_url": "https://www.aacnnursing.org/essentials/webinars-programs/regional-workshops/11-18-19-26",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-19",
-      "verified_against": "Official AACN conferences and webinars listing, checked 2026-11-19: November 18-19, 2026, 12:00-4:00 PM ET each day, virtual workshop"
-    }
-  },
-  {
     "id": "aacn-transform-2026",
     "title": "Transform 2026",
     "organization": "American Association of Colleges of Nursing",
@@ -64,7 +20,7 @@
       "Deans",
       "Program Leaders"
     ],
-    "date_display": "December 3–5, 2026",
+    "date_display": "December 3\u20135, 2026",
     "registration_deadline": "Early registration ended November 4, 2026; cancellation deadline November 19, 2026",
     "format": "In-person",
     "region": "Indianapolis, IN",
@@ -115,7 +71,7 @@
       "County Administrators",
       "System-of-Care Professionals"
     ],
-    "date_display": "March–November 2027; sessions listed through November",
+    "date_display": "March\u2013November 2027; sessions listed through November",
     "registration_deadline": "October 6, 2026 interest survey",
     "format": "Hybrid",
     "region": "Harrisburg, PA / Online",
@@ -164,7 +120,7 @@
       "Student Success Professionals",
       "Researchers"
     ],
-    "date_display": "April 7–10, 2027",
+    "date_display": "April 7\u201310, 2027",
     "registration_deadline": "Attendee registration opens January 2027",
     "format": "In-person",
     "region": "Minneapolis, MN",
@@ -207,7 +163,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 20, 2026, 9:00 AM–1:00 PM EST",
+    "date_display": "November 20, 2026, 9:00 AM\u20131:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -250,7 +206,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "November 23, 2026, 12:00–4:00 PM EST",
+    "date_display": "November 23, 2026, 12:00\u20134:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -293,7 +249,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 2, 2026, 9:00 AM–1:00 PM EST",
+    "date_display": "December 2, 2026, 9:00 AM\u20131:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -336,7 +292,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 4, 2026, 12:00–4:00 PM EST",
+    "date_display": "December 4, 2026, 12:00\u20134:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -379,7 +335,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 11, 2026, 12:00–4:00 PM EST",
+    "date_display": "December 11, 2026, 12:00\u20134:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -422,7 +378,7 @@
       "Counselors",
       "Clinicians"
     ],
-    "date_display": "December 14, 2026, 12:00–4:00 PM EST",
+    "date_display": "December 14, 2026, 12:00\u20134:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Port Matilda, PA",
@@ -465,7 +421,7 @@
       "Clinical Leaders",
       "Healthcare Professionals"
     ],
-    "date_display": "January 20, 2027, 8:30 AM–4:30 PM EST",
+    "date_display": "January 20, 2027, 8:30 AM\u20134:30 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "not listed",
@@ -523,7 +479,7 @@
     "ce_types": [],
     "abstract_or_cfp": true,
     "pathways_relevance": "high",
-    "pathways_reason": "Free opioid/addiction-crisis conference with open abstract submission — directly relevant to behavioral health professional development.",
+    "pathways_reason": "Free opioid/addiction-crisis conference with open abstract submission \u2014 directly relevant to behavioral health professional development.",
     "official_url": "http://med.psu.edu/departments-faculty/addiction-center-for-translation/conference",
     "source_url": "http://med.psu.edu/departments-faculty/addiction-center-for-translation/conference",
     "verification": {
@@ -740,7 +696,7 @@
     "ce_types": [],
     "abstract_or_cfp": true,
     "pathways_relevance": "high",
-    "pathways_reason": "SUD/dual-diagnosis training summit with an open call for proposals — actionable now.",
+    "pathways_reason": "SUD/dual-diagnosis training summit with an open call for proposals \u2014 actionable now.",
     "official_url": "https://www.counseling.org/events-education/events",
     "source_url": "https://www.counseling.org/events-education/events",
     "verification": {
@@ -878,9 +834,9 @@
   },
   {
     "id": "geisinger-fccs-resource-limited-2027",
-    "title": "FCCS Resource Limited - February 22–23, 2027",
+    "title": "FCCS Resource Limited - February 22\u201323, 2027",
     "organization": "Geisinger College of Health Sciences",
-    "description": "SCCM Fundamentals of Critical Care Support course tailored to resource-limited settings, listed on the Geisinger CE calendar: February 22–23, 2027, 7:30 AM–4:00 PM each day.",
+    "description": "SCCM Fundamentals of Critical Care Support course tailored to resource-limited settings, listed on the Geisinger CE calendar: February 22\u201323, 2027, 7:30 AM\u20134:00 PM each day.",
     "categories": [
       "Healthcare Education",
       "Nursing Education"
@@ -895,7 +851,7 @@
       "Physicians",
       "PAs"
     ],
-    "date_display": "February 22–23, 2027, 7:30 AM–4:00 PM",
+    "date_display": "February 22\u201323, 2027, 7:30 AM\u20134:00 PM",
     "registration_deadline": null,
     "format": "not listed",
     "region": "not listed",
@@ -922,7 +878,7 @@
     "id": "geisinger-fccs-provider-2027",
     "title": "Fundamentals of Critical Care Support Provider Course - February 8-9, 2027",
     "organization": "Geisinger College of Health Sciences",
-    "description": "SCCM Fundamentals of Critical Care Support (FCCS) provider course, listed on the Geisinger CE calendar: February 8–9, 2027, 7:00 AM–4:30 PM each day, at Geisinger Wyoming Valley Medical Center, Wilkes-Barre, PA.",
+    "description": "SCCM Fundamentals of Critical Care Support (FCCS) provider course, listed on the Geisinger CE calendar: February 8\u20139, 2027, 7:00 AM\u20134:30 PM each day, at Geisinger Wyoming Valley Medical Center, Wilkes-Barre, PA.",
     "categories": [
       "Healthcare Education",
       "Nursing Education"
@@ -937,7 +893,7 @@
       "Physicians",
       "PAs"
     ],
-    "date_display": "February 8–9, 2027, 7:00 AM–4:30 PM",
+    "date_display": "February 8\u20139, 2027, 7:00 AM\u20134:30 PM",
     "registration_deadline": null,
     "format": "not listed",
     "region": "not listed",
@@ -961,54 +917,10 @@
     }
   },
   {
-    "id": "phlf-2026",
-    "title": "2026 Public Health Learning Forum",
-    "organization": "Public Health Foundation",
-    "description": "Free fully virtual forum hosted by the Public Health Foundation, November 16–19, 2026, on workforce development, quality improvement, and performance management for the public health workforce. Sessions include academic-practice collaboration, QI culture leadership, navigating workforce and funding shifts, and AI implementation in public health. Registration via the TRAIN Learning Network.",
-    "categories": [
-      "Public Health",
-      "Healthcare Education",
-      "Workforce Development"
-    ],
-    "subcategories": [
-      "Workforce Development",
-      "Quality Improvement",
-      "Performance Management",
-      "AI in Healthcare"
-    ],
-    "audiences": [
-      "Public Health Professionals",
-      "Program Staff",
-      "Healthcare Professionals"
-    ],
-    "date_display": "November 16–19, 2026 (fully virtual)",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "high",
-    "pathways_reason": "Free virtual workforce-development event covering QI, performance management, and AI in public health — relevant to Pathways program staff and community-health workforce capacity.",
-    "official_url": "https://phf.org/events/2026-public-health-learning-forum/",
-    "source_url": "https://phf.org/events/2026-public-health-learning-forum/",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-16",
-      "verified_against": "Official PHF event page, checked 2026-11-16: November 16-19, 2026, fully virtual, free, sessions as listed"
-    }
-  },
-  {
     "id": "changemeded-2027",
-    "title": "ChangeMedEd® 2027",
+    "title": "ChangeMedEd\u00ae 2027",
     "organization": "American Medical Association",
-    "description": "Annual medical-education innovation conference from the AMA ChangeMedEd initiative, September 9–11, 2027 in Chicago, IL, covering medical-education innovation, coaching, competency-based education, and health-workforce learning. Prices and CE not yet listed.",
+    "description": "Annual medical-education innovation conference from the AMA ChangeMedEd initiative, September 9\u201311, 2027 in Chicago, IL, covering medical-education innovation, coaching, competency-based education, and health-workforce learning. Prices and CE not yet listed.",
     "categories": [
       "Medical Education",
       "Faculty Development",
@@ -1024,7 +936,7 @@
       "Faculty",
       "Healthcare Professionals"
     ],
-    "date_display": "September 9–11, 2027",
+    "date_display": "September 9\u201311, 2027",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Chicago, IL",
@@ -1038,7 +950,7 @@
     "ce_types": [],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
-    "pathways_reason": "Annual medical-education innovation convening covering coaching, competency-based education, and educator development — core Pathways staff and faculty development territory.",
+    "pathways_reason": "Annual medical-education innovation convening covering coaching, competency-based education, and educator development \u2014 core Pathways staff and faculty development territory.",
     "official_url": "https://www.ama-assn.org/membership/events/changemeded-2027",
     "source_url": "https://www.ama-assn.org/membership/events/changemeded-2027",
     "verification": {
@@ -1051,7 +963,7 @@
     "id": "amia-symposium-2027",
     "title": "AMIA 2027 Annual Symposium",
     "organization": "American Medical Informatics Association",
-    "description": "Flagship five-day biomedical and health informatics meeting, November 6–10, 2027 in San Diego, CA (Hilton San Diego Bayfront), covering clinical informatics, AI, research informatics, implementation science, and governance. Prices and CE not yet listed.",
+    "description": "Flagship five-day biomedical and health informatics meeting, November 6\u201310, 2027 in San Diego, CA (Hilton San Diego Bayfront), covering clinical informatics, AI, research informatics, implementation science, and governance. Prices and CE not yet listed.",
     "categories": [
       "Health Informatics",
       "AI in Healthcare",
@@ -1069,7 +981,7 @@
       "Researchers",
       "Educators"
     ],
-    "date_display": "November 6–10, 2027",
+    "date_display": "November 6\u201310, 2027",
     "registration_deadline": null,
     "format": "In-person",
     "region": "San Diego, CA",
@@ -1083,7 +995,7 @@
     "ce_types": [],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
-    "pathways_reason": "Flagship informatics meeting spanning clinical AI, learning health systems, and research informatics — strong fit for the AI-in-healthcare and health-informatics discovery domains.",
+    "pathways_reason": "Flagship informatics meeting spanning clinical AI, learning health systems, and research informatics \u2014 strong fit for the AI-in-healthcare and health-informatics discovery domains.",
     "official_url": "https://amia.org/education-events/annual-symposium",
     "source_url": "https://amia.org/education-events/annual-symposium",
     "verification": {
@@ -1096,7 +1008,7 @@
     "id": "amia-amplify-informatics-2027",
     "title": "Amplify Informatics Conference 2027",
     "organization": "American Medical Informatics Association",
-    "description": "Informatics conference April 12–15, 2027 in Atlanta, GA (Hyatt Regency Atlanta), uniting the former Informatics Summit and Clinical Informatics Conference, with 1,100+ attendees expected. Prices and CE not yet listed.",
+    "description": "Informatics conference April 12\u201315, 2027 in Atlanta, GA (Hyatt Regency Atlanta), uniting the former Informatics Summit and Clinical Informatics Conference, with 1,100+ attendees expected. Prices and CE not yet listed.",
     "categories": [
       "Health Informatics",
       "AI in Healthcare"
@@ -1109,7 +1021,7 @@
       "Clinicians",
       "Researchers"
     ],
-    "date_display": "April 12–15, 2027",
+    "date_display": "April 12\u201315, 2027",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Atlanta, GA",
@@ -1123,55 +1035,13 @@
     "ce_types": [],
     "abstract_or_cfp": false,
     "pathways_relevance": "high",
-    "pathways_reason": "Consolidated AMIA informatics conference covering applied clinical informatics and AI implementation — relevant to the informatics and AI-in-healthcare discovery domains.",
+    "pathways_reason": "Consolidated AMIA informatics conference covering applied clinical informatics and AI implementation \u2014 relevant to the informatics and AI-in-healthcare discovery domains.",
     "official_url": "https://amia.org/education-events/amplify-informatics-conference",
     "source_url": "https://amia.org/education-events/amplify-informatics-conference",
     "verification": {
       "status": "verified",
       "last_verified": "2026-11-12",
       "verified_against": "Official AMIA Amplify Informatics Conference pages (rendered), checked 2026-11-12: upcoming conference Apr. 12-15, 2027, Atlanta, GA; venue page names Hyatt Regency Atlanta, 265 Peachtree St NE; hotel cutoff March 19, 2027; prices and CE not yet listed"
-    }
-  },
-  {
-    "id": "nih-r25-informational-webinar-2026",
-    "title": "NIH Research Educational Program (Parent R25) Informational Webinar",
-    "organization": "National Institutes of Health",
-    "description": "Free technical-assistance webinar for applicants to the NIH Research Educational Program (Parent R25), November 19, 2026, 2:00–3:00 PM ET, online. CE not listed.",
-    "categories": [
-      "Research",
-      "Faculty Development",
-      "Pathway Programs"
-    ],
-    "subcategories": [
-      "Research Education",
-      "Grant-Funded Programs"
-    ],
-    "audiences": [
-      "Researchers",
-      "Faculty",
-      "Program Staff"
-    ],
-    "date_display": "November 19, 2026, 2:00–3:00 PM ET",
-    "registration_deadline": null,
-    "format": "Online",
-    "region": "Online",
-    "distance_miles": null,
-    "cost": {
-      "amount": 0,
-      "currency": "USD",
-      "display": "Free"
-    },
-    "ce_available": false,
-    "ce_types": [],
-    "abstract_or_cfp": false,
-    "pathways_relevance": "medium",
-    "pathways_reason": "Funding-related learning for research-education programs; useful for program staff building pathway or research-training capacity.",
-    "official_url": "https://grants.nih.gov/news-events/calendar-of-events",
-    "source_url": "https://grants.nih.gov/news-events/calendar-of-events",
-    "verification": {
-      "status": "verified",
-      "last_verified": "2026-11-19",
-      "verified_against": "Official NIH grants calendar of events, checked 2026-11-19: November 19, 2026, 2:00-3:00 PM ET, virtual"
     }
   },
   {
@@ -1196,7 +1066,7 @@
       "Clinical Supervisors",
       "Counselor Educators"
     ],
-    "date_display": "November 20, 2026, 1:00–2:00 PM EST",
+    "date_display": "November 20, 2026, 1:00\u20132:00 PM EST",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online",
@@ -1502,7 +1372,7 @@
       "Student Success Professionals",
       "Researchers"
     ],
-    "date_display": "May 27–29, 2027",
+    "date_display": "May 27\u201329, 2027",
     "registration_deadline": "Call for proposals closed November 8, 2026; travel grant applications close November 30, 2026; travel grant recipients notified December 15, 2026; sponsor commitment deadline January 21, 2027; early bird registration opens January 28, 2027 and ends March 31, 2027; conference hotel block closes May 5, 2027; registration closes May 20, 2027",
     "format": "In-person",
     "region": "San Diego, CA (Westin San Diego Gaslamp Quarter)",
@@ -1614,7 +1484,7 @@
   },
   {
     "id": "aamc-designing-for-all-2026",
-    "title": "Foundations: Designing for All—Beyond UDL in Medical Education",
+    "title": "Foundations: Designing for All\u2014Beyond UDL in Medical Education",
     "organization": "Association of American Medical Colleges",
     "description": "Opening session of the seven-part Designing for All webinar series: a shared foundation in Universal Design for Learning (UDL) and how UDL principles can inform the design of learner-facing experiences across undergraduate medical education, from teaching and learning to communications, supports, and key transitions.",
     "categories": [
@@ -1723,7 +1593,7 @@
       "Program Leaders",
       "Student Success Professionals"
     ],
-    "date_display": "June 1–4, 2027",
+    "date_display": "June 1\u20134, 2027",
     "registration_deadline": null,
     "format": "In-person",
     "region": "San Antonio, TX",
@@ -1770,7 +1640,7 @@
       "Program Leaders",
       "Student Success Professionals"
     ],
-    "date_display": "June 8–11, 2027",
+    "date_display": "June 8\u201311, 2027",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Harrisburg, PA",
@@ -1816,7 +1686,7 @@
       "Nurses",
       "Case Managers"
     ],
-    "date_display": "December 15, 2026, 12:00–4:00 PM ET",
+    "date_display": "December 15, 2026, 12:00\u20134:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1863,7 +1733,7 @@
       "Social Workers",
       "Clinical Staff"
     ],
-    "date_display": "December 1 & 3, 2026, 9:00 AM–1:00 PM ET",
+    "date_display": "December 1 & 3, 2026, 9:00 AM\u20131:00 PM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1910,7 +1780,7 @@
       "Nurses",
       "Pharmacists"
     ],
-    "date_display": "December 8, 2026, 9:00–10:00 AM ET",
+    "date_display": "December 8, 2026, 9:00\u201310:00 AM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -1957,7 +1827,7 @@
       "HIV Care Providers",
       "Support Staff"
     ],
-    "date_display": "December 9, 2026, 9:00–10:00 AM ET",
+    "date_display": "December 9, 2026, 9:00\u201310:00 AM ET",
     "registration_deadline": null,
     "format": "Online",
     "region": "Online / Pennsylvania",
@@ -2048,7 +1918,7 @@
       "Faculty",
       "Program Leaders"
     ],
-    "date_display": "March 29–31, 2027",
+    "date_display": "March 29\u201331, 2027",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Lake Buena Vista, FL (Disney's Coronado Springs Resort)",
@@ -2118,7 +1988,7 @@
   },
   {
     "id": "aamc-vslo-residency-planning-2026",
-    "title": "From Away Rotations to Residency Planning: Using the VSLO® program and Residency Explorer™ tool Together",
+    "title": "From Away Rotations to Residency Planning: Using the VSLO\u00ae program and Residency Explorer\u2122 tool Together",
     "organization": "Association of American Medical Colleges",
     "description": "Interactive webinar for third-year medical students preparing for away rotations and beginning their residency application journey, covering the VSLO program and Residency Explorer tool together.",
     "categories": [
@@ -2271,7 +2141,7 @@
       "Physical Therapists",
       "Occupational Therapists"
     ],
-    "date_display": "February 15–16, 2027, 8:00 AM–4:00 PM EST",
+    "date_display": "February 15\u201316, 2027, 8:00 AM\u20134:00 PM EST",
     "registration_deadline": null,
     "format": "In-person",
     "region": "Scranton, PA",
@@ -2465,6 +2335,98 @@
       "status": "verified",
       "last_verified": "2026-11-19",
       "verified_against": "Official AACN conferences and webinars listing, checked 2026-11-19: March 22, 2027, Baltimore, MD; price and CE not listed"
+    }
+  },
+  {
+    "id": "aamc-core-leading-impact-virtual-w3-2026",
+    "title": "2026 AAMC CORE: Leading for Impact \u2014 Virtual Workshop 3: Implementing Strategy as a Leader",
+    "organization": "Association of American Medical Colleges",
+    "description": "Virtual workshop in the CORE Leading for Impact series for staff and faculty leaders: implementing strategy as a leader, with systems thinking, influencing others, and aligning goals with strategy. Two sessions, 1-4 p.m. ET each day.",
+    "categories": [
+      "Faculty Development",
+      "Medical Education",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Leadership Development",
+      "Organizational Culture",
+      "Strategic Planning"
+    ],
+    "audiences": [
+      "Faculty",
+      "Staff Leaders",
+      "Department Chairs",
+      "Administrators"
+    ],
+    "date_display": "December 1 & 3, 2026, 1:00-4:00 PM ET",
+    "registration_deadline": null,
+    "format": "Online",
+    "region": "Virtual",
+    "distance_miles": null,
+    "cost": {
+      "amount": 725,
+      "currency": "USD",
+      "display": "$725 per workshop"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "CME"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Leadership development for academic-medicine staff and faculty leaders; directly relevant to Pathways program leadership and faculty development.",
+    "official_url": "https://www.aamc.org/learn-network/leadership-development/core-programs/leading-impact",
+    "source_url": "https://www.aamc.org/learn-network/leadership-development/core-programs/leading-impact",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-20",
+      "verified_against": "Official AAMC CORE Leading for Impact page, checked 2026-11-20: Workshop 3 December 1 & 3, 2026, 1-4 p.m. ET; $725 per workshop; optional CME fee noted"
+    }
+  },
+  {
+    "id": "aamc-core-leading-impact-inperson-2027",
+    "title": "2027 AAMC CORE: Leading for Impact (In-Person Seminar)",
+    "organization": "Association of American Medical Colleges",
+    "description": "In-person CORE leadership seminar for staff and faculty leaders: shaping organizational culture, leading through change, and implementing strategy, with a contextualized, data-driven curriculum.",
+    "categories": [
+      "Faculty Development",
+      "Medical Education",
+      "Healthcare Education"
+    ],
+    "subcategories": [
+      "Leadership Development",
+      "Organizational Culture",
+      "Strategic Planning"
+    ],
+    "audiences": [
+      "Faculty",
+      "Staff Leaders",
+      "Department Chairs",
+      "Administrators"
+    ],
+    "date_display": "January 12-14, 2027",
+    "registration_deadline": null,
+    "format": "In-person",
+    "region": "Savannah, GA",
+    "distance_miles": null,
+    "cost": {
+      "amount": 3050,
+      "currency": "USD",
+      "display": "$3,050 early bird; $3,500 standard"
+    },
+    "ce_available": true,
+    "ce_types": [
+      "CME"
+    ],
+    "abstract_or_cfp": false,
+    "pathways_relevance": "high",
+    "pathways_reason": "Leadership development for academic-medicine staff and faculty leaders; directly relevant to Pathways program leadership and faculty development.",
+    "official_url": "https://www.aamc.org/learn-network/leadership-development/core-programs/leading-impact",
+    "source_url": "https://www.aamc.org/learn-network/leadership-development/core-programs/leading-impact",
+    "verification": {
+      "status": "verified",
+      "last_verified": "2026-11-20",
+      "verified_against": "Official AAMC CORE Leading for Impact page, checked 2026-11-20: January 12-14, 2027, Thompson Savannah by Hyatt, Savannah, GA; $3,050 early bird and $3,500 standard; optional CME fee noted"
     }
   }
 ]
